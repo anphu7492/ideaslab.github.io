@@ -4,8 +4,7 @@ title: Home
 
 # Your Lab Slogan
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/), with automatic citations, GitHub tag imports, pre-built components, and more.
-Spend less time reinventing the wheel, and more time running your lab.
+[IDEAS's](https://ideas.purdue.edu) research includes design and implementation of algebraic, geometric, and scientific algorithms and their applications to computer graphics, robotics, virtual environments, CAD/CAM, acoustics, pedestrian dynamics, and medical simulation. Some recent work includes combining these methods with machine learning, computer vision and physically-based modeling for Autonomous Driving, Affective Computing and Reconstructing Reality. In addition to publishing papers at the leading venues, we have a long history of developing software packages and transitioning our technology into industrial products.
 
 {%
   include link.html
