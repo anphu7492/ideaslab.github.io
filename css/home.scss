@@ -1,0 +1,14 @@
+---
+---
+
+@import "palettes";
+@import "theme";
+@import "mixins";
+
+.flex-container {
+    display: flex;
+}
+.social {
+    height: 500px;
+    overflow: scroll;
+}

@@ -2,11 +2,13 @@
 title: Home
 ---
 
-# Your Lab Slogan
+# Welcome to IDEAS Lab
 
-[IDEAS's](https://ideas.purdue.edu) research includes design and implementation of algebraic, geometric, and scientific algorithms and their applications to computer graphics, robotics, virtual environments, CAD/CAM, acoustics, pedestrian dynamics, and medical simulation. Some recent work includes combining these methods with machine learning, computer vision and physically-based modeling for Autonomous Driving, Affective Computing and Reconstructing Reality. In addition to publishing papers at the leading venues, we have a long history of developing software packages and transitioning our technology into industrial products.
+[IDEAS'](https://ideas.purdue.edu) (Intelligent Design for Empathetic and Augmented Systems) research includes design and implementation of algebraic, geometric, and scientific algorithms and their applications to computer graphics, robotics, virtual environments, CAD/CAM, acoustics, pedestrian dynamics, and medical simulation. Some recent work includes combining these methods with machine learning, computer vision and physically-based modeling for Autonomous Driving, Affective Computing and Reconstructing Reality. In addition to publishing papers at the leading venues, we have a long history of developing software packages and transitioning our technology into industrial products.
 
-{%
+{% include list.html component="card" data="tools" filters="group: home-thumbnails" style="medium" class="md-3" %}
+
+<!-- {%
   include link.html
   type="github"
   icon=""
@@ -22,7 +24,7 @@ title: Home
   link="https://github.com/greenelab/lab-website-template/wiki"
   style="button"
 %}
-{:.center}
+{:.center} -->
 
 {% include section.html full=true %}
 
@@ -30,9 +32,16 @@ title: Home
 
 {% include section.html %}
 
-# Highlights
+# Research highlights
 
-{% capture text %}
+{% include list.html 
+  data="citations" 
+  component="citation" 
+  filters="group: highlight"
+  style="rich" 
+%}
+
+<!-- {% capture text %}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
@@ -99,4 +108,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 %}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. -->
+
+# Follow us
+
+<div class="flex-container">
+  <div class="social md-6">
+    <a class="twitter-timeline" href="https://twitter.com/anikbera?ref_src=twsrc%5Etfw">Tweets by anikbera</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  </div>
+  <!-- <div class="md-6">Sth else</div> -->
+</div>

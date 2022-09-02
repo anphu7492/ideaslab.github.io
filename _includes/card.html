@@ -1,5 +1,7 @@
 {%- if include.style == "small" -%}
   {%- assign width = 200 -%}
+{%- else if include.style == "medium" -%}
+  {%- assign width = 250 -%}
 {%- else -%}
   {%- assign width = 350 -%}
 {%- endif -%}
@@ -13,7 +15,8 @@
 {%- endif -%}
 
 {::nomarkdown}
-<span class="card" style="--width: {{ width }}px">
+
+<span class="card {{ class }}" style="--width: {{ width }}px">
   <{{ tag }} href="{{ include.link | relative_url }}" class="card_image">
     <img
       src="{{ include.image | relative_url }}"
@@ -34,7 +37,7 @@
   {%- endif -%}
 
   {%- if include.description -%}
-    {{- include.description | markdownify -}}
+    <span class="description">{{- include.description -}}</span>
   {%- endif -%}
 
   {%- if include.tags or include.repo -%}

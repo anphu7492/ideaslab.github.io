@@ -13,16 +13,16 @@
   - Aniket Bera
   - Dinesh Manocha
   publisher: arXiv preprint arXiv:2207.07165
+  group: recent
   date: '2022-07-14'
+  year: 2022
   link: https://arxiv.org/pdf/2207.07165.pdf
   image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  extra-links:
-  - type: manubot
-    link: https://greenelab.github.io/knowledge-graph-review/
   tags:
   - emotion contagion
   - dynamic graphs
   _cache: 371e391cc663116136dc43f4c93ebdc2998f52a3abd67c7add918c3b9f4f98d9
+
 - id: doi:10.1371/journal.pcbi.1007128
   title: Learning unseen emotions from gestures via semantically-conditioned zero-shot perception with adversarial autoencoders
   authors:
@@ -30,41 +30,123 @@
   - Uttaran Bhattacharya
   - Aniket Bera
   publisher: Proceedings of the AAAI Conference on Artificial Intelligence
+  group: highlight
   date: '2022-06-28'
+  year: 2022
   link: https://aaai-2022.virtualchair.net/poster_aaai10434
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  repo: greenelab/meta-review
-  extra-links:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
+  image: /images/papers/zeroshot.gif
+  # repo: greenelab/meta-review
   _cache: 9b4d326347b4c43474de520edff579266c3c490e1baf4a2074ea151d6c90e318
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+
+- id: doi:10.1109/VR51125.2022.00061
+  title: "ENI: Quantifying Environment Compatibility for Natural Walking in Virtual Reality"
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  - Niall L Williams
+  - Aniket Bera
+  - Dinesh Manocha
+  publisher: 2022 IEEE Conference on Virtual Reality and 3D User Interfaces (VR)
+  date: '2022-03-12'
+  link: https://ieeexplore.ieee.org/document/9756769
+  image: images/papers/ENI.jpg
   extra-links:
   - type: preprint
     link: https://doi.org/10.7287/peerj.preprints.3100v1
-  - type: manubot
-    link: https://greenelab.github.io/scihub-manuscript/
-  - type: source
-    link: https://github.com/greenelab/scihub-manuscript
-    text: Manuscript source
+  # - type: manubot
+  #   link: https://greenelab.github.io/scihub-manuscript/
+  # - type: source
+  #   link: https://github.com/greenelab/scihub-manuscript
+  #   text: Manuscript source
   - type: source
     link: https://github.com/greenelab/scihub
     text: Analyses source
   _cache: 1510c88d1d7cdb29f090da47b0903118fa57243de166541c8ff31c614fc05604
+
+- id: 3MASSIV
+  title: "3MASSIV: Multilingual, Multimodal and Multi-Aspect Dataset of Social Media Short Videos"
+  authors:
+  - Vikram Gupta
+  - Trisha Mittal
+  - Puneet Mathur
+  - Vaibhav Mishra
+  - Mayank Maheshwari
+  - Aniket Bera
+  - Debdoot Mukherjee
+  - Dinesh Manocha
+  publisher: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+  group: recent
+  date: '2022-06-01'
+  year: 2022
+  link: https://openaccess.thecvf.com/content/CVPR2022/papers/Gupta_3MASSIV_Multilingual_Multimodal_and_Multi-Aspect_Dataset_of_Social_Media_Short_CVPR_2022_paper.pdf
+  image: /images/papers/3MASSIV.JPG
+
+- id: TeleEngage
+  title: "TeleEngage: A Multimodal Semi-Supervised Approach to Measure Engagement for Telemental Health"
+  authors:
+  - Pooja Guhan
+  - Naman Awasthi
+  - Ritwika Das
+  - Manas Agarwal
+  - Kathryn McDonald
+  - Kristin Bussell
+  - Gloria Reeves
+  - Dinesh Manocha
+  - Aniket Bera
+  publisher: 
+  group: recent
+  date: '2021-01-01'
+  year: 2021
+  link: 
+  image: 
+
+- id: DOI:10.1109/FG52635.2021.9667034
+  title: "Contextual emotion learning challenge"
+  authors:
+  - Jainendra Shukla, Puneet Gupta, Aniket Bera, Arka Sarkar, Prakhar Goel, Shubhangi Butta, Anup Kumar Gupta, Snehil Sanyal, Debanga Rai Neog, MK Bhuyan, Kalyani Marathe, Linda Shapiro, Alex Colbrn, Varchita Lalwani
+  publisher: 2021 16th IEEE International Conference on Automatic Face and Gesture Recognition (FG 2021)
+  group: recent
+  date: '2021-12-15'
+  year: 2021
+  link: https://ieeexplore.ieee.org/iel7/9666787/9666788/09667034.pdf
+  image: 
+  
+- id: DOI:10.1109/TVCG.2021.3106432
+  title: "Redirected Walking in Static and Dynamic Scenes Using Visibility Polygons"
+  authors:
+  - Niall L. Williams
+  - Aniket Bera
+  - Dinesh Manocha
+  publisher: IEEE Transactions on Visualization and Computer Graphics
+  group: highlight
+  date: '2022-06-12'
+  year: 2022
+  link: https://api.semanticscholar.org/CorpusID:235422600
+  image: images/papers/rdwvis.gif
+
+- id: DOI:10.1109/ICRA48506.2021.9561983
+  title: "Can a Robot Trust You? A DRL-Based Approach to Trust-Driven Human-Guided Navigation"
+  authors:
+  - Vishnu Sashank Dorbala
+  - Arjun Srinivasan Ambalam
+  - Aniket Bera
+  publisher: ICRA 2021
+  group: highlight
+  date: '2021-10-18'
+  year: 2021
+  link: https://ieeexplore.ieee.org/abstract/document/9561983
+  image: images/papers/robotrust.gif
+
+- id: DOI:10.1109/VR50410.2021.00037
+  title: "Text2Gestures: A Transformer-Based Network for Generating Emotive Body Gestures for Virtual Agents"
+  authors:
+  - Uttaran Bhattacharya
+  - Nicholas Rewkowski
+  - Abhishek Banerjee
+  - Pooja Guhan
+  - Aniket Bera
+  - Dinesh Manocha
+  publisher: IEEE VR 2020
+  group: highlight
+  date: '2021-05-10'
+  year: 2021
+  link: https://ieeexplore.ieee.org/abstract/document/9417647
+  image: images/papers/t2g.gif

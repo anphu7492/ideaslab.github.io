@@ -40,6 +40,7 @@
 
   {%- assign link = d.link | default: d.url -%}
   {%- assign style = d.style | default: include.style -%}
+  {%- assign class = d.class | default: include.class -%}
 
   {%-
     include {{ component }}
@@ -60,6 +61,7 @@
     role=d.role
     slug=d.slug
     style=style
+    class=class
     subtitle=d.subtitle
     tags=d.tags
     title=d.title
