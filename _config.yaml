@@ -11,11 +11,11 @@ baseurl: /
 # site social media and other links
 links:
   email: ab@cs.purdue.edu
-  google-scholar: Jane Smith
   github: your-lab
-  twitter: YourLabHandle
-  instagram: YourLabHandle
-  youtube: YourLabChannel
+  twitter: anikbera
+  # google-scholar: Jane Smith
+  # instagram: YourLabHandle
+  # youtube: YourLabChannel
 
 ### advanced settings
 

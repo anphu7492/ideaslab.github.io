@@ -32,58 +32,59 @@ IDEAS's research includes design and implementation of algebraic, geometric, and
 %}
 {:.center}
 
-{% include section.html background="images/banner.jpg" dark=true%}
+{% include section.html background="images/banner.png" dark=true%}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include section.html %}
 
-## Join
+## Join us
 
 #### Post Dogtoral Researcher
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+I'm hiring multiple Postdoctoral Research Associates in the interdisciplinery areas of AI, affective computing, computer graphics and multi-agent planning. Please send me an email with your resume. [Advertisment link here!](https://www.cs.purdue.edu/homes/ab/postdoc.pdf)
 
-- 3+ (dog) years experience managing bone portfolios
-- Strong desire to learn tricks and go on walkies
-- Aptitude to sit and stay
+#### Graduate students
 
-{% include link.html type="external" link="https://google.com/" text="Apply Now" icon="" style="button" %}
-{:.center}
+If you're looking for graduate admissions (MS/PhD) , please email me and apply to the Purdue CS. Please note that all admission decisions are taken by the committee.
+
+If you're already a student at Purdue, the best way to increase the chances of a response to an e-mail is to read one of my recent papers and include a concise paragraph with the benefits and drawbacks of the main idea as well as possible improvements you'd be interested to try and send me an email with your CV and background.
+
+<!-- {% include link.html type="external" link="https://google.com/" text="Apply Now" icon="" style="button" %}
+{:.center} -->
 
 {% include section.html %}
 
-## Funding
+## Funding agencies and collaborators
 
 Our work is made possible by funding from several organizations.
 {:.center}
 
 {%
   include gallery.html
-  style="square"
+  style="rect"
+  image1="images/funding/arl.png"
+  tooltip1="Army Research Laboratory"
 
-  image1="images/photo.jpg"
-  link1="https://nasa.gov/"
-  tooltip1="Cool Foundation"
+  image2="images/funding/BBI.png"
+  tooltip2="Brain and Behavior Initiative"
 
-  image2="images/photo.jpg"
-  link2="https://nasa.gov/"
-  tooltip2="Cool Institute"
+  image3="images/funding/Boeing.png"
+  tooltip3="Boeing"
 
-  image3="images/photo.jpg"
-  link3="https://nasa.gov/"
-  tooltip3="Cool Initiative"
+  image4="images/funding/disney.png"
+  tooltip4="Disney Research"
 
-  image4="images/photo.jpg"
-  link4="https://nasa.gov/"
-  tooltip4="Cool Foundation"
+  image5="images/funding/dod.png"
+  tooltip5="Department of Defense"
 
-  image5="images/photo.jpg"
-  link5="https://nasa.gov/"
-  tooltip5="Cool Institute"
+  image6="images/funding/intel.png"
+  tooltip6="Intel"
 
-  image6="images/photo.jpg"
-  link6="https://nasa.gov/"
-  tooltip6="Cool Initiative"
+  image7="images/funding/nist.png"
+  tooltip7="National Institute of Standards and Technology"
+
+  image8="images/funding/nsf.png"
+  tooltip8="National Science Foundation"
 %}

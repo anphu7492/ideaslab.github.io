@@ -1,33 +1,52 @@
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  date: 2020-6-2
-  extra-links:
-    - type: manubot
-      link: https://greenelab.github.io/knowledge-graph-review/
+- id: arXiv:2207.07165
+  image: /images/papers/emotion_contagion.jpeg
+  date: '2022-07-14'
   tags:
-    - knowledge graphs
+    - emotion contagion
+    - dynamic graphs
 
-- id: doi:10.1371/journal.pcbi.1007128
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  repo: greenelab/meta-review
+- id: arXiv:2009.08906
+  image: /images/papers/zeroshot.gif
+  group: highlight
+  repo: https://github.com/abhibaner/ZSLEmotFromGait
   extra-links:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
     - type: source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
-
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+      link: https://github.com/abhibaner/ZSLEmotFromGait
+      text: Code
+    
+- id: doi:10.1109/VR51125.2022.00061
+  image: images/papers/ENI.jpg
   extra-links:
     - type: preprint
-      link: https://doi.org/10.7287/peerj.preprints.3100v1
-    - type: manubot
-      link: https://greenelab.github.io/scihub-manuscript/
+      link: https://arxiv.org/abs/2201.01261
+    # - type: manubot
+    #   link: https://greenelab.github.io/scihub-manuscript/
     - type: source
-      link: https://github.com/greenelab/scihub-manuscript
-      text: Manuscript source
-    - type: source
-      link: https://github.com/greenelab/scihub
-      text: Analyses source
+      link: https://github.com/niallw/ENI
+      text: Code
+
+- id: doi:10.1109/FG52635.2021.9667034
+  date: '2021-12-15'
+  year: 2021
+  link: https://ieeexplore.ieee.org/iel7/9666787/9666788/09667034.pdf
+
+- id: doi:10.1109/TVCG.2021.3106432
+  group: highlight
+  date: '2022-06-12'
+  year: 2022
+  link: https://api.semanticscholar.org/CorpusID:235422600
+  image: images/papers/rdwvis.gif
+
+- id: doi:10.1109/ICRA48506.2021.9561983
+  group: highlight
+  date: '2021-10-18'
+  year: 2021
+  link: https://ieeexplore.ieee.org/abstract/document/9561983
+  image: images/papers/robotrust.gif
+
+- id: doi:10.1109/VR50410.2021.00037
+  group: highlight
+  date: '2021-05-10'
+  year: 2021
+  link: https://ieeexplore.ieee.org/abstract/document/9417647
+  image: images/papers/t2g.gif

@@ -28,7 +28,7 @@ title: Home
 
 {% include section.html full=true %}
 
-{% include banner.html image="images/banner.jpg" %}
+{% include banner.html image="images/banner1.jpg" %}
 
 {% include section.html %}
 
@@ -114,7 +114,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 <div class="flex-container">
   <div class="social md-6">
-    <a class="twitter-timeline" href="https://twitter.com/anikbera?ref_src=twsrc%5Etfw">Tweets by anikbera</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    <a class="twitter-timeline" href="https://twitter.com/anikbera?ref_src=twsrc%5Etfw" data-height="700" data-width="400">Tweets by anikbera</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
   </div>
   <!-- <div class="md-6">Sth else</div> -->
 </div>
