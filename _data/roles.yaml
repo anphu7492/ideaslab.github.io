@@ -1,5 +1,5 @@
 pi:
-  icon: fas fa-microscope
+  icon: fas fa-user-tie
   text: Principal Investigator
 
 postdoc:
@@ -7,8 +7,12 @@ postdoc:
   text: Postdoctoral Researcher
 
 phd:
-  icon: fas fa-graduation-cap
+  icon: fas fa-user-graduate
   text: PhD Student
+
+ms:
+  icon: fas fa-user-graduate
+  text: Master Student
 
 undergrad:
   icon: fas fa-user-graduate

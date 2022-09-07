@@ -5,8 +5,19 @@
 @import "theme";
 @import "mixins";
 
+.flex-inline {
+  display: inline-flex;
+  max-width: 100%;
+}
+
 .md-6 {
   display: inline-block;
   width: 50%;
   padding: 10px;
+}
+
+@media (max-width: $phone) {
+  .md-6 {
+    width: 100%;
+  }
 }

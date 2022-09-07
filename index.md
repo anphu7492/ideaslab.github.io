@@ -112,9 +112,12 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 # Follow us
 
-<div class="flex-container">
-  <div class="social md-6">
-    <a class="twitter-timeline" href="https://twitter.com/anikbera?ref_src=twsrc%5Etfw" data-height="700" data-width="400">Tweets by anikbera</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{% capture col1 %}
+  <div class="social">
+    <a class="twitter-timeline" href="https://twitter.com/anikbera?ref_src=twsrc%5Etfw" data-height="700" data-width="350">Tweets by anikbera</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
   </div>
-  <!-- <div class="md-6">Sth else</div> -->
-</div>
+{% endcapture %}
+{% capture col2 %}
+
+{% endcapture %}
+{% include two-col.html col1=col1 col2=col2 %}

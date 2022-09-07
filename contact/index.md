@@ -2,7 +2,7 @@
 title: Contact
 nav:
   order: 6
-  tooltip: Email, address, and location
+  # tooltip: Email, address, and location
 ---
 
 # <i class="fas fa-envelope"></i>Contact
@@ -16,7 +16,6 @@ We are located on the 1st floor of the [Felix Haas Hall](https://www.cs.purdue.e
   type="email"
   icon=""
   text="aniketbera@purdue.edu"
-  tooltip=""
   link="aniketbera@purdue.edu"
   style="button"
 %}
@@ -24,9 +23,8 @@ We are located on the 1st floor of the [Felix Haas Hall](https://www.cs.purdue.e
   include link.html
   type="phone"
   icon=""
-  text="(555) 867-5309"
-  tooltip=""
-  link="+1-555-867-5309"
+  text="(301) 405-4209"
+  link="+1-301-405-4209"
   style="button"
 %}
 <!-- {%
@@ -46,10 +44,13 @@ We are located on the 1st floor of the [Felix Haas Hall](https://www.cs.purdue.e
 
 IDEAS Lab \\
 Haas 175, 250 N University St, \\
-West Lafayette, IN 47907 \\
-US
+West Lafayette, \\
+IN 47907, US
 {:.center}
 
+<div class="flex-inline">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1650.3090576996738!2d-86.91784613895152!3d40.42683678613466!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8812e2b3ea0869c9%3A0xe75c6b7828bf42f8!2sFelix%20Haas%20Hall!5e0!3m2!1sen!2sus!4v1662572207578!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
 <!-- {% capture col1 %}
 {%
   include figure.html

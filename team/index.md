@@ -2,7 +2,7 @@
 title: Team
 nav:
   order: 3
-  tooltip: About our team
+  # tooltip: About our team
 ---
 
 # <i class="fas fa-users"></i>Team
@@ -12,23 +12,31 @@ IDEAS's research includes design and implementation of algebraic, geometric, and
 
 {% include section.html %}
 
+### Faculty
+
 {%
   include list.html
   data="members"
   component="portrait"
   filters="role: pi"
 %}
+
+
+### Graduate students
+
 {%
   include list.html
   data="members"
   component="portrait"
   filters="role: phd"
 %}
+
+
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: programmer"
+  filters="role: undergrad"
 %}
 {:.center}
 
@@ -82,7 +90,7 @@ Our work is made possible by funding from several organizations.
   image6="images/funding/intel.png"
   tooltip6="Intel"
 
-  image7="images/funding/nist.png"
+  image7="images/funding/NIST.png"
   tooltip7="National Institute of Standards and Technology"
 
   image8="images/funding/nsf.png"

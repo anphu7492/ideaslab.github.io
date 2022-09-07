@@ -14,7 +14,7 @@ layout: default
   {%- for entry in page.links -%}
     {%- assign key = entry[0] -%}
     {%- assign value = entry[1] -%}
-    {%- include link.html type=key icon="" text="" tooltip="" link=value -%}
+    {%- include link.html type=key icon="" text="" link=value -%}
   {%- endfor -%}
 </p>
 
