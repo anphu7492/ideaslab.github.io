@@ -42,8 +42,8 @@ IDEAS's research includes design and implementation of algebraic, geometric, and
 
 {% include section.html background="images/banner.png" dark=true%}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+IDEAS is an intellectually diverse, multi-disciplinary research lab. We conduct basic and applied research in different areas that are relevant to industrial and societal tasks.
+{:.center}
 
 {% include section.html %}
 

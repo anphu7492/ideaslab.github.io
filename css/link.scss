@@ -6,7 +6,7 @@
 @import "mixins";
 
 a {
-  color: $accent;
+  color: $dark-amber;
   transition: color $fast;
 }
 
@@ -44,7 +44,7 @@ a:hover {
     margin: 10px;
     padding: 5px 10px;
     border-radius: 5px;
-    background: $accent;
+    background: $dark-amber;
     color: $white;
 
     &:hover {
