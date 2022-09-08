@@ -12,7 +12,7 @@ IDEAS's research includes design and implementation of algebraic, geometric, and
 
 {% include section.html %}
 
-### Faculty
+### Principle investigator
 
 {%
   include list.html

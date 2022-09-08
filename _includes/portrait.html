@@ -24,9 +24,11 @@
   {%- assign placeholder = "images/placeholder.svg" | relative_url -%}
 
   {%- assign role = member.role | default: "" -%}
+  {% comment %}
   {%- if role -%}
     {%- include role.html type=role -%}
   {%- endif -%}
+  {% endcomment %}
   
   {%- assign name = member.name | default: "" -%}
   {%- assign image = member.image | default: "" -%}
