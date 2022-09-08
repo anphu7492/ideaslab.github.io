@@ -22,13 +22,22 @@ IDEAS's research includes design and implementation of algebraic, geometric, and
 %}
 
 
-### Graduate students
+### PhD students
 
 {%
   include list.html
   data="members"
   component="portrait"
   filters="role: phd"
+%}
+
+### MS students
+
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: ms"
 %}
 
 

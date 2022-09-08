@@ -2,7 +2,7 @@
 name: Hrishikesh Viswanath
 description: Incoming PHD Student
 image: /images/members/hrishi.jpg
-role: phd
+role: ms
 aliases:
   - Rishi
 links:
@@ -12,7 +12,7 @@ links:
   twitter: hrishivish23
 ---
 
-I am an incoming PHD student at IDEAS Lab. My research interests are to work on optimization of AI models, the integration of reliable AI methods into computer graphics, robotics and computer vision applications to accelerate their performance. Broadly put, I want to answer two important research questions – "How can we make AI more explainable and trustworthy?" and "How can we apply AI to solve problems that are difficult to solve using conventional methods?" 
+I am an incoming PhD student at IDEAS Lab. My research interests are to work on optimization of AI models, the integration of reliable AI methods into computer graphics, robotics and computer vision applications to accelerate their performance. Broadly put, I want to answer two important research questions – "How can we make AI more explainable and trustworthy?" and "How can we apply AI to solve problems that are difficult to solve using conventional methods?" 
 
 I am currently exploring the applications of Physics informed Machine Learning techniques for realistic motion synthesis. 
 
