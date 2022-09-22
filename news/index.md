@@ -1,7 +1,7 @@
 ---
 title: News
 nav:
-  order: 2
+  order: 3
 ---
 
 # <i class="fas fa-bullhorn"></i>Latest news

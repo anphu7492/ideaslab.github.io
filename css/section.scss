@@ -15,7 +15,9 @@ body {
 body {
   display: flex;
   flex-direction: column;
-  font-family: $garamond;
+  // font-family: $garamond;
+  // font-size: 1.2em;
+  font-family: $mont;
 
   main {
     display: flex;

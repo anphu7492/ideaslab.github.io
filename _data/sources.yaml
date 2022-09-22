@@ -1,12 +1,14 @@
 - id: arXiv:2207.07165
   image: /images/papers/emotion_contagion.jpeg
   date: '2022-07-14'
+  category: emotion-recognition
   tags:
     - emotion contagion
     - dynamic graphs
 
 - id: arXiv:2009.08906
   image: /images/papers/zeroshot.gif
+  category: emotion-recognition
   group: highlight
   repo: https://github.com/abhibaner/ZSLEmotFromGait
   extra-links:
@@ -45,6 +47,7 @@
   image: images/papers/robotrust.gif
 
 - id: doi:10.1109/VR50410.2021.00037
+  category: ar-vr
   group: highlight
   date: '2021-05-10'
   year: 2021

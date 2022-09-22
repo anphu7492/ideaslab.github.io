@@ -6,7 +6,7 @@ role: ms
 aliases:
   - Yun-Yi Chiu
 links:
-  home-page: https://www.linkedin.com/in/mauricechiu/
+  linkedin: mauricechiu
   email: chiu93@purdue.edu
 ---
 Maurice Chiu is a Master's Student of Computer Science at Purdue University. His current focus is on studying how robots could be more socially compliant, especially in crowded environments or when robot agents and humans collaborate in the same space. His core interests are in Multi-Agent Systems and Autonomous Agents. 

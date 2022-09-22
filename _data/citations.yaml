@@ -17,10 +17,11 @@
   date: '2022-07-14'
   link: https://arxiv.org/abs/2207.07165
   image: /images/papers/emotion_contagion.jpeg
+  category: emotion-recognition
   tags:
   - emotion contagion
   - dynamic graphs
-  _cache: 693a6f05ed45ce9030ac4114f8cd755b0ee096694791850a62bc8e7a456262a5
+  _cache: 8ba15de59266deb2de800913cdd2dc99c0fb256f7db61d596541bb9e0fee2575
 - id: arXiv:2009.08906
   title: Learning Unseen Emotions from Gestures via Semantically-Conditioned Zero-Shot
     Perception with Adversarial Autoencoders
@@ -32,13 +33,14 @@
   date: '2021-12-03'
   link: https://arxiv.org/abs/2009.08906
   image: /images/papers/zeroshot.gif
+  category: emotion-recognition
   group: highlight
   repo: https://github.com/abhibaner/ZSLEmotFromGait
   extra-links:
   - type: source
     link: https://github.com/abhibaner/ZSLEmotFromGait
     text: Code
-  _cache: 2a84e4e5ddc8fead92b252d5552cfed6c6a5dd38599ceaa84fc84231652c04ea
+  _cache: 2a322a16ced7dc5584bc27fc8ced14c27d825b84374d07b0901bae13404e4050
 - id: doi:10.1109/VR51125.2022.00061
   title: 'ENI: Quantifying Environment Compatibility for Natural Walking in Virtual
     Reality'
@@ -120,7 +122,8 @@
   publisher: 2021 IEEE Virtual Reality and 3D User Interfaces (VR)
   date: '2021-05-10'
   link: https://ieeexplore.ieee.org/abstract/document/9417647
+  category: ar-vr
   group: highlight
   year: 2021
   image: images/papers/t2g.gif
-  _cache: b0865e674e3cf69ec717590cb91e789cca570675db58e18ed54cba9e52f4bb48
+  _cache: 2eaf5ac72a0157772506359a8bcdb7aae0116b2d22b5ff72cf91a835299bb8c0

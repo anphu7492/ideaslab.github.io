@@ -1,7 +1,7 @@
 ---
 title: Tools
-nav:
-  order: 5
+# nav:
+  # order: 5  # comment out to hide
   # tooltip: Software, datasets, and more
 ---
 

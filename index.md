@@ -1,5 +1,7 @@
 ---
 title: Home
+nav:
+  order: 1
 ---
 
 # Welcome to IDEAS Lab
@@ -28,7 +30,16 @@ title: Home
 
 {% include section.html full=true %}
 
-{% include banner.html image="images/banner1.jpg" %}
+<div class="glider-contain">
+  <div class="glider">
+    <div><img src="images/banner1.jpg"></div>
+    <div><img src="images/banner1.jpg"></div>
+    <div><img src="images/banner1.jpg"></div>
+  </div>
+
+  <div role="tablist" class="dots"></div>
+</div>
+<!-- {% include banner.html image="images/banner1.jpg" %} -->
 
 {% include section.html %}
 
