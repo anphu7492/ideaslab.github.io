@@ -32,8 +32,8 @@ nav:
 
 <div class="glider-contain">
   <div class="glider">
-    <div><img src="images/banner1.jpg"></div>
-    <div><img src="images/banner1.jpg"></div>
+    <div><img src="images/background.jpg"></div>
+    <div><img src="images/background-footer.jpg"></div>
     <div><img src="images/banner1.jpg"></div>
   </div>
 
