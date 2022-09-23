@@ -3,7 +3,7 @@
 # site properties and page defaults
 title: IDEAS Lab
 description: IDEAS research lab at Purdue
-logo: images/logo.svg
+logo: images/logo.png
 header: images/background.jpg
 footer: images/background-footer.jpg
 baseurl: /
