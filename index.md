@@ -8,7 +8,7 @@ nav:
 
 [IDEAS'](https://ideas.purdue.edu) (Intelligent Design for Empathetic and Augmented Systems) research includes design and implementation of algebraic, geometric, and scientific algorithms and their applications to computer graphics, robotics, virtual environments, CAD/CAM, acoustics, pedestrian dynamics, and medical simulation. Some recent work includes combining these methods with machine learning, computer vision and physically-based modeling for Autonomous Driving, Affective Computing and Reconstructing Reality. In addition to publishing papers at the leading venues, we have a long history of developing software packages and transitioning our technology into industrial products.
 
-{% include list.html component="card" data="tools" filters="group: home-thumbnails" style="medium" class="md-3" %}
+{% include list.html component="card" data="tools" filters="group: home-thumbnails" style="medium" class="thumbnails md-3" %}
 
 <!-- {%
   include link.html

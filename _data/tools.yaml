@@ -48,18 +48,18 @@
 
 - title: Read the news
   group: home-thumbnails
-  image: images/home/news-thumbnail.jpeg
+  image: images/home/news-thumbnail.png
   link: /news
   # description: Stay current with news, stories, and events around the IDEAS Lab.
 
 - title: Research
   group: home-thumbnails
-  image: images/home/research-thumbnail.jpeg
+  image: images/home/research-thumbnail.png
   link: /research
   # description: Our recent research on affective computing, computer graphics, social robotics, cognitive modeling and planning for intelligent characters.
 
 - title: Media coverage
   group: home-thumbnails
-  image: images/home/media-thumbnail.jpeg
+  image: images/home/media-thumbnail.png
   link: /research
   # description: IDEAS on the news
