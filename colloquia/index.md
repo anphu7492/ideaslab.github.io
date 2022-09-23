@@ -1,7 +1,7 @@
 ---
 title: Colloquia
 nav:
-  order: 6
+  # order: 6
 ---
 
 # <i class="fas fa-users"></i>Colloquia
