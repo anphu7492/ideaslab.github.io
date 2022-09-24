@@ -16,6 +16,10 @@ header {
   background: $gray-800;
   box-shadow: $shadow;
 
+  a:hover {
+    color: $purdue-campus-gold;
+  }
+
   & * {
     font-family: $sans;
   }

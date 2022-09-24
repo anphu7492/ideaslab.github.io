@@ -10,10 +10,12 @@ nav:
 IDEAS's research includes design and implementation of scientific algorithms and their applications to computer graphics, robotics, virtual environments, pedestrian dynamics, and mental health research. In addition to publishing papers at the leading venues, we have a long history of developing software packages and transitioning our technology into industrial products. Current and previous areas of research are highlighted below:
 
 #### Current Research (Alphabetically)
+* [AI in Mental Health](/research/ai-mental-health)
 * [Affective Computing (Perception and Prediction)](/research/affective)
-* [Metaverse and AR/VR](https://gamma.umd.edu/researchdirections/metaverse/)
+* [Metaverse and AR/VR](/research/metaverse/)
 * [Computer Graphics](/research/graphics)
 * [Robotics: Single and Multi-Robot Motion Planning, Social Robotics](/research/robotics)
+
 
 #### Previous Research (Alphabetically)
 * Autonomous Driving: Simulation and Navigation
