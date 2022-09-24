@@ -5,7 +5,7 @@ nav:
 ---
 
 {% include section.html full=true %}
-<video autoplay loop>
+<video autoplay loop muted id="home-vid">
   <source src="/images/sequence.mp4" type="video/mp4">
 </video>
 
