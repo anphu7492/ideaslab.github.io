@@ -1,7 +1,7 @@
 ---
 title: About
 nav:
-  order: 8
+#   order: 8
 ---
 
 # <i class="fas fa-users"></i>About us

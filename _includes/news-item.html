@@ -1,0 +1,7 @@
+{%- assign date = include.date -%}
+{%- assign content = include.content -%}
+
+<div class="news-item">
+    <div class="date">{{ date | date: "%d %b %Y" }}</div>
+    <div class="content">{{ content }}</div>
+</div>

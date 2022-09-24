@@ -1,14 +1,15 @@
 ---
-name: Ashiqur Md Rahman
+name: Md Ashiqur Rahman
 image: images/members/ashiq.jpg
-description: PhD student
+description: PhD Student
 role: phd
 aliases:
   - Ashiq
 links:
-  orcid: 0000-0001-8713-9213
+  home-page: https://sites.google.com/view/ashiqurrahman/home
   email: rahman79@purdue.edu
-  <!-- twitter: uptonogoode -->
+  google-scholar: 
+  twitter: 
 ---
 
-Ashiq bio goes here.
+My research interest lies in machine learning,  especially operator learning, AI for scientific discovery, and computer vision. Previously I also worked in bioinformatics, investigating large-scale genomics data. I love to teach, learn, and listen.
