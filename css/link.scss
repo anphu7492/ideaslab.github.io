@@ -8,10 +8,11 @@
 a {
   color: $dark-amber;
   transition: color $fast;
+  text-decoration: none;
 }
 
 a:hover {
-  color: currentColor;
+  color: $blue-a400;
 }
 
 .link {
