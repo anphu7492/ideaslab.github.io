@@ -4,6 +4,12 @@ nav:
   order: 1
 ---
 
+{% include section.html full=true %}
+<video autoplay loop>
+  <source src="/images/sequence.mp4" type="video/mp4">
+</video>
+
+{% include section.html full=false %}
 # Welcome to IDEAS Lab
 
 Welcome to the interdisciplinary research lab, [IDEAS](https://ideas.purdue.edu) (*Intelligent Design for Empathetic and Augmented Systems*) at Purdue Computer Science. Our research includes the design and implementation of scientific algorithms leveraging the "human in the loop" and their applications to computer graphics, robotics, AI, virtual environments, augmented intelligence, pedestrian and crowd dynamics, and medical / healthcare research.

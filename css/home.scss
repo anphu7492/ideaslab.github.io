@@ -9,6 +9,12 @@
     display: flex;
 }
 
+.background {
+    video {
+        width: 100%;
+    }
+}
+
 .thumbnails {
     .card_image {
         box-shadow: none;
