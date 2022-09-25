@@ -3,16 +3,14 @@ name: Phu Pham
 image: images/members/phupham.jpg
 description: PhD student
 role: phd
-<!-- group: alum -->
+# group: alum
 aliases:
-  - F. Cited
-  - F Cited
+  - Phu
 links:
-  <!-- home-page: felixcited.com -->
   email: pham84@purdue.edu
   twitter: anphu1225
 ---
 
-Phu is a Ph.D. student in the Department of Computer Science at Purdue University. I'm broadly interested in machine learning (deep learning, reinforcement learning) and robotics. My recent work focused on developing deep neural network architectures for machine translation, object detection, and image captioning.
+Phu is a Ph.D. student in the Department of Computer Science at Purdue University. He is broadly interested in AI and machine learning, especially computer vision, NLP and robotics. His recent work focused on developing deep neural network architectures for machine translation, object detection, and image captioning.
 
-Previously, I received an M.Sc. in Big data and large-scale computing and a minor in machine learning and data mining. I also earned my B.E. in Information Technology and have 4.5 years of working experience.
+Previously, he received an M.Sc. in Big data and large-scale computing with a minor in machine learning and data mining from Aalto University, Finland.
