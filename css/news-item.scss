@@ -18,6 +18,17 @@
         background-color: $purdue-gold;
         font-size: 0.8em;
         font-weight: bold;
+        align-self: center;
+    }
+
+    .image {
+        width: 120px;
+        padding: 10px;
+        flex-shrink: 0;
+
+        img {
+            max-height: 25px;
+        }
     }
 
     .content {

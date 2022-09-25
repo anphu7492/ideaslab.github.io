@@ -1,0 +1,84 @@
+- image: /images/coverage/cbs.png
+  link: https://baltimore.cbslocal.com/video/4702853-umd-researchers-could-robots-prevent-spread-of-covid-19/
+  content: 'UMD Researchers: Could Robots Prevent Spread Of COVID-19'
+
+- image: /images/coverage/wired.png
+  link: https://www.wired.com/story/proxemo-robot-guesses-emotion-from-walking/
+  content: "This Robot Can Guess How You're Feeling by the Way You Walk"
+
+- image: /images/coverage/forbes.png
+  link: https://www.forbes.com/sites/cognitiveworld/2020/03/29/can-ai-detect-your-emotion-just-by-how-you-walk/
+  content: "ProxEmo: Can AI Detect Your Emotion Just By How You Walk?"
+
+- image: /images/coverage/telegraph.png
+  link: https://www.cs.purdue.edu/homes/ab/PatherPanchali/index.html
+  content: "Pather Panchali reimagined using Artificial Intelligence: Multiple Articles in English, Bengali and Malayalam"
+
+- image: /images/coverage/fastcompany.png
+  link: https://www.fastcompany.com/90375885/
+  content: "There's a new AI that can guess how you feel just by watching you walk
+"
+
+- image: /images/coverage/toi.png
+  link: https://www.indiatimes.com/technology/science-and-future/indian-researcher-his-team-build-ai-that-can-tell-how-we-feel-just-by-seeing-us-walk-371420.html
+  content: "Indian Researcher & His Team Build AI That Can Tell How We Feel Just By Seeing Us Walk"
+
+- image: /images/coverage/techxplore.png
+  link: https://techxplore.com/news/2019-07-emotions-people-style.html
+  content: "Identifying perceived emotions from people's walking style"
+
+- image: /images/coverage/mdtoday.png
+  link: https://today.umd.edu/articles/sci-fi-social-distancing-c45cbd8b-8433-4daf-8858-f62c426fda47
+  content: "Sci-Fi Social Distancing?"
+
+- image: /images/coverage/medium.png
+  link: https://medium.com/artificial-intelligence-network/ai-identifies-human-emotion-based-on-walking-style-bef158b50e79
+  content: "AI identifies human emotion based on walking style"
+
+- image: /images/coverage/vb.png
+  link: https://venturebeat.com/2019/07/01/ai-classifies-peoples-emotions-from-the-way-they-walk/
+  content: "AI classifies people's emotions from the way they walk"
+
+- image: /images/coverage/id.png
+  link: https://www.pressreader.com/usa/id-magazine/20190901/282544429866813
+  content: "A path for all walks of life!"
+
+- image: /images/coverage/unc.png
+  link: https://www.aau.edu/research-scholarship/featured-research-topics/ready-set-brake
+  content: "Ready, Set, Brake!"
+
+- image: /images/coverage/focus.png
+  link: https://twitter.com/anikbera/status/1356997344542273545
+  content: "Dal modo di incedere è possibile perfino dedurre i primi segni di malattie come il Parkinson e il morbo d'Alzheimer (Italian)"
+
+- image: /images/coverage/uchicago.png
+  link: https://arts.uchicago.edu/blogs/arts-science-culture-initiative/arts-science-culture-profile-molecular-movement
+  content: "Arts, Science & Culture Profile: Molecular Movement"
+
+- image: /images/coverage/vb.png
+  link: https://venturebeat.com/2019/06/26/ai-uses-camera-footage-to-track-pedestrians-in-dense-crowds/
+  content: "AI uses camera footage to track pedestrians in dense crowds"
+
+- image: /images/coverage/sentinel.png
+  link: https://pgs.thesentinel.com/2019/05/02/new-computer-science-building-unveiled-on-maryland-day/
+  content: "New Computer Science Building unveiled on Maryland Day"
+
+- image: /images/coverage/science.png
+  link: https://www.sciencemag.org/news/2017/04/new-software-can-track-many-individuals-crowd
+  content: "New software can track many individuals in a crowd"
+
+- image: /images/coverage/neon.png
+  link: https://www.neonmag.fr/lia-qui-peut-reconnaitre-lhumeur-dune-personne-en-analysant-sa-demarche-533419.html
+  content: "L'IA qui peut reconnaître l'humeur d'une personne en analysant sa démarche (French)"
+
+- image: /images/coverage/tux.png
+  link: https://www.tuxboard.com/une-nouvelle-intelligence-artificielle-peut-deviner-les-sentiments-des-gens-en-les-regardant-marcher/
+  content: Une nouvelle intelligence artificielle peut deviner les sentiments des gens en les regardant marcher (French)
+
+- image: /images/coverage/zap.png
+  link: https://zap.aeiou.pt/cientistas-ensinaram-ia-perceber-nos-sentimos-pela-nossa-forma-andar-270453
+  content: "Cientistas ensinaram IA a perceber como nos sentimos pela nossa forma de andar (Portuguese)"
+
+- image: /images/coverage/moby.png
+  link: https://mobygeek.com/features/ai-can-tell-peoples-feeling-by-seeing-the-way-they-walk-7173
+  content: "This AI Can Tell People's Feeling By Analyzing The Way They Walk"

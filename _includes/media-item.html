@@ -1,0 +1,12 @@
+{%- assign image = include.image -%}
+{%- assign link = include.link -%}
+{%- assign content = include.content -%}
+
+<div class="news-item">
+    <div class="image">
+      <img src="{{ image }}">
+    </div>
+    <div class="content"> 
+      <a href="{{ link }}">{{ content }}</a>
+    </div>
+</div>
