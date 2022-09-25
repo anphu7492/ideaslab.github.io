@@ -1,6 +1,6 @@
 ---
 name: Jasorsi Ghosh
-image: added.png
+image: images/members/jasorsi.jpeg
 description: PhD Student
 role: 
 aliases:
