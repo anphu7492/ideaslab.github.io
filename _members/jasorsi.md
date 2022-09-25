@@ -10,6 +10,6 @@ links:
   home-page: https://jasorsi13.github.io/jasorsi.github.io/
   email: ghosh117@purdue.edu
   google-scholar: U1gkUkcAAAAJ
-  linked-in: jasorsi
+  linkedin: jasorsi
 ---
 
