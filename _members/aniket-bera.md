@@ -9,7 +9,7 @@ aliases:
 links:
   home-page: https://www.cs.purdue.edu/homes/ab/
   email: ab@cs.purdue.edu
-  scholar: https://scholar.google.com/citations?hl=en&user=q3UdHk4AAAAJ
+  scholar: q3UdHk4AAAAJ
   linkedin: abera
   twitter: anikbera
   facebook: MeraNaamBera
