@@ -21,128 +21,92 @@ Some recent work includes combining these methods with machine learning, compute
 
 {% include list.html component="card" data="tools" filters="group: home-thumbnails" style="medium" class="thumbnails md-3" %}
 
-<!-- {%
-  include link.html
-  type="github"
-  icon=""
-  text="See the template on GitHub"
-  link="greenelab/lab-website-template"
-  style="button"
-%}
-{%
-  include link.html
-  type="docs"
-  icon=""
-  text="See the documentation"
-  link="https://github.com/greenelab/lab-website-template/wiki"
-  style="button"
-%}
-{:.center} -->
-
-{% include section.html full=true %}
-
-<div class="glider-contain">
-  <div class="glider">
-    <div><img src="images/home/slide1.jpg"></div>
-    <div><img src="images/home/slide2.jpg"></div>
-    <div><img src="images/home/slide3.jpg"></div>
-    <div><img src="images/home/slide4.jpg"></div>
-    <div><img src="images/home/slide5.jpg"></div>
-    <div><img src="images/home/slide6.jpg"></div>
-  </div>
-
-  <div role="tablist" class="dots"></div>
-</div>
-<!-- {% include banner.html image="images/banner1.jpg" %} -->
 
 {% include section.html %}
 
-# Research highlights
+<!-- # Research highlights
 
 {% include list.html 
   data="citations" 
   component="citation" 
   filters="group: highlight"
   style="rich" 
-%}
+%} -->
 
-<!-- {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-{%
-  include link.html
-  link="research"
-  text="See what we've published"
-  icon="fas fa-arrow-right"
-  flip=true
-%}
-{:.center}
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="research"
-  title="Our Research"
-  text=text
-%}
-
-{% capture text %}
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-{%
-  include link.html
-  link="tools"
-  text="Browse our tools"
-  icon="fas fa-arrow-right"
-  flip=true
-%}
-{:.center}
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="resources"
-  title="Our Resources"
-  flip=true
-  text=text
-%}
-
-{% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include link.html
-  link="team"
-  text="Meet our team"
-  icon="fas fa-arrow-right"
-  flip=true
-%}
-{:.center}
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="team"
-  title="Our Team"
-  text=text
-%}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. -->
 
 # Follow us
 
-{% capture col1 %}
-  <div class="social">
-    <a class="twitter-timeline" href="https://twitter.com/anikbera?ref_src=twsrc%5Etfw" data-height="700" data-width="350">Tweets by anikbera</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<div class="col-flex">
+  <div class="col home-news">
+    <div class="news-item">
+    <div class="date">{{ '2022-09-15' | date: "%d %b %Y" }}</div>
+    <div class="content">
+      <b>Paper accepted at MIG 2022</b>
+       <i>(Learning Gait Emotions Using Affective and Deep Features)</i>
+    </div>
   </div>
-{% endcapture %}
-{% capture col2 %}
 
-{% endcapture %}
-{% include two-col.html col1=col1 col2=col2 %}
+  <div class="news-item">
+    <div class="date">{{ '2022-08-20' | date: "%d %b %Y" }}</div>
+    <div class="content">
+      <b>Paper accepted at WACV 2023 </b> (Placing Human Animations into 3D Scenes by Learning Interaction- and Geometry-Driven Keyframes)
+    </div>
+  </div>
+
+  <div class="news-item">
+    <div class="date">{{ '2022-08-15' | date: "%d %b %Y" }}</div>
+    <div class="content">
+      IDEAS Lab moved to <b>Purdue University</b>
+    </div>
+  </div>
+
+  <div class="news-item">
+    <div class="date">{{ '2022-05-10' | date: "%d %b %Y" }}</div>
+    <div class="content">
+      <b>Appointed as Senior Editor for IEEE Robotics and Automation Letter (RA-L)</b> in the area of <i>Planning and Simulation</i>
+    </div>
+  </div>
+
+  <div class="news-item">
+    <div class="date">{{ '2022-5-10' | date: "%d %b %Y" }}</div>
+    <div class="content">
+      <b>Grant Awarded by "TEDCO (Maryland Technology Development Corporation)"</b> for <a href="https://dost.cs.umd.edu/">Project Dost</a>
+    </div>
+  </div>
+
+  <div class="news-item">
+    <div class="date">{{ '2022-3-10' | date: "%d %b %Y" }}</div>
+    <div class="content">
+      <b>Best Paper Award (Honorable Mention)</b> in in IEEE VR 2022 for <i>ENI: Quantifying Environment Compatibility for Natural Walking in Virtual Reality</i>
+    </div>
+  </div>
+
+  <div class="news-item">
+    <div class="date">{{ '2022-3-20' | date: "%d %b %Y" }}</div>
+    <div class="content">
+      <b>Paper accepted at CVPR 2022</b> <i>(3MASSIV: Multilingual, Multimodal and Multi-Aspect dataset of Social Media Short Videos)</i>
+    </div>
+  </div>
+
+  <div class="news-item">
+    <div class="date">{{ '2022-10-01' | date: "%d %b %Y" }}</div>
+    <div class="content">
+      <b>Best Paper Award (Honorable Mention) in ISMAR 2021</b> for <i>Redirected Walking in Static and Dynamic Scenes Using Visibility Polygons</i>
+    </div>
+  </div>
+
+  {%
+    include link.html
+    link="news"
+    text="Read more"
+    icon="fas fa-arrow-right"
+    flip=true
+  %}
+
+  </div>
+
+  <div class="col social">
+    <a class="twitter-timeline" href="https://twitter.com/IDEASPurdue" data-height="700" data-width="330">Tweets by IDEAS Lab</a> 
+    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  </div>
+</div>

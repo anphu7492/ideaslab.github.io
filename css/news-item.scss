@@ -11,14 +11,19 @@
     margin-bottom: 10px;
     align-items: flex-start;
     // align-content: center;
+    background-color: #ffffff;
+    box-shadow: 0px 6px 15px rgba(7, 78, 206, 0.1);
+    border-radius: 5px;
+    color: #57647c;
+    transition: 0.5s;
 
     .date {
         min-width: 120px;
         padding: 10px;
-        background-color: $purdue-gold;
-        font-size: 0.8em;
-        font-weight: bold;
-        align-self: center;
+        font-size: 0.9em;
+        // font-weight: bold;
+        align-self: flex-start;
+        color: $purdue-campus-gold;
     }
 
     .image {
@@ -34,8 +39,7 @@
 
     .content {
         text-align: left;
-        padding: 10px;
+        padding: 10px 5px;
         flex-grow: 2;
-        box-shadow: 3px 5px 3px -3px #ccc;
     }
 }

@@ -25,7 +25,26 @@
     }
 }
 
-.social {
-    max-height: 1000px;
-    overflow: scroll;
+.col-flex {
+    display: flex;
+    .col {
+        padding: 10px;
+    }
+
+    .home-news {
+        .news-item {
+
+            .content {
+                box-shadow: none;
+            }
+        }
+        
+    }    
+
+    .social {
+        max-height: 1000px;
+        min-width: 350px;
+        overflow: scroll;
+    }
+    
 }
