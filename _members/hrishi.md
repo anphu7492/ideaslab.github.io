@@ -1,6 +1,6 @@
 ---
 name: Hrishikesh Viswanath
-description: PHD Student
+description: PhD Student
 image: /images/members/hrishi.jpg
 role: phd
 aliases:

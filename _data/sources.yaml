@@ -1,55 +1,74 @@
-- id: arXiv:2207.07165
-  image: /images/papers/emotion_contagion.jpeg
-  date: '2022-07-14'
-  category: emotion-recognition
-  tags:
-    - emotion contagion
-    - dynamic graphs
-
-- id: arXiv:2009.08906
-  image: /images/papers/zeroshot.gif
-  category: emotion-recognition
-  group: highlight
-  repo: https://github.com/abhibaner/ZSLEmotFromGait
-  extra-links:
-    - type: source
-      link: https://github.com/abhibaner/ZSLEmotFromGait
-      text: Code
-    
-- id: doi:10.1109/VR51125.2022.00061
-  image: images/papers/ENI.jpg
-  extra-links:
-    - type: preprint
-      link: https://arxiv.org/abs/2201.01261
-    # - type: manubot
-    #   link: https://greenelab.github.io/scihub-manuscript/
-    - type: source
-      link: https://github.com/niallw/ENI
-      text: Code
-
-- id: doi:10.1109/FG52635.2021.9667034
-  date: '2021-12-15'
-  year: 2021
-  link: https://ieeexplore.ieee.org/iel7/9666787/9666788/09667034.pdf
-
-- id: doi:10.1109/TVCG.2021.3106432
-  group: highlight
-  date: '2022-06-12'
-  year: 2022
-  link: https://api.semanticscholar.org/CorpusID:235422600
-  image: images/papers/rdwvis.gif
-
-- id: doi:10.1109/ICRA48506.2021.9561983
-  group: highlight
-  date: '2021-10-18'
-  year: 2021
-  link: https://ieeexplore.ieee.org/abstract/document/9561983
-  image: images/papers/robotrust.gif
-
-- id: doi:10.1109/VR50410.2021.00037
-  category: ar-vr
-  group: highlight
-  date: '2021-05-10'
-  year: 2021
-  link: https://ieeexplore.ieee.org/abstract/document/9417647
-  image: images/papers/t2g.gif
+- id: 10.1109/TITS.2021.3130218 
+- id: 10.48550/arXiv.2203.14456 
+- id: https://arxiv.org/abs/2011.08690 
+- id: 10.1109/ICRA.2014.6907095 
+- id: 10.1109/CVPR46437.2021.00561 
+- id: arXiv:2103.06541 
+- id: 10.24963/ijcai.2017/17 
+- id: 10.1109/TVCG.2021.3067781 
+- id: http://arxiv.org/abs/1805.11833 
+- id: 10.1109/ICRA48506.2021.9561983 
+- id: 10.1109/CVPRW.2018.00151 
+- id: 10.1109/IROS45743.2020.9341720 
+- id: 10.1109/FG52635.2021.9667034 
+- id: 10.1145/3281505.3281524 
+- id: 10.1109/IROS40897.2019.8968470 
+- id: 10.1109/CVPRW.2018.00149 
+- id: http://dl.acm.org/citation.cfm?id=2788903 
+- id: 10.1109/CVPR42600.2020.01424 
+- id: 10.1145/3394171.3413570 
+- id: 10.1109/VR51125.2022.00061 
+- id: 10.48550/arXiv.2207.07165 
+- id: 10.1145/3343036.3343129 
+- id: https://arxiv.org/abs/2011.09438 
+- id: 10.1162/PRES_a_00294 
+- id: 10.1109/LRA.2020.3004794 
+- id: 10.1109/TVCG.2019.2932235 
+- id: 10.1109/ISMAR50242.2020.00020 
+- id: 10.1109/ICRA.2016.7487768 
+- id: 10.1109/ICRA40945.2020.9196751 
+- id: 10.1109/FG47880.2020.00141 
+- id: 10.1109/IROS.2018.8594348 
+- id: arXiv:1906.11884 
+- id: http://openaccess.thecvf.com/content_CVPRW_2019/html/Face_and_Gesture_Analysis_for_Health_Informatics/Bera_Improving_Socially-aware_Multi-channel_Human_Emotion_Prediction_for_Robot_Navigation_CVPRW_2019_paper.html 
+- id: 10.1109/VR.2016.7504685 
+- id: 10.1109/VR.2016.7504784 
+- id: 10.1109/ISM.2015.89 
+- id: 10.1109/MCG.2016.113 
+- id: http://arxiv.org/abs/1810.03965 
+- id: 10.1016/j.neucom.2018.08.085 
+- id: 10.1007/978-3-319-48881-3_50 
+- id: 10.1109/ISMAR-Adjunct.2019.000-2 
+- id: https://ojs.aaai.org/index.php/AAAI/article/view/19873 
+- id: https://ojs.aaai.org/index.php/AAAI/article/view/5492 
+- id: https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17087 
+- id: 10.1109/TVCG.2019.2953063 
+- id: 10.1109/CVPRW.2019.00035 
+- id: 10.1109/MMUL.2021.3068387 
+- id: 10.1016/j.cag.2015.10.009 
+- id: 10.1109/ICRA.2019.8794465 
+- id: 10.48550/arXiv.2209.06314 
+- id: 10.1109/LRA.2018.2852793 
+- id: 10.1109/IROS45743.2020.9340710 
+- id: https://arxiv.org/abs/2011.08722 
+- id: 10.1109/ICRA.2015.7139261 
+- id: 10.1109/CVPRW.2016.163 
+- id: 10.1109/ICPR.2014.714 
+- id: 10.1016/B978-0-12-809276-7.00020-5 
+- id: 10.1109/TVCG.2021.3106432 
+- id: 10.1109/VRW52623.2021.00072 
+- id: 10.1109/ICRA40945.2020.9196612 
+- id: 10.1145/3359999.3360495 
+- id: 10.1145/2007052.2007058 
+- id: https://arxiv.org/abs/2011.08682 
+- id: 10.1109/IROS.2017.8206628 
+- id: http://arxiv.org/abs/1707.09100 
+- id: https://ojs.aaai.org/index.php/AAAI/article/view/5490 
+- id: https://arxiv.org/abs/2011.04816 
+- id: 10.1007/978-3-030-58607-2_9 
+- id: 10.1109/VR50410.2021.00037 
+- id: http://openaccess.thecvf.com/content_CVPRW_2019/html/MMLV/Bera_The_Emotionally_Intelligent_Robot_Improving_Socially-aware_Human_Prediction_in_Crowded_CVPRW_2019_paper.html 
+- id: http://arxiv.org/abs/1912.06874 
+- id: 10.1109/IROS.2018.8593411 
+- id: 10.1109/CVPR.2019.00868 
+- id: https://arxiv.org/abs/2111.02964 

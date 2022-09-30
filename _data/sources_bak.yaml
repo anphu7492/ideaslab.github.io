@@ -1,0 +1,61 @@
+- id: arXiv:2207.07165
+  image: /images/papers/emotion_contagion.jpeg
+  date: '2022-07-14'
+  category: emotion-recognition
+  tags:
+    - emotion contagion
+    - dynamic graphs
+
+- id: arXiv:2009.08906
+  image: /images/papers/zeroshot.gif
+  category: emotion-recognition
+  group: highlight
+  repo: https://github.com/abhibaner/ZSLEmotFromGait
+  extra-links:
+    - type: source
+      link: https://github.com/abhibaner/ZSLEmotFromGait
+      text: Code
+    
+- id: doi:10.1109/VR51125.2022.00061
+  image: images/papers/ENI.jpg
+  extra-links:
+    - type: preprint
+      link: https://arxiv.org/abs/2201.01261
+    # - type: manubot
+    #   link: https://greenelab.github.io/scihub-manuscript/
+    - type: source
+      link: https://github.com/niallw/ENI
+      text: Code
+
+- id: doi:10.1109/FG52635.2021.9667034
+  date: '2021-12-15'
+  year: 2021
+  link: https://ieeexplore.ieee.org/iel7/9666787/9666788/09667034.pdf
+
+- id: doi:10.1109/TVCG.2021.3106432
+  group: highlight
+  date: '2022-06-12'
+  year: 2022
+  link: https://api.semanticscholar.org/CorpusID:235422600
+  image: images/papers/rdwvis.gif
+
+- id: doi:10.1109/ICRA48506.2021.9561983
+  group: highlight
+  date: '2021-10-18'
+  year: 2021
+  link: https://ieeexplore.ieee.org/abstract/document/9561983
+  image: images/papers/robotrust.gif
+
+- id: doi:10.1109/VR50410.2021.00037
+  category: ar-vr
+  group: highlight
+  date: '2021-05-10'
+  year: 2021
+  link: https://ieeexplore.ieee.org/abstract/document/9417647
+  image: images/papers/t2g.gif
+
+- id: http://openaccess.thecvf.com/content_CVPRW_2019/html/Face_and_Gesture_Analysis_for_Health_Informatics/Bera_Improving_Socially-aware_Multi-channel_Human_Emotion_Prediction_for_Robot_Navigation_CVPRW_2019_paper.html
+
+- id: http://arxiv.org/abs/1805.11833
+
+- id: http://dl.acm.org/citation.cfm?id=2788903
