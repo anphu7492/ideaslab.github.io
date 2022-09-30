@@ -97,3 +97,23 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
   title="Best Paper Award at IEEE VR 2021"
   text=text
 %}
+
+
+
+Carousel 
+{% include section.html full=true %}
+
+<div class="glider-contain">
+  <div class="glider">
+    <div><img src="images/home/slide1.jpg"></div>
+    <div><img src="images/home/slide2.jpg"></div>
+    <div><img src="images/home/slide3.jpg"></div>
+    <div><img src="images/home/slide4.jpg"></div>
+    <div><img src="images/home/slide5.jpg"></div>
+    <div><img src="images/home/slide6.jpg"></div>
+  </div>
+
+  <div role="tablist" class="dots"></div>
+</div>
+
+<!-- {% include banner.html image="images/banner1.jpg" %} -->

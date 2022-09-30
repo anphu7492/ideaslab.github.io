@@ -58,15 +58,15 @@ IDEAS is an intellectually diverse, multi-disciplinary research lab. We conduct 
 
 ## Join us
 
-#### Post Dogtoral Researcher
+#### Post Doctoral Researcher
 
-We're hiring multiple Postdoctoral Research Associates in the interdisciplinery areas of AI, affective computing, computer graphics and multi-agent planning. Please send me an email with your resume. [Advertisment link here!](https://www.cs.purdue.edu/homes/ab/postdoc.pdf)
+We're hiring multiple Postdoctoral Research Associates in the interdisciplinery areas of AI, affective computing, computer graphics and multi-agent planning. Please send Prof. Aniket Bera an email with your resume. [Advertisment link here!](https://www.cs.purdue.edu/homes/ab/postdoc.pdf)
 
 #### Graduate students
 
-If you're looking for graduate admissions (MS/PhD) , please email me and apply to the Purdue CS. Please note that all admission decisions are taken by the committee.
+If you're looking for graduate admissions (MS/PhD) , please email us and apply to the Purdue CS. Please note that all admission decisions are taken by the committee.
 
-If you're already a student at Purdue, the best way to increase the chances of a response to an e-mail is to read one of our recent papers and include a concise paragraph with the benefits and drawbacks of the main idea as well as possible improvements you'd be interested to try and send us an email with your CV and background.
+If you're already a student at Purdue, the best way to increase the chances of a response to an email is to read one of our recent papers and include a concise paragraph with the benefits and drawbacks of the main idea as well as possible improvements you'd be interested to try and send us an email with your CV and background.
 
 <!-- {% include link.html type="external" link="https://google.com/" text="Apply Now" icon="" style="button" %}
 {:.center} -->
