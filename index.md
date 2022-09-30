@@ -63,7 +63,7 @@ Some recent work includes combining these methods with machine learning, compute
   <div class="news-item">
     <div class="date">{{ '2022-05-10' | date: "%d %b %Y" }}</div>
     <div class="content">
-      <b>Appointed as Senior Editor for IEEE Robotics and Automation Letter (RA-L)</b> in the area of <i>Planning and Simulation</i>
+      Prof. Aniket Bera <b>appointed as Senior Editor for IEEE Robotics and Automation Letter (RA-L)</b> in the area of <i>Planning and Simulation</i>
     </div>
   </div>
 
