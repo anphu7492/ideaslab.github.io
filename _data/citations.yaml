@@ -27,7 +27,7 @@
   date: '2022-01-01'
   link: https://doi.org/gqw49j
   _cache: 201ce860f5eacdebb1b690c421813e43a1619cf95cc79df3fcf1e0af0befb112
-- id: https://arxiv.org/abs/2011.08690
+- id: arXiv:2011.08690
   title: 'MET: Multimodal Perception of Engagement for Telehealth'
   authors:
   - Pooja Guhan
@@ -37,10 +37,10 @@
   - Dinesh Manocha
   - Gloria Reeves
   - Aniket Bera
-  publisher: arXiv:2011.08690 [cs]
-  date: '2022-08-22'
-  link: http://arxiv.org/abs/2011.08690
-  _cache: 261bec5b16fa509ce8d015ae5a6a2746233207727c00025d6fab6c5e1ae01f52
+  publisher: arXiv
+  date: '2022-08-24'
+  link: https://arxiv.org/abs/2011.08690
+  _cache: 56643a487469f3cd9bc251873d618ee2f61c915059355d7d988c0eb9f0b411fb
 - id: 10.1109/ICRA.2014.6907095
   title: 'AdaPT: Real-time adaptive pedestrian tracking for crowded scenes'
   authors:
@@ -97,7 +97,7 @@
   date: '2021-05-01'
   link: https://doi.org/gqdjqh
   _cache: 630234a3e8e5adc4e1c8d44459ed761e0007d5fe73a430b7b27dc876c89700b6
-- id: http://arxiv.org/abs/1805.11833
+- id: arXiv:1805.11833
   title: 'PORCA: Modeling and Planning for Autonomous Driving among Many Pedestrians'
   authors:
   - Yuanfu Luo
@@ -106,10 +106,10 @@
   - David Hsu
   - Wee Sun Lee
   - Dinesh Manocha
-  publisher: arXiv:1805.11833 [cs]
-  date: '2018-07-01'
-  link: http://arxiv.org/abs/1805.11833
-  _cache: b48c736f8a083e1668e9f73edc20832108af8e751581b69ed7c6b3d05e813072
+  publisher: arXiv
+  date: '2018-07-03'
+  link: https://arxiv.org/abs/1805.11833
+  _cache: e6f1b41143a075b3f596c052f65411a3299c9f014dec3b421d22cc799f25c9a9
 - id: 10.1109/ICRA48506.2021.9561983
   title: 'Can a Robot Trust You? : A DRL-Based Approach to Trust-Driven Human-Guided
     Navigation'
@@ -286,7 +286,7 @@
   date: '2019-09-19'
   link: https://doi.org/gqw49v
   _cache: b6e877036f8c97740683d0cce97683e38e1fbe75af1979cf5711a2162ebcfc42
-- id: https://arxiv.org/abs/2011.09438
+- id: arXiv:2011.09438
   title: 'EWareNet: Emotion Aware Human Intent Prediction and Adaptive Spatial Profile
     Fusion for Social Robot Navigation'
   authors:
@@ -294,10 +294,10 @@
   - Bala Murali Manoghar
   - Rama Prashanth RV
   - Aniket Bera
-  publisher: arXiv:2011.09438 [cs]
-  date: '2020-12-01'
-  link: http://arxiv.org/abs/2011.09438
-  _cache: f74edcb70a06ff1dd1987c53925c5396cd9855315716dec7f9af8c17c8409d74
+  publisher: arXiv
+  date: '2020-12-03'
+  link: https://arxiv.org/abs/2011.09438
+  _cache: 06bdab1326843329837904a901ca20c29000dbe1115f6e15f59a0b0e3502c054
 - id: 10.1162/PRES_a_00294
   title: 'F2FCrowds: Planning Agent Movements to Enable Face-to-Face Interactions'
   authors:
@@ -472,15 +472,15 @@
   date: '2016-11-01'
   link: https://doi.org/gqw496
   _cache: 90e154a325b08babc48583a6b5e81d15870776aa8d3386ac629442cfbf4d1b6f
-- id: http://arxiv.org/abs/1810.03965
+- id: arXiv:1810.03965
   title: Interactive Surveillance Technologies for Dense Crowds
   authors:
   - Aniket Bera
   - Dinesh Manocha
-  publisher: arXiv:1810.03965 [cs]
-  date: '2018-09-27'
-  link: http://arxiv.org/abs/1810.03965
-  _cache: 8475a8b8561829a244e0f514fd4b3aecf3b2b5e7f754a4987a177fae6b43e066
+  publisher: arXiv
+  date: '2018-10-10'
+  link: https://arxiv.org/abs/1810.03965
+  _cache: d4eb94290c35b80345757b04e6505ed316a192fd2766be1c66750de45a30de86
 - id: 10.1016/j.neucom.2018.08.085
   title: 'LCrowdV: Generating labeled videos for pedestrian detectors training and
     crowd behavior learning'
@@ -545,13 +545,18 @@
   date: '2020-04-03'
   link: https://ojs.aaai.org/index.php/AAAI/article/view/5492
   _cache: 7c19b3075356557b9adfb76c7c157c74b0d1321b9c9e914838d88d7016f2ec14
-- id: https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17087
-  title: ''
-  authors: []
-  publisher: ''
-  date: '1900-01-01'
-  link: https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17087
-  _cache: 33dc654a2033ab3ae1ef36ca171044ffb371645c080f8c7840382a75b7c9bfea
+- id: arXiv:1707.09100
+  title: 'MixedPeds: Pedestrian Detection in Unannotated Videos using Synthetically
+    Generated Human-agents for Training'
+  authors:
+  - Ernest C. Cheung
+  - Tsan Kwong Wong
+  - Aniket Bera
+  - Dinesh Manocha
+  publisher: arXiv
+  date: '2017-11-15'
+  link: https://arxiv.org/abs/1707.09100
+  _cache: 4766c85643baad083664f10cf061f8a543fb401fc397000b212958cff60502e3
 - id: 10.1109/TVCG.2019.2953063
   title: Modeling Data-Driven Dominance Traits for Virtual Characters Using Gait Analysis
   authors:
@@ -649,16 +654,16 @@
   date: '2020-10-24'
   link: https://doi.org/gqw5bd
   _cache: 25c291d3b1b2672e537fe9d05fe98ad503a9e48eb11165f0885a8f1dfb975f1e
-- id: https://arxiv.org/abs/2011.08722
+- id: arXiv:2011.08722
   title: 'RAIST: Learning Risk Aware Traffic Interactions via Spatio-Temporal Graph
     Convolutional Networks'
   authors:
   - Videsh Suman
   - Aniket Bera
-  publisher: arXiv:2011.08722 [cs]
-  date: '2020-11-17'
-  link: http://arxiv.org/abs/2011.08722
-  _cache: 984af7486ebd47ef505ebe83bc1a2cf4ab5dd4382379f318c7f9fcb02b085f25
+  publisher: arXiv
+  date: '2020-11-18'
+  link: https://arxiv.org/abs/2011.08722
+  _cache: 99784ec1db39d282ab8ad9185ddac0dcdb181b3cc5d815942cc7dd724f6cc223
 - id: 10.1109/ICRA.2015.7139261
   title: REACH - Realtime crowd tracking using a hybrid motion model
   authors:
@@ -754,7 +759,7 @@
   date: '2011-01-01'
   link: https://doi.org/d4426s
   _cache: 8b78cc6a9a86a8f99934bef6e5f5ab543f0da33790788991ecb1ac598341a22b
-- id: https://arxiv.org/abs/2011.08682
+- id: arXiv:2011.08682
   title: 'SeekNet: Improved Human Instance Segmentation via Reinforcement Learning
     Based Optimized Robot Relocation'
   authors:
@@ -762,10 +767,10 @@
   - Bala Murali Manoghar
   - Rama Prashanth RV
   - Aniket Bera
-  publisher: arXiv:2011.08682 [cs]
-  date: '2020-11-17'
-  link: http://arxiv.org/abs/2011.08682
-  _cache: b1c249f0cdbad1f23db59e50f48766b25443e4fc8465b941511b4d4895ce1ed8
+  publisher: arXiv
+  date: '2020-11-18'
+  link: https://arxiv.org/abs/2011.08682
+  _cache: e929d7588a0be7ce9919f4e1437323a32be2dc66ec8098585356ac1e7440f289
 - id: 10.1109/IROS.2017.8206628
   title: 'SocioSense: Robot navigation amongst pedestrians with social and psychological
     constraints'
@@ -779,7 +784,7 @@
   date: '2017-09-01'
   link: https://doi.org/gh7nkw
   _cache: f2e1387f22f6c233a99326210ba53a29916323938679902ff48446da3d80e96d
-- id: http://arxiv.org/abs/1707.09100
+- id: arXiv:1707.09100
   title: 'MixedPeds: Pedestrian Detection in Unannotated Videos using Synthetically
     Generated Human-agents for Training'
   authors:
@@ -787,10 +792,10 @@
   - Tsan Kwong Wong
   - Aniket Bera
   - Dinesh Manocha
-  publisher: arXiv:1707.09100 [cs]
-  date: '2017-11-11'
-  link: http://arxiv.org/abs/1707.09100
-  _cache: 6c291b0d5f62f7ba1fae839377a7118be21e6668c430173b12cfa7135a3f1241
+  publisher: arXiv
+  date: '2017-11-15'
+  link: https://arxiv.org/abs/1707.09100
+  _cache: 4766c85643baad083664f10cf061f8a543fb401fc397000b212958cff60502e3
 - id: https://ojs.aaai.org/index.php/AAAI/article/view/5490
   title: 'STEP: Spatial Temporal Graph Convolutional Networks for Emotion Perception
     from Gaits'
@@ -805,16 +810,16 @@
   date: '2020-04-03'
   link: https://ojs.aaai.org/index.php/AAAI/article/view/5490
   _cache: 502099272cf5c0aa3bd8d46f509d1981dc703f397144c279f7742a0daeeefd3b
-- id: https://arxiv.org/abs/2011.04816
+- id: arXiv:2011.04816
   title: 'StylePredict: Machine Theory of Mind for Human Driver Behavior From Trajectories'
   authors:
   - Rohan Chandra
   - Aniket Bera
   - Dinesh Manocha
-  publisher: arXiv:2011.04816 [cs]
-  date: '2020-11-10'
-  link: http://arxiv.org/abs/2011.04816
-  _cache: ef34a018294a96176eaa8e87c8915dcfa94f693578b29af3e494e47c8153e0a2
+  publisher: arXiv
+  date: '2020-11-12'
+  link: https://arxiv.org/abs/2011.04816
+  _cache: 31d7c60206fce8f4170a6e4e0c4f062ab2aa3e991ac3b5ddcbedec4dbaf2e872
 - id: 10.1007/978-3-030-58607-2_9
   title: 'Take an Emotion Walk: Perceiving Emotions from Gaits Using Hierarchical
     Attention Pooling and Affective Mapping'
@@ -856,7 +861,7 @@
   date: '2019-01-01'
   link: https://openaccess.thecvf.com/content_CVPRW_2019/html/MMLV/Bera_The_Emotionally_Intelligent_Robot_Improving_Socially-aware_Human_Prediction_in_Crowded_CVPRW_2019_paper.html
   _cache: cb35b49278d916bf7696bf32d1ec5bac4b48c41fa93e08f0f790134257445f4a
-- id: http://arxiv.org/abs/1912.06874
+- id: arXiv:1912.06874
   title: 'The Liar''s Walk: Detecting Deception with Gait and Gesture'
   authors:
   - Tanmay Randhavane
@@ -865,10 +870,10 @@
   - Kurt Gray
   - Aniket Bera
   - Dinesh Manocha
-  publisher: arXiv:1912.06874 [cs]
-  date: '2020-03-29'
-  link: http://arxiv.org/abs/1912.06874
-  _cache: 501c3b92c226a2869abece58fcfc95a3ec34a8718d4558e3a69d26475a9f261b
+  publisher: arXiv
+  date: '2020-03-31'
+  link: https://arxiv.org/abs/1912.06874
+  _cache: 6214e2c3d685a72f733ce4950167fe00d04c785c65b0823df1d5037619bd2b2a
 - id: 10.1109/IROS.2018.8593411
   title: The Socially Invisible Robot Navigation in the Social World Using Robot Entitativity
   authors:
@@ -895,13 +900,13 @@
   date: '2019-06-01'
   link: https://doi.org/ghnz58
   _cache: c8553234714b2b3c6d3e7f29d35feb94f237b168093f4ba4523899a0442242ab
-- id: https://arxiv.org/abs/2111.02964
+- id: arXiv:2111.02964
   title: Using Graph-Theoretic Machine Learning to Predict Human Driver Behavior
   authors:
   - Rohan Chandra
   - Aniket Bera
   - Dinesh Manocha
-  publisher: arXiv:2111.02964 [cs]
-  date: '2021-11-04'
-  link: http://arxiv.org/abs/2111.02964
-  _cache: d48acba3d575a77ef33371f35135d448cad45a803035aa895aca374e800b3b90
+  publisher: arXiv
+  date: '2021-11-05'
+  link: https://arxiv.org/abs/2111.02964
+  _cache: 1950bab69936639cc1a88cd709e56d9f8b2feb7da5d9ee89128dd2ad3a437ff0

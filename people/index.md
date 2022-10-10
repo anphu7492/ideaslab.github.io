@@ -47,7 +47,51 @@ IDEAS's research includes design and implementation of algebraic, geometric, and
   component="portrait"
   filters="role: undergrad"
 %}
-{:.center}
+
+
+### External Students
+{:.left}
+
+- [Pooja Guhan](https://www.cs.umd.edu/people/pguhan) (UMD, PhD co-advisor Prof. Aniket Bera)
+- [Niall Williams](https://www.cs.umd.edu/people/niallw) (UMD, PhD co-advisor Prof.  Aniket Bera)
+
+### Past Students (co-advised or co-supervised by Prof. Aniket Bera):
+{:.left}
+
+- [Rohan Chandra](https://www.cs.umd.edu/people/rchandr1) (UMD)
+- [Jiayi Xu (April)](https://www.linkedin.com/in/jiayixuu/) (UNC)
+- [Uttaran Bhattacharya](https://www.cs.umd.edu/~uttaranb/) (UMD)
+- [Trisha Mittal](https://www.cs.umd.edu/~trisha/) (UMD)
+- [Ritwika Das](https://www.linkedin.com/in/ritwika-das) (UMD)
+- [Ria Gupta](https://www.cs.purdue.edu/homes/ab/#) (IIIT-D)
+- [Ruhma Mehek Khan](https://www.cs.purdue.edu/homes/ab/#) (IIIT-D)
+- [Chetan Alla](http://chetanalla.com/) (UMD, MS Advisor)
+- [Evar Jones](https://twitter.com/jonesevar?lang=en) (UMD, MS Advisor)
+- [Jason Fotso-Puepi](https://www.linkedin.com/in/jason-fotso/) (UMD)
+- [Tanmay Randhavane](http://scholar.google.com/citations?user=IwLdNBQAAAAJ&hl=en) (UNC, now at Microsoft)
+- [Ernest Cheung](https://scholar.google.com.hk/citations?user=5mSGPVIAAAAJ&hl=en) (UNC, now at Samsung)
+- Vasavi Gajarla (UNC, now at Facebook)
+- Vishnu Sashank Dorbala (UMD)
+- Janakiraman Kirthivasan (UMD)
+- Jack Sturtevant (UMD)
+- Rohan Chabra (UNC, now at Facebook Reality Labs)
+- Rohan Prinja (UNC, now at Google)
+- Austin Wang (UNC)
+- Pooja Kabra (UMD)
+- Anson Wong (The Chinese University of Hong Kong)
+- Husam Shaik (UNC)
+- Changhao Liu (UNC)
+- Josh Taekman (UNC)
+- Anshuman Singh (UMD)
+- Rahul Madhogarhia (National Institute of Technology Karnataka, India)
+- Mehul Arora (Indian Institute of Information Technology Allahabad, India)
+- [Arjun Ambalam](https://www.linkedin.com/in/arjunsrinivasana) (UMD)
+- Arpit Maclay (UMD)
+- [Videsh Suman](https://sumanvid97.github.io/about) (University of Massachusetts Amherst)
+- [Abhishek Banerjee](https://www.linkedin.com/in/abhi-banerjee-50) (UMD)
+- [Rama Prashanth Ramasamy Vijayakumar](https://www.researchgate.net/profile/Rama-Prashanth-Ramasamy-Vijayakumar-2) (UMD)
+- [Bala Sai Sudhakar](https://scholar.google.com/citations?user=g8C4kkcAAAAJ&hl=en) (UMD)
+- [Venkatraman Narayanan](https://scholar.google.com/citations?user=kzirGLwAAAAJ&hl=en) (UMD)
 
 {% include section.html background="images/banner.jpg" dark=true%}
 
@@ -60,7 +104,7 @@ IDEAS is an intellectually diverse, multi-disciplinary research lab. We conduct 
 
 #### Post Doctoral Researcher
 
-We're hiring multiple Postdoctoral Research Associates in the interdisciplinery areas of AI, affective computing, computer graphics and multi-agent planning. Please send Prof. Aniket Bera an email with your resume. [Advertisment link here!](https://www.cs.purdue.edu/homes/ab/postdoc.pdf)
+We're hiring multiple Postdoctoral Research Associates in the interdisciplinery areas of AI, affective computing, computer graphics and multi-agent planning. Please send Prof. Aniket Bera an email with your resume. [Advertisement link here!](https://www.cs.purdue.edu/homes/ab/postdoc.pdf)
 
 #### Graduate students
 
