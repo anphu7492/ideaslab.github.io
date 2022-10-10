@@ -13,7 +13,7 @@ IDEAS's research includes design and implementation of scientific algorithms and
 * [AI in Mental Health](/research/ai-mental-health)
 * [Affective Computing (Perception and Prediction)](/research/affective)
 * [Metaverse and AR/VR](/research/metaverse/)
-* [Computer Graphics](/research/graphics)
+<!-- * [Computer Graphics](/research/graphics) -->
 * [Robotics: Single and Multi-Robot Motion Planning, Social Robotics](/research/robotics)
 
 
