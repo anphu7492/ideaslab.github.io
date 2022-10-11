@@ -65,7 +65,7 @@ year={2022}
   type="youtube"
   icon=""
   text="Video"
-  link="https://youtu.be/0ApzgWysYGc"
+  link="watch?v=0ApzgWysYGc"
   style="button"
 %}
 
