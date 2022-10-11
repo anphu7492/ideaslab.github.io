@@ -17,6 +17,6 @@ This area focuses primarily on generating virtual agents with appropriate emotio
 {%  include list.html 
     data="citations" 
     component="citation" 
-    filters="category: ar-vr"
+    filters="tags: ~Virtual Agents"
     style="" 
 %}

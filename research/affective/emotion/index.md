@@ -17,6 +17,6 @@ This area focused primarily on developing techniques for emotion recognition fro
 {%  include list.html 
     data="citations" 
     component="citation" 
-    filters="category: emotion-recognition"
+    filters="tags: ~Emotion Recognition"
     style="" 
 %}

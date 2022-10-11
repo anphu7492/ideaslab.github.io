@@ -17,6 +17,6 @@ As robots become more and more ubiquitous in our everyday lives, it becomes esse
 {%  include list.html 
     data="citations" 
     component="citation" 
-    filters="category: socialbots"
+    filters="tags: ~Social Robotics"
     style="" 
 %}

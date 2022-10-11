@@ -11,6 +11,7 @@ nav:
 
 {% include section.html full=false %}
 # Welcome to IDEAS Lab
+{:.bigger}
 
 Welcome to the interdisciplinary research lab, [**IDEAS**](/) (*Intelligent Design for Empathetic and Augmented Systems*) at Purdue Computer Science. Our research includes the design and implementation of scientific algorithms leveraging the "human in the loop" and their applications to computer graphics, robotics, AI, virtual environments, augmented intelligence, pedestrian and crowd dynamics, and medical / healthcare research.
 

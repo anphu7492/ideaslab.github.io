@@ -62,7 +62,21 @@
       {{ publisher }}&nbsp; · &nbsp;{{ date | date: "%d %b %Y" }}
     </div>
 
-    {%- if rich -%}
+    {%- assign tags = citation.tags | default: emptyarray -%}
+    {%- assign repo = citation.repo | default: "" -%}
+    {%- assign extra-links = citation.extra-links | default: emptyarray -%}
+
+    {%- include tags.html tags=tags repo=repo -%}
+    <div class="citation_links">
+      {%- for extra in extra-links -%}
+        {%- assign type = extra.type | default: "" -%}
+        {%- assign icon = extra.icon | default: "" -%}
+        {%- assign text = extra.text | default: "" -%}
+        {%- assign link = extra.link -%}
+        {%- include link.html type=type icon=icon text=text link=link -%}
+      {%- endfor -%}
+    </div>
+    <!-- {%- if rich -%}
 
       {%- assign tags = citation.tags | default: emptyarray -%}
       {%- assign repo = citation.repo | default: "" -%}
@@ -78,6 +92,6 @@
           {%- include link.html type=type icon=icon text=text link=link -%}
         {%- endfor -%}
       </div>
-    {%- endif -%}
+    {%- endif -%} -->
   </div>
 </div>

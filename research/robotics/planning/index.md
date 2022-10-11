@@ -17,6 +17,6 @@ Motion planning is a fundamental problem in robotics. It may be stated as findin
 {%  include list.html 
     data="citations" 
     component="citation" 
-    filters="category: planning"
+    filters="tags: ~Motion and Path Planning"
     style="" 
 %}

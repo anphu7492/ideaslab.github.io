@@ -10,8 +10,11 @@
   publisher: IEEE Transactions on Intelligent Transportation Systems
   date: '2022-03-01'
   link: https://doi.org/gpzrq9
-  _cache: 1b4457df11c7931f9203c9f71e94486c629c4294907a2665c92e2007d97bcb15
-- id: 10.48550/arXiv.2203.14456
+  tags:
+  - Autonomous Driving
+  - Affective Computing
+  _cache: 6440630db8f286afdd8e5060cff17a7ebbd5c82f8ef3493de727c8bc256f2768
+- id: 10.1109/cvpr52688.2022.02039
   title: '3MASSIV: Multilingual, Multimodal and Multi-Aspect dataset of Social Media
     Short Videos'
   authors:
@@ -23,11 +26,13 @@
   - Aniket Bera
   - Debdoot Mukherjee
   - Dinesh Manocha
-  publisher: arXiv
-  date: '2022-01-01'
-  link: https://doi.org/gqw49j
-  _cache: 201ce860f5eacdebb1b690c421813e43a1619cf95cc79df3fcf1e0af0befb112
-- id: arXiv:2011.08690
+  publisher: 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+  date: '2022-06-01'
+  link: https://doi.org/gqzr2g
+  tags:
+  - Affective Computing
+  _cache: 9ae22c6902e7d6f78688ef365750ff7ec06eaeb4e8769719e9235e0542e8dca1
+- id: 10.48550/arXiv.2011.08690
   title: 'MET: Multimodal Perception of Engagement for Telehealth'
   authors:
   - Pooja Guhan
@@ -38,9 +43,13 @@
   - Gloria Reeves
   - Aniket Bera
   publisher: arXiv
-  date: '2022-08-24'
-  link: https://arxiv.org/abs/2011.08690
-  _cache: 56643a487469f3cd9bc251873d618ee2f61c915059355d7d988c0eb9f0b411fb
+  date: '2020-01-01'
+  link: https://doi.org/gqzr3m
+  tags:
+  - Mental Health
+  - Affective Computing
+  - Emotion Recognition
+  _cache: 2eb3f36a9959810f35e4f1a9cab6622e65f32f12125fbf711c162ea9bf6db5dd
 - id: 10.1109/ICRA.2014.6907095
   title: 'AdaPT: Real-time adaptive pedestrian tracking for crowded scenes'
   authors:
@@ -52,7 +61,13 @@
   publisher: 2014 IEEE International Conference on Robotics and Automation (ICRA)
   date: '2014-05-01'
   link: https://doi.org/gqw49k
-  _cache: d4da1d63df0fdbb6b6e5a6003d672080444c4554eb5aca8ea46abefd13982026
+  tags:
+  - Human-Crowd Interaction
+  - Motion and Path Planning
+  - Crowd Simulation
+  - Affective Computing
+  - Emotion Recognition
+  _cache: d074a832c07c3eac5a528faab8348cb2e144929030b42cd0047310ab9169921c
 - id: 10.1109/CVPR46437.2021.00561
   title: 'Affect2MM: Affective Analysis of Multimedia Content Using Emotion Causality'
   authors:
@@ -63,18 +78,10 @@
   publisher: 2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
   date: '2021-06-01'
   link: https://doi.org/gqw49m
-  _cache: b44249cc20bd9b970e05d8f54ddf3f755d7fb396b948ef7ed55f17660f27bb5b
-- id: arXiv:2103.06541
-  title: 'Affect2MM: Affective Analysis of Multimedia Content Using Emotion Causality'
-  authors:
-  - Trisha Mittal
-  - Puneet Mathur
-  - Aniket Bera
-  - Dinesh Manocha
-  publisher: arXiv
-  date: '2021-03-12'
-  link: https://arxiv.org/abs/2103.06541
-  _cache: c631577ee3e79c3da61c4e3a9e0df59a2015ad82b26d3d36b4ed59502acb57cc
+  tags:
+  - Affective Computing
+  - Emotion Recognition
+  _cache: 6aa556fc1319db87a12c53342a7378f1eb69fe80fbc18861ae7c99e2428b6843
 - id: 10.24963/ijcai.2017/17
   title: Aggressive, Tense or Shy? Identifying Personality Traits from Crowd Videos
   authors:
@@ -85,7 +92,11 @@
     Intelligence
   date: '2017-08-01'
   link: https://doi.org/gqw49n
-  _cache: 9c3061fcf86c1aa289fe427771793a056f45188f997b837c3bd466a9cc1bc5d7
+  tags:
+  - Crowd Simulation
+  - Human-Crowd Interaction
+  - Affective Computing
+  _cache: 0f28d4fe460a82d35a74ad3d257903b9e1778a8ec24942d4277705d52cf3de1b
 - id: 10.1109/TVCG.2021.3067781
   title: 'ARC: Alignment-based Redirection Controller for Redirected Walking in Complex
     Environments'
@@ -96,8 +107,10 @@
   publisher: IEEE Transactions on Visualization and Computer Graphics
   date: '2021-05-01'
   link: https://doi.org/gqdjqh
-  _cache: 630234a3e8e5adc4e1c8d44459ed761e0007d5fe73a430b7b27dc876c89700b6
-- id: arXiv:1805.11833
+  tags:
+  - XR Locomotion Interfaces
+  _cache: 04afab311cc3460a3a35a44ef5e55e414feecb37b00739da6766c6a4e49d782e
+- id: 10.48550/arXiv.1805.11833
   title: 'PORCA: Modeling and Planning for Autonomous Driving among Many Pedestrians'
   authors:
   - Yuanfu Luo
@@ -107,9 +120,13 @@
   - Wee Sun Lee
   - Dinesh Manocha
   publisher: arXiv
-  date: '2018-07-03'
-  link: https://arxiv.org/abs/1805.11833
-  _cache: e6f1b41143a075b3f596c052f65411a3299c9f014dec3b421d22cc799f25c9a9
+  date: '2018-01-01'
+  link: https://doi.org/gqzr34
+  tags:
+  - Autonomous Driving
+  - Motion and Path Planning
+  - Human-Crowd Interaction
+  _cache: 1c104e3c89790c1ed4d1cde63267c4bcc50a1c81bd6f5331d452aecedfe17dd7
 - id: 10.1109/ICRA48506.2021.9561983
   title: 'Can a Robot Trust You? : A DRL-Based Approach to Trust-Driven Human-Guided
     Navigation'
@@ -120,7 +137,11 @@
   publisher: 2021 IEEE International Conference on Robotics and Automation (ICRA)
   date: '2021-05-30'
   link: https://doi.org/gqrwng
-  _cache: 1fd4f824d6cf05cdb749a98907d87bfc1e8978166dafd4ad93bf2aa0b43f76e6
+  tags:
+  - Social Robotics
+  - Affective Computing
+  - Human-Crowd Interaction
+  _cache: 3e32fbce29480bdcc979e0e16008ed6354124df3e2821cc503019da9d1f6effa
 - id: 10.1109/CVPRW.2018.00151
   title: Classifying Group Emotions for Socially-Aware Autonomous Vehicle Navigation
   authors:
@@ -134,7 +155,12 @@
     (CVPRW)
   date: '2018-06-01'
   link: https://doi.org/gh7nrw
-  _cache: 653b65bf9bf9f8518d06db6a3021c3b15fb2337306fe6a7ff4e363e8cfd7f9f7
+  tags:
+  - Autonomous Driving
+  - Motion and Path Planning
+  - Affective Computing
+  - Human-Crowd Interaction
+  _cache: 25580ce910fe9d7e17eff53eeeaf4b328b1ba74f8ace593bdee17af7f30c6862
 - id: 10.1109/IROS45743.2020.9341720
   title: 'CMetric: A Driving Behavior Measure using Centrality Functions'
   authors:
@@ -147,7 +173,11 @@
     (IROS)
   date: '2020-10-24'
   link: https://doi.org/gpg33n
-  _cache: 8cc2745e202c568b202aed293464fc4db37efdc260c3d7a8bb97ee4cb8a24fa0
+  tags:
+  - Autonomous Driving
+  - Motion and Path Planning
+  - Affective Computing
+  _cache: 99b48bb32e032a12537b72dd997a91f193462c3b44575bff1ce67325a6b2c9aa
 - id: 10.1109/FG52635.2021.9667034
   title: Contextual Emotion Learning Challenge
   authors:
@@ -169,7 +199,9 @@
     Recognition (FG 2021)
   date: '2021-12-15'
   link: https://doi.org/gpfhjz
-  _cache: 7e26b392749e38f621b1e519b9a454c756eb66c8aeb146deb9c4d8df76375159
+  tags:
+  - Affective Computing
+  _cache: ece14b5ae5cdd16a49643acbe3cad486beabfad043c8d2150c3955bdafcc10db
 - id: 10.1145/3281505.3281524
   title: Data-driven modeling of group entitativity in virtual environments
   authors:
@@ -183,7 +215,11 @@
     Technology
   date: '2018-11-28'
   link: https://doi.org/gqw49p
-  _cache: 8617825c89846f19aaca299c6d09b1ad881c0c9d9a07ddf6531a7e459a0131be
+  tags:
+  - Virtual Agents
+  - Crowd Simulation
+  - Affective Computing
+  _cache: 749928b6467be34b6a5e9c586b9c275f622910128fc5360fa771aed5b3ba8187
 - id: 10.1109/IROS40897.2019.8968470
   title: 'DensePeds: Pedestrian Tracking in Dense Crowds Using Front-RVO and Sparse
     Features'
@@ -196,7 +232,12 @@
     (IROS)
   date: '2019-11-01'
   link: https://doi.org/gqw49q
-  _cache: de739646f52b07c4d5a5bd25b9d2b5e60780b065cc8368bcefc1cadc932f01e5
+  tags:
+  - Human-Crowd Interaction
+  - Motion and Path Planning
+  - Crowd Simulation
+  - Affective Computing
+  _cache: a965add79f75f3e2170867a9149e35df48c561d3f57bf74a86ac1011fd45d5fa
 - id: 10.1109/CVPRW.2018.00149
   title: Efficient and Safe Vehicle Navigation Based on Driver Behavior Classification
   authors:
@@ -207,7 +248,12 @@
     (CVPRW)
   date: '2018-06-01'
   link: https://doi.org/gqw49r
-  _cache: ce416f59ce9c1f5f64f65a8d83d6368fe9dd8993ff640f7ea1c839b506ec1919
+  tags:
+  - Autonomous Driving
+  - Motion and Path Planning
+  - Affective Computing
+  - Human-Crowd Interaction
+  _cache: 8233a025fd870b13b76dd0023dc340d5bea3908d2742fda2a14876c67639fb96
 - id: http://dl.acm.org/citation.cfm?id=2788903
   title: Efficient trajectory extraction and parameter learning for data-driven crowd
     simulation
@@ -218,7 +264,11 @@
   publisher: Proceedings of the 41st Graphics Interface Conference
   date: '2015-06-03'
   link: http://dl.acm.org/citation.cfm?id=2788903
-  _cache: bd5a9570e3b59117325736e2a3d58a6e5ff8008a6a8d512c0332b7a7096c9015
+  tags:
+  - Virtual Agents
+  - Crowd Simulation
+  - Affective Computing
+  _cache: b210327d3f3e106936106fba8db432408e7e1cb08504ee43ad3210a1eb00aade
 - id: 10.1109/CVPR42600.2020.01424
   title: "EmotiCon: Context-Aware Multimodal Emotion Recognition Using Frege\u2019\
     s Principle"
@@ -232,7 +282,10 @@
   publisher: 2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
   date: '2020-06-01'
   link: https://doi.org/gg99p8
-  _cache: 5f2189636d929f4711cab4e0bf31f3cf4aba67206fc1ae7189c52feef5be41b8
+  tags:
+  - Affective Computing
+  - Emotion Recognition
+  _cache: 417ebdf85b8d77536da2a48f643510aec6579437e8491421630e0519dcd1ee19
 - id: 10.1145/3394171.3413570
   title: Emotions Don't Lie
   authors:
@@ -244,7 +297,10 @@
   publisher: Proceedings of the 28th ACM International Conference on Multimedia
   date: '2020-10-12'
   link: https://doi.org/gqw49s
-  _cache: 1b45701971eb0df92d80a629b47350688c1d0a7c5b106907b0fda4ec1c3bfa79
+  tags:
+  - Affective Computing
+  - Emotion Recognition
+  _cache: 2622abeb2508211416f207f55e6a2c0caa8bfc4364ac16075846cd2c5a63f61a
 - id: 10.1109/VR51125.2022.00061
   title: 'ENI: Quantifying Environment Compatibility for Natural Walking in Virtual
     Reality'
@@ -255,7 +311,9 @@
   publisher: 2022 IEEE Conference on Virtual Reality and 3D User Interfaces (VR)
   date: '2022-03-01'
   link: https://doi.org/gqrwnd
-  _cache: 99e3607ba92c4c4f4a500adcac8301b1b0cf68ee0a115be5463211fb41e9ecdc
+  tags:
+  - XR Locomotion Interfaces
+  _cache: 098101fec9046693cf54e9d46fb02be5efb6e1cdb46311b4288c0c9db7577a37
 - id: 10.48550/arXiv.2207.07165
   title: Estimating Emotion Contagion on Social Media via Localized Diffusion in Dynamic
     Graphs
@@ -271,7 +329,10 @@
   publisher: arXiv
   date: '2022-01-01'
   link: https://doi.org/gqw49t
-  _cache: 6198c7588ae58c7767310d1576e99e52516f1862d55b89fdb2df62f870a95f37
+  tags:
+  - Affective Computing
+  - Emotion Recognition
+  _cache: 81d320a03b3fb7119a663954c15df233a7bdec2069f918b1824c2e54fc35bca3
 - id: 10.1145/3343036.3343129
   title: 'EVA: Generating Emotional Behavior of Virtual Agents using Expressive Features
     of Gait and Gaze'
@@ -285,8 +346,12 @@
   publisher: ACM Symposium on Applied Perception 2019
   date: '2019-09-19'
   link: https://doi.org/gqw49v
-  _cache: b6e877036f8c97740683d0cce97683e38e1fbe75af1979cf5711a2162ebcfc42
-- id: arXiv:2011.09438
+  tags:
+  - Virtual Agents
+  - Crowd Simulation
+  - Affective Computing
+  _cache: 74d12de13b7416e6d7cc4b6aa63cfc48fd03c559e8d5142f88f706d79f08f920
+- id: 10.48550/arXiv.2011.09438
   title: 'EWareNet: Emotion Aware Human Intent Prediction and Adaptive Spatial Profile
     Fusion for Social Robot Navigation'
   authors:
@@ -295,9 +360,14 @@
   - Rama Prashanth RV
   - Aniket Bera
   publisher: arXiv
-  date: '2020-12-03'
-  link: https://arxiv.org/abs/2011.09438
-  _cache: 06bdab1326843329837904a901ca20c29000dbe1115f6e15f59a0b0e3502c054
+  date: '2020-01-01'
+  link: https://doi.org/gqzr35
+  tags:
+  - Social Robotics
+  - Human-Crowd Interaction
+  - Motion and Path Planning
+  - Affective Computing
+  _cache: d10aa5fa14d5187a1d6d78be4412efae66c3edff7541feed2c5fa86393b7de1b
 - id: 10.1162/PRES_a_00294
   title: 'F2FCrowds: Planning Agent Movements to Enable Face-to-Face Interactions'
   authors:
@@ -307,7 +377,11 @@
   publisher: 'Presence: Teleoperators and Virtual Environments'
   date: '2017-05-01'
   link: https://doi.org/gc6j8t
-  _cache: 0185142db3736c12fa807d22ad9ab36ec66a34b9a1b3213cfea7b9b5ff35f23e
+  tags:
+  - Virtual Agents
+  - Crowd Simulation
+  - Affective Computing
+  _cache: d9145f9b18977c6bfff156319a08f8fa2ae630f2e0a0204a5c5775b8fb076993
 - id: 10.1109/LRA.2020.3004794
   title: Forecasting Trajectory and Behavior of Road-Agents Using Spectral Clustering
     in Graph-LSTMs
@@ -322,7 +396,12 @@
   publisher: IEEE Robotics and Automation Letters
   date: '2020-07-01'
   link: https://doi.org/gjr73f
-  _cache: 6bccd4a352f4d849abb4e558fcc7a4465e837d8b65db496f5e5f027c87a43510
+  tags:
+  - Autonomous Driving
+  - Human-Crowd Interaction
+  - Motion and Path Planning
+  - Affective Computing
+  _cache: 1defcc725f70c646098beb657bb577ccd275c477ef5f0fb12e12f12ab11b9aed
 - id: 10.1109/TVCG.2019.2932235
   title: <i>FVA:</i>Modeling Perceived Friendliness of Virtual Agents Using Movement
     Characteristics
@@ -335,7 +414,11 @@
   publisher: IEEE Transactions on Visualization and Computer Graphics
   date: '2019-11-01'
   link: https://doi.org/gqw49w
-  _cache: 6f52dd74fe61752e587f2b4ec492c0554b990f5cfaae47391bd4d788aa4f75eb
+  tags:
+  - Virtual Agents
+  - Crowd Simulation
+  - Affective Computing
+  _cache: 9b81382b2dfb04cd57aec22e5d9c01e1406c2dbee3c57d6b64878e2b9a1cfe01
 - id: 10.1109/ISMAR50242.2020.00020
   title: Generating Emotive Gaits for Virtual Agents Using Affect-Based Autoregression
   authors:
@@ -349,7 +432,11 @@
   publisher: 2020 IEEE International Symposium on Mixed and Augmented Reality (ISMAR)
   date: '2020-11-01'
   link: https://doi.org/gktm3k
-  _cache: c721b2fc61cfe355134131a734e0108aac18da9a78a0abc9d5574122041e7ef0
+  tags:
+  - Virtual Agents
+  - Crowd Simulation
+  - Affective Computing
+  _cache: 0d0f364f78164a8229a6bbe45ed20cd1a342b3d10a720cee321ce7337daff648
 - id: 10.1109/ICRA.2016.7487768
   title: GLMP- realtime pedestrian path prediction using global and local movement
     patterns
@@ -362,7 +449,12 @@
   publisher: 2016 IEEE International Conference on Robotics and Automation (ICRA)
   date: '2016-05-01'
   link: https://doi.org/gqw49x
-  _cache: 43e36381464728932a1285a4e820fe7f9d52743c17622895f5bd00a6d379e67f
+  tags:
+  - Human-Crowd Interaction
+  - Motion and Path Planning
+  - Crowd Simulation
+  - Affective Computing
+  _cache: 3f23e998f7fae89db692dbc50ad87f44085820c4ccf008120a97239779e9a576
 - id: 10.1109/ICRA40945.2020.9196751
   title: 'GraphRQI: Classifying Driver Behaviors Using Graph Spectrums'
   authors:
@@ -375,7 +467,10 @@
   publisher: 2020 IEEE International Conference on Robotics and Automation (ICRA)
   date: '2020-05-01'
   link: https://doi.org/gqw49z
-  _cache: a960c6600298bb2dc77a17b0c6d58cc5384f77497e98e380ef7eef2c61d2e9a9
+  tags:
+  - Autonomous Driving
+  - Affective Computing
+  _cache: 56cf83df2e37571c79a34acffccf2fa4eaebd6473d90562646c28013ce447549
 - id: 10.1109/FG47880.2020.00141
   title: How are you feeling? Multimodal Emotion Learning for Socially-Assistive Robot
     Navigation
@@ -391,7 +486,12 @@
     Recognition (FG 2020)
   date: '2020-11-01'
   link: https://doi.org/gqw492
-  _cache: d7ae49c6c6e005b1cbcef7e4bfca7225f9bcfcdffff5f1bed78ef6262ee99b55
+  tags:
+  - Social Robotics
+  - Human-Crowd Interaction
+  - Motion and Path Planning
+  - Affective Computing
+  _cache: 2a982241631b6a11ee2e1a6612a4787bc403cb75f570b1b9cbeb635b581b63c0
 - id: 10.1109/IROS.2018.8594348
   title: Identifying Driver Behaviors Using Trajectory Features for Vehicle Navigation
   authors:
@@ -404,8 +504,11 @@
     (IROS)
   date: '2018-10-01'
   link: https://doi.org/gjr7zx
-  _cache: 7bd932392c059b3f647f3316b7268dc665eee0c1e631d289aaec98b2a6072117
-- id: arXiv:1906.11884
+  tags:
+  - Autonomous Driving
+  - Affective Computing
+  _cache: ed2a3662434aa0f5b45d8841693c462d94f30f23f17fab11558bac19d9f154e1
+- id: 10.48550/arXiv.1906.11884
   title: Identifying Emotions from Walking using Affective and Deep Features
   authors:
   - Tanmay Randhavane
@@ -415,9 +518,12 @@
   - Aniket Bera
   - Dinesh Manocha
   publisher: arXiv
-  date: '2020-01-13'
-  link: https://arxiv.org/abs/1906.11884
-  _cache: 70b33f74cf5d3cb20f0599c2f9f9d8602df8062fb6950fbff75d8918862cd7dc
+  date: '2019-01-01'
+  link: https://doi.org/gqzr36
+  tags:
+  - Affective Computing
+  - Emotion Recognition
+  _cache: 51e4b7b975cfce1d21dee9640b7c38daf9bebe782c1874a09adfd79c453e63b5
 - id: http://openaccess.thecvf.com/content_CVPRW_2019/html/Face_and_Gesture_Analysis_for_Health_Informatics/Bera_Improving_Socially-aware_Multi-channel_Human_Emotion_Prediction_for_Robot_Navigation_CVPRW_2019_paper.html
   title: Improving Socially-aware Multi-channel Human Emotion Prediction for Robot
     Navigation
@@ -428,7 +534,12 @@
   publisher: ''
   date: '2019-01-01'
   link: https://openaccess.thecvf.com/content_CVPRW_2019/html/Face_and_Gesture_Analysis_for_Health_Informatics/Bera_Improving_Socially-aware_Multi-channel_Human_Emotion_Prediction_for_Robot_Navigation_CVPRW_2019_paper.html
-  _cache: 3236bf904460f0244e8a07f1a4cc22ee74d6c70b234920400f03d31697c46eb6
+  tags:
+  - Social Robotics
+  - Human-Crowd Interaction
+  - Motion and Path Planning
+  - Affective Computing
+  _cache: 72e3ca3d4eedf43b7b19d6287a7f51b1c2f9227b587fc933696f1995eb479697
 - id: 10.1109/VR.2016.7504685
   title: Interactive and adaptive data-driven crowd simulation
   authors:
@@ -440,7 +551,11 @@
   publisher: 2016 IEEE Virtual Reality (VR)
   date: '2016-03-01'
   link: https://doi.org/gqw493
-  _cache: cb83f9acf5dd37cf198c310f7c81ac5c73b0907cd892595fc95b457a3e95bf45
+  tags:
+  - Virtual Agents
+  - Crowd Simulation
+  - Affective Computing
+  _cache: 4237225b6335324430a8efac60787af2f649bfba4cb706cd9caeaf772004c942
 - id: 10.1109/VR.2016.7504784
   title: 'Interactive and adaptive data-driven crowd simulation: User study'
   authors:
@@ -450,7 +565,11 @@
   publisher: 2016 IEEE Virtual Reality (VR)
   date: '2016-03-01'
   link: https://doi.org/gqw494
-  _cache: 6f9da738159a273894274e4f1c8bc61dfb85b5007927eb3de1d51797f95f036f
+  tags:
+  - Virtual Agents
+  - Crowd Simulation
+  - Affective Computing
+  _cache: a66e4f15c767e0fb6df130c82b306d7d6ab5ca618dcd5ae31261b02f28c6674b
 - id: 10.1109/ISM.2015.89
   title: Interactive Crowd Content Generation and Analysis Using Trajectory-Level
     Behavior Learning
@@ -461,7 +580,11 @@
   publisher: 2015 IEEE International Symposium on Multimedia (ISM)
   date: '2015-12-01'
   link: https://doi.org/gqw495
-  _cache: d77b7fb6cfb74c4142e4a968d557eb2020fa9349fa54b42913fa574ba371b708
+  tags:
+  - Virtual Agents
+  - Crowd Simulation
+  - Affective Computing
+  _cache: 6b7065de0d9d9d8a3cda261561a2fa4be96e4a010e24b6121eb0ef391c7eefc5
 - id: 10.1109/MCG.2016.113
   title: Interactive Crowd-Behavior Learning for Surveillance and Training
   authors:
@@ -471,16 +594,23 @@
   publisher: IEEE Computer Graphics and Applications
   date: '2016-11-01'
   link: https://doi.org/gqw496
-  _cache: 90e154a325b08babc48583a6b5e81d15870776aa8d3386ac629442cfbf4d1b6f
-- id: arXiv:1810.03965
+  tags:
+  - Virtual Agents
+  - Crowd Simulation
+  - Affective Computing
+  _cache: 1276bccd7aff9cfea91d77835bce7a554754d0bcfccf7ec68b131d5fd25754f0
+- id: 10.48550/arXiv.1810.03965
   title: Interactive Surveillance Technologies for Dense Crowds
   authors:
   - Aniket Bera
   - Dinesh Manocha
   publisher: arXiv
-  date: '2018-10-10'
-  link: https://arxiv.org/abs/1810.03965
-  _cache: d4eb94290c35b80345757b04e6505ed316a192fd2766be1c66750de45a30de86
+  date: '2018-01-01'
+  link: https://doi.org/gqzr37
+  tags:
+  - Crowd Simulation
+  - Affective Computing
+  _cache: b479fb1594f2ac4f28695797869b404e14b4a059696cae6b4b77fce8c6bb99ad
 - id: 10.1016/j.neucom.2018.08.085
   title: 'LCrowdV: Generating labeled videos for pedestrian detectors training and
     crowd behavior learning'
@@ -493,7 +623,11 @@
   publisher: Neurocomputing
   date: '2019-04-01'
   link: https://doi.org/gqw497
-  _cache: f7780e41630d9e1f974e2e877aa355c2899ba61af94c0d4459fc526c9f234c5e
+  tags:
+  - Virtual Agents
+  - Crowd Simulation
+  - Affective Computing
+  _cache: 22921f2ef5180679693d6be6d37fdf209771f986b84a2eedd08d774b3fa62364
 - id: 10.1007/978-3-319-48881-3_50
   title: 'LCrowdV: Generating Labeled Videos for Simulation-Based Crowd Behavior Learning'
   authors:
@@ -505,7 +639,11 @@
   publisher: Lecture Notes in Computer Science
   date: '2016-01-01'
   link: https://doi.org/gqw498
-  _cache: 35b471c69d93ca24787f3324b16928fa0a2e62bb62c378eaea57c52901e9e01a
+  tags:
+  - Virtual Agents
+  - Crowd Simulation
+  - Affective Computing
+  _cache: c552ec54227f75f6365fe364eecbd048bd8d00eeecad08c74da5c4147b78bb12
 - id: 10.1109/ISMAR-Adjunct.2019.000-2
   title: Learning Perceived Emotion Using Affective and Deep Features for Mental Health
     Applications
@@ -520,8 +658,11 @@
     (ISMAR-Adjunct)
   date: '2019-10-01'
   link: https://doi.org/gqw499
-  _cache: 6756039c741fea1a77fcb2ebc614e2738b71c8c573323dd90180a52fdec7468a
-- id: https://ojs.aaai.org/index.php/AAAI/article/view/19873
+  tags:
+  - Mental Health
+  - Affective Computing
+  _cache: c20074049f8aabacf279ae7584d1f79e127c78acbacc97f13576c3c9966b6f79
+- id: 10.1609/aaai.v36i1.19873
   title: Learning Unseen Emotions from Gestures via Semantically-Conditioned Zero-Shot
     Perception with Adversarial Autoencoders
   authors:
@@ -530,9 +671,12 @@
   - Aniket Bera
   publisher: Proceedings of the AAAI Conference on Artificial Intelligence
   date: '2022-06-28'
-  link: https://ojs.aaai.org/index.php/AAAI/article/view/19873
-  _cache: e177457123273ab74533e3c4a45e107268fb5947864456c10e5dc44b1d835605
-- id: https://ojs.aaai.org/index.php/AAAI/article/view/5492
+  link: https://doi.org/gqzr24
+  tags:
+  - Affective Computing
+  - Emotion Recognition
+  _cache: cb5941fc533e8d7ac0ef3bba7513cc6a8a29685306375c6eebc31432a5efa124
+- id: 10.1609/aaai.v34i02.5492
   title: 'M3ER: Multiplicative Multimodal Emotion Recognition using Facial, Textual,
     and Speech Cues'
   authors:
@@ -543,20 +687,27 @@
   - Dinesh Manocha
   publisher: Proceedings of the AAAI Conference on Artificial Intelligence
   date: '2020-04-03'
-  link: https://ojs.aaai.org/index.php/AAAI/article/view/5492
-  _cache: 7c19b3075356557b9adfb76c7c157c74b0d1321b9c9e914838d88d7016f2ec14
-- id: arXiv:1707.09100
-  title: 'MixedPeds: Pedestrian Detection in Unannotated Videos using Synthetically
-    Generated Human-agents for Training'
+  link: https://doi.org/gk84m2
+  tags:
+  - Affective Computing
+  - Emotion Recognition
+  _cache: 291c36a44ce49a60d42302eed0974d6112d3f9c290e731d36236fe5c7d262a41
+- id: 10.1609/aaai.v32i1.12325
+  title: 'MixedPeds: Pedestrian Detection in Unannotated Videos Using Synthetically
+    Generated Human-Agents for Training'
   authors:
-  - Ernest C. Cheung
-  - Tsan Kwong Wong
+  - Ernest Cheung
+  - Anson Wong
   - Aniket Bera
   - Dinesh Manocha
-  publisher: arXiv
-  date: '2017-11-15'
-  link: https://arxiv.org/abs/1707.09100
-  _cache: 4766c85643baad083664f10cf061f8a543fb401fc397000b212958cff60502e3
+  publisher: Proceedings of the AAAI Conference on Artificial Intelligence
+  date: '2018-04-27'
+  link: https://doi.org/gqzr25
+  tags:
+  - Virtual Agents
+  - Crowd Simulation
+  - Affective Computing
+  _cache: 3681012563acf2c430b20d4be092db18e8d3b7e00eb18502f58afea70c3873f0
 - id: 10.1109/TVCG.2019.2953063
   title: Modeling Data-Driven Dominance Traits for Virtual Characters Using Gait Analysis
   authors:
@@ -568,7 +719,11 @@
   publisher: IEEE Transactions on Visualization and Computer Graphics
   date: '2021-06-01'
   link: https://doi.org/gqw48s
-  _cache: d86fdc54b123202f4b945ce4c10733101bf29afe6de571de258bdadb74e1ebef
+  tags:
+  - Virtual Agents
+  - Crowd Simulation
+  - Affective Computing
+  _cache: 49ec11d40d140b5140d305a912c275a27c974408d78bdac6c1a78df1b66a1c68
 - id: 10.1109/CVPRW.2019.00035
   title: Modelling Multi-Channel Emotions Using Facial Expression and Trajectory Cues
     for Improving Socially-Aware Robot Navigation
@@ -580,7 +735,12 @@
     (CVPRW)
   date: '2019-06-01'
   link: https://doi.org/gh7nnk
-  _cache: 6688342f98e4719b8a90d42b2f1ec51ebc5058d13dfe8f554b54d4e39798104a
+  tags:
+  - Social Robotics
+  - Human-Crowd Interaction
+  - Motion and Path Planning
+  - Affective Computing
+  _cache: 016d339d83f897831e68ed5a0d18a68449131c4b9915e2041abf6c50edf815b8
 - id: 10.1109/MMUL.2021.3068387
   title: Multimodal and Context-Aware Emotion Perception Model With Multiplicative
     Fusion
@@ -591,7 +751,10 @@
   publisher: IEEE MultiMedia
   date: '2021-04-01'
   link: https://doi.org/gqw5bb
-  _cache: 4d646e88321a17bb2c73a08957f24899a7736dcf18e5ae0d35ae333b7ae7dd19
+  tags:
+  - Affective Computing
+  - Emotion Recognition
+  _cache: 0c61e131e726df147925e13eb873a7b2cc5ac10bedf3c4ffd7f0f1658bd6cbe9
 - id: 10.1016/j.cag.2015.10.009
   title: Online parameter learning for data-driven crowd simulation and content generation
   authors:
@@ -601,7 +764,10 @@
   publisher: Computers &amp; Graphics
   date: '2016-04-01'
   link: https://doi.org/f8hgfw
-  _cache: 53083c17e47b3e18c9675bd90301a0670932bdc3f881894c1dc88bb50b72ad03
+  tags:
+  - Virtual Agents
+  - Crowd Simulation
+  _cache: 412b99ad3fc8ee0d4cfac59aa324bc1102892c51880c2d789763a58ddb9aa52f
 - id: 10.1109/ICRA.2019.8794465
   title: Pedestrian Dominance Modeling for Socially-Aware Robot Navigation
   authors:
@@ -614,7 +780,12 @@
   publisher: 2019 International Conference on Robotics and Automation (ICRA)
   date: '2019-05-01'
   link: https://doi.org/gh7nnm
-  _cache: a0ba2f835b59b2948ab04e8f1812a056e33aa5ee5a953bb3bf6ae3c66e34bfc4
+  tags:
+  - Social Robotics
+  - Human-Crowd Interaction
+  - Motion and Path Planning
+  - Affective Computing
+  _cache: 3d6a4927000d154b602b868492869c8749ea4b8ffd2fe8f12b7958a0474b6e51
 - id: 10.48550/arXiv.2209.06314
   title: Placing Human Animations into 3D Scenes by Learning Interaction- and Geometry-Driven
     Keyframes
@@ -626,7 +797,11 @@
   publisher: arXiv
   date: '2022-01-01'
   link: https://doi.org/gqw5bc
-  _cache: e7e32137cc5c58d99c6558f3bcb1231c3ebf16958380d75f386d0d9da9477c13
+  tags:
+  - Virtual Agents
+  - Crowd Simulation
+  - Affective Computing
+  _cache: d4e496ba10ef294697001ee530bfd0ab696fd0455e9f59b0763f3815ba2add45
 - id: 10.1109/LRA.2018.2852793
   title: 'PORCA: Modeling and Planning for Autonomous Driving Among Many Pedestrians'
   authors:
@@ -639,7 +814,11 @@
   publisher: IEEE Robotics and Automation Letters
   date: '2018-10-01'
   link: https://doi.org/gg7zmj
-  _cache: cc8677cf8bd4ae222f9ee354625bd466ea8724ba519e2bf8f12a61170c17a915
+  tags:
+  - Autonomous Driving
+  - Human-Crowd Interaction
+  - Motion and Path Planning
+  _cache: 9a2d193267d6ec655f6872ad85c6f3be16a0c2b404bd40b62e7fa5afe9d41b8f
 - id: 10.1109/IROS45743.2020.9340710
   title: 'ProxEmo: Gait-based Emotion Learning and Multi-view Proxemic Fusion for
     Socially-Aware Robot Navigation'
@@ -653,17 +832,26 @@
     (IROS)
   date: '2020-10-24'
   link: https://doi.org/gqw5bd
-  _cache: 25c291d3b1b2672e537fe9d05fe98ad503a9e48eb11165f0885a8f1dfb975f1e
-- id: arXiv:2011.08722
+  tags:
+  - Social Robotics
+  - Human-Crowd Interaction
+  - Motion and Path Planning
+  - Affective Computing
+  _cache: 9f50a75ac122aa7b32807c714fc3a7c4c85f963661bab9607a40d1a01dc5c728
+- id: 10.48550/arXiv.2011.08722
   title: 'RAIST: Learning Risk Aware Traffic Interactions via Spatio-Temporal Graph
     Convolutional Networks'
   authors:
   - Videsh Suman
   - Aniket Bera
   publisher: arXiv
-  date: '2020-11-18'
-  link: https://arxiv.org/abs/2011.08722
-  _cache: 99784ec1db39d282ab8ad9185ddac0dcdb181b3cc5d815942cc7dd724f6cc223
+  date: '2020-01-01'
+  link: https://doi.org/gqzr38
+  tags:
+  - Autonomous Driving
+  - Human-Crowd Interaction
+  - Motion and Path Planning
+  _cache: 6155f1472b2d2b9330a1ce56a66a7ab19213d7b73f2ab8a4dc40619f9bb22986
 - id: 10.1109/ICRA.2015.7139261
   title: REACH - Realtime crowd tracking using a hybrid motion model
   authors:
@@ -672,7 +860,12 @@
   publisher: 2015 IEEE International Conference on Robotics and Automation (ICRA)
   date: '2015-05-01'
   link: https://doi.org/gqw5bf
-  _cache: 2ca46aad4126bb33a01fc947c577c991ca0bee4e040e7a4d9d6edb024d8d3e39
+  tags:
+  - Human-Crowd Interaction
+  - Motion and Path Planning
+  - Crowd Simulation
+  - Affective Computing
+  _cache: e156d68de44fab4bbed60762d13027dfa0d3fc39b9836ba1fb8a9e914c496b39
 - id: 10.1109/CVPRW.2016.163
   title: Realtime Anomaly Detection Using Trajectory-Level Crowd Behavior Learning
   authors:
@@ -683,7 +876,12 @@
     (CVPRW)
   date: '2016-06-01'
   link: https://doi.org/ghj5x5
-  _cache: 9dcf96ef9857317a197274bca0417ed2286f6e609565f2a292c5e8b20d80f255
+  tags:
+  - Human-Crowd Interaction
+  - Motion and Path Planning
+  - Crowd Simulation
+  - Affective Computing
+  _cache: 6a91640894f36f3cfad18ff020b2d5e81a7a29103d8ce9b9eb26d27269491e82
 - id: 10.1109/ICPR.2014.714
   title: Realtime Multilevel Crowd Tracking Using Reciprocal Velocity Obstacles
   authors:
@@ -692,7 +890,12 @@
   publisher: 2014 22nd International Conference on Pattern Recognition
   date: '2014-08-01'
   link: https://doi.org/gqw5bg
-  _cache: 5d38f05b78c473010f398f36134256f652f260f52bfaa3c58b7ceb9d41d4e800
+  tags:
+  - Human-Crowd Interaction
+  - Motion and Path Planning
+  - Crowd Simulation
+  - Affective Computing
+  _cache: e00735337e9f0a6f4bcd1eca30e7ddced294ef4fa772ad44776165b20ebcdec7
 - id: 10.1016/B978-0-12-809276-7.00020-5
   title: Realtime Pedestrian Tracking and Prediction in Dense Crowds
   authors:
@@ -703,7 +906,12 @@
   publisher: Group and Crowd Behavior for Computer Vision
   date: '2017-01-01'
   link: https://doi.org/gqw5bh
-  _cache: f9fc08eacc70fc528b9ef3561e4a1a36c1ce9b2dbeb7e752a44337aa9262024c
+  tags:
+  - Human-Crowd Interaction
+  - Motion and Path Planning
+  - Crowd Simulation
+  - Affective Computing
+  _cache: 695793e81d6e3beaa4d3c5a388fae250f4494a86b66ad0a40dc8719347c9378f
 - id: 10.1109/TVCG.2021.3106432
   title: Redirected Walking in Static and Dynamic Scenes Using Visibility Polygons
   authors:
@@ -713,7 +921,9 @@
   publisher: IEEE Transactions on Visualization and Computer Graphics
   date: '2021-11-01'
   link: https://doi.org/gqrwnf
-  _cache: 353a1a9a4c5509bc3bfb2ee64c43f3c696b011bdcb7e43d2acee45c9ca297b40
+  tags:
+  - XR Locomotion Interfaces
+  _cache: 555254103245d5369c8ebcf9ebf627d5e2be9bad10e1572c2ee2a3e96917ea7a
 - id: 10.1109/VRW52623.2021.00072
   title: Redirection Using Alignment
   authors:
@@ -724,7 +934,9 @@
     and Workshops (VRW)
   date: '2021-03-01'
   link: https://doi.org/gqw5bj
-  _cache: 3c6f4a2546bc3c23a8faae41a54f95386de179ad0f973a2d83307fc1910b5835
+  tags:
+  - XR Locomotion Interfaces
+  _cache: 5edb97357fd3185d8ea98adb11931ed74a5c8eb944fa5d1d8ab9a41841fe59d9
 - id: 10.1109/ICRA40945.2020.9196612
   title: 'RoadTrack: Realtime Tracking of Road Agents in Dense and Heterogeneous Environments'
   authors:
@@ -736,7 +948,11 @@
   publisher: 2020 IEEE International Conference on Robotics and Automation (ICRA)
   date: '2020-05-01'
   link: https://doi.org/gqw5bk
-  _cache: 3f36d629d857452e5ccfaf24c4792a3204ca771cf3485442772931394ffa4b5c
+  tags:
+  - Autonomous Driving
+  - Human-Crowd Interaction
+  - Motion and Path Planning
+  _cache: 9ce99d433d1195d4ab990ff22748ff83feab125cdcbdff7cc68fad2b02572301
 - id: 10.1145/3359999.3360495
   title: 'RobustTP: End-to-End Trajectory Prediction for Heterogeneous Road-Agents
     in Dense Traffic with Noisy Sensor Inputs'
@@ -749,17 +965,12 @@
   publisher: ACM Computer Science in Cars Symposium
   date: '2019-10-08'
   link: https://doi.org/gqw5bm
-  _cache: 2b2e3f3811471b1dad366cc36966edb93d941078a4ad80bf7ac843610c081935
-- id: 10.1145/2007052.2007058
-  title: Scene flow estimation from stereo video source
-  authors:
-  - Aniket Bera
-  publisher: Proceedings of the International Conference on Advances in Computing
-    and Artificial Intelligence - ACAI '11
-  date: '2011-01-01'
-  link: https://doi.org/d4426s
-  _cache: 8b78cc6a9a86a8f99934bef6e5f5ab543f0da33790788991ecb1ac598341a22b
-- id: arXiv:2011.08682
+  tags:
+  - Autonomous Driving
+  - Human-Crowd Interaction
+  - Motion and Path Planning
+  _cache: fb6b1856c8c0d33ebf488262f56d5cbd7a28e864f443c9e360b28d6e8c92eac1
+- id: 10.48550/arXiv.2011.08682
   title: 'SeekNet: Improved Human Instance Segmentation via Reinforcement Learning
     Based Optimized Robot Relocation'
   authors:
@@ -768,9 +979,14 @@
   - Rama Prashanth RV
   - Aniket Bera
   publisher: arXiv
-  date: '2020-11-18'
-  link: https://arxiv.org/abs/2011.08682
-  _cache: e929d7588a0be7ce9919f4e1437323a32be2dc66ec8098585356ac1e7440f289
+  date: '2020-01-01'
+  link: https://doi.org/gqzr39
+  tags:
+  - Social Robotics
+  - Human-Crowd Interaction
+  - Motion and Path Planning
+  - Affective Computing
+  _cache: a09c4da7604dbc737a83f3ce9da5b1f0b3530eac955ea32a416260ac49bc8591
 - id: 10.1109/IROS.2017.8206628
   title: 'SocioSense: Robot navigation amongst pedestrians with social and psychological
     constraints'
@@ -783,8 +999,13 @@
     (IROS)
   date: '2017-09-01'
   link: https://doi.org/gh7nkw
-  _cache: f2e1387f22f6c233a99326210ba53a29916323938679902ff48446da3d80e96d
-- id: arXiv:1707.09100
+  tags:
+  - Social Robotics
+  - Human-Crowd Interaction
+  - Motion and Path Planning
+  - Affective Computing
+  _cache: c6353d564bd8246afe0d737b47d6d2195eb0e27ac9b3ed257af01c0e208ade4a
+- id: 10.48550/arXiv.1707.09100
   title: 'MixedPeds: Pedestrian Detection in Unannotated Videos using Synthetically
     Generated Human-agents for Training'
   authors:
@@ -793,10 +1014,13 @@
   - Aniket Bera
   - Dinesh Manocha
   publisher: arXiv
-  date: '2017-11-15'
-  link: https://arxiv.org/abs/1707.09100
-  _cache: 4766c85643baad083664f10cf061f8a543fb401fc397000b212958cff60502e3
-- id: https://ojs.aaai.org/index.php/AAAI/article/view/5490
+  date: '2017-01-01'
+  link: https://doi.org/gqzr4b
+  tags:
+  - Affective Computing
+  - Emotion Recognition
+  _cache: 46716bb4844d04853ee22430cc55c32bb3eac9807378d26a1258e407c0be0519
+- id: 10.1609/aaai.v34i02.5490
   title: 'STEP: Spatial Temporal Graph Convolutional Networks for Emotion Perception
     from Gaits'
   authors:
@@ -808,18 +1032,24 @@
   - Dinesh Manocha
   publisher: Proceedings of the AAAI Conference on Artificial Intelligence
   date: '2020-04-03'
-  link: https://ojs.aaai.org/index.php/AAAI/article/view/5490
-  _cache: 502099272cf5c0aa3bd8d46f509d1981dc703f397144c279f7742a0daeeefd3b
-- id: arXiv:2011.04816
+  link: https://doi.org/gqzr27
+  tags:
+  - Affective Computing
+  - Emotion Recognition
+  _cache: 9ce8c04bfa7709c014db2923be6f2f529ec680cc5757cb24a7fb84dc843dc9bc
+- id: 10.48550/arXiv.2011.04816
   title: 'StylePredict: Machine Theory of Mind for Human Driver Behavior From Trajectories'
   authors:
   - Rohan Chandra
   - Aniket Bera
   - Dinesh Manocha
   publisher: arXiv
-  date: '2020-11-12'
-  link: https://arxiv.org/abs/2011.04816
-  _cache: 31d7c60206fce8f4170a6e4e0c4f062ab2aa3e991ac3b5ddcbedec4dbaf2e872
+  date: '2020-01-01'
+  link: https://doi.org/gpzrrd
+  tags:
+  - Autonomous Driving
+  - Affective Computing
+  _cache: 9b0e482b184218ff6cd19e17f31b3b2137cd28e843645a5d249c6dee019ba2da
 - id: 10.1007/978-3-030-58607-2_9
   title: 'Take an Emotion Walk: Perceiving Emotions from Gaits Using Hierarchical
     Attention Pooling and Affective Mapping'
@@ -835,7 +1065,10 @@
   publisher: "Computer Vision \u2013 ECCV 2020"
   date: '2020-01-01'
   link: https://doi.org/gqw48t
-  _cache: 5ee3b21f3e553e780b9ae3d0ae9374da497de58441d0149402db89d0277cdaab
+  tags:
+  - Affective Computing
+  - Emotion Recognition
+  _cache: 5a0f5dcf154502e54b2e0d97fe3a88de408589cfae172d55892a5f2779086c0c
 - id: 10.1109/VR50410.2021.00037
   title: 'Text2Gestures: A Transformer-Based Network for Generating Emotive Body Gestures
     for Virtual Agents'
@@ -849,7 +1082,11 @@
   publisher: 2021 IEEE Virtual Reality and 3D User Interfaces (VR)
   date: '2021-03-01'
   link: https://doi.org/gk6ngj
-  _cache: e2f6dd4270a23a754545fbfac8652f73b090914c96646c49b57373217b0801a7
+  tags:
+  - Virtual Agents
+  - Crowd Simulation
+  - Affective Computing
+  _cache: 4c2b1df6f1882169d1ad091fe66678635b36e9575e87113cb403071a88359410
 - id: http://openaccess.thecvf.com/content_CVPRW_2019/html/MMLV/Bera_The_Emotionally_Intelligent_Robot_Improving_Socially-aware_Human_Prediction_in_Crowded_CVPRW_2019_paper.html
   title: 'The Emotionally Intelligent Robot: Improving Socially-aware Human Prediction
     in Crowded Environments'
@@ -860,8 +1097,13 @@
   publisher: ''
   date: '2019-01-01'
   link: https://openaccess.thecvf.com/content_CVPRW_2019/html/MMLV/Bera_The_Emotionally_Intelligent_Robot_Improving_Socially-aware_Human_Prediction_in_Crowded_CVPRW_2019_paper.html
-  _cache: cb35b49278d916bf7696bf32d1ec5bac4b48c41fa93e08f0f790134257445f4a
-- id: arXiv:1912.06874
+  tags:
+  - Social Robotics
+  - Human-Crowd Interaction
+  - Motion and Path Planning
+  - Affective Computing
+  _cache: bd0793e96ec71e7035d515d926d922bf562e9dce843c23e010685371b47d7a36
+- id: 10.48550/arXiv.1912.06874
   title: 'The Liar''s Walk: Detecting Deception with Gait and Gesture'
   authors:
   - Tanmay Randhavane
@@ -871,9 +1113,12 @@
   - Aniket Bera
   - Dinesh Manocha
   publisher: arXiv
-  date: '2020-03-31'
-  link: https://arxiv.org/abs/1912.06874
-  _cache: 6214e2c3d685a72f733ce4950167fe00d04c785c65b0823df1d5037619bd2b2a
+  date: '2019-01-01'
+  link: https://doi.org/gqzr4d
+  tags:
+  - Affective Computing
+  - Emotion Recognition
+  _cache: fc16f7d5c8d71f78e8e1c9bdbbe41c5638bfd58b9e6ff0f38e1159ca33c1c63e
 - id: 10.1109/IROS.2018.8593411
   title: The Socially Invisible Robot Navigation in the Social World Using Robot Entitativity
   authors:
@@ -887,7 +1132,12 @@
     (IROS)
   date: '2018-10-01'
   link: https://doi.org/gh7nrh
-  _cache: 5422b572cdd53e9dc0dd24cf003fc6b0f44e95cad37beab99087e0f66d330f2a
+  tags:
+  - Social Robotics
+  - Human-Crowd Interaction
+  - Motion and Path Planning
+  - Affective Computing
+  _cache: e28988581b6edae9b476e44ffd6ab93d9f3eaf097095f9668b5f572bbee522e5
 - id: 10.1109/CVPR.2019.00868
   title: 'TraPHic: Trajectory Prediction in Dense and Heterogeneous Traffic Using
     Weighted Interactions'
@@ -899,14 +1149,22 @@
   publisher: 2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
   date: '2019-06-01'
   link: https://doi.org/ghnz58
-  _cache: c8553234714b2b3c6d3e7f29d35feb94f237b168093f4ba4523899a0442242ab
-- id: arXiv:2111.02964
+  tags:
+  - Autonomous Driving
+  - Human-Crowd Interaction
+  - Motion and Path Planning
+  - Affective Computing
+  _cache: 12718d3c4072d8c073ae6f45e5e25456478469aac914255844c0d25eeeba49a7
+- id: 10.48550/arXiv.2111.02964
   title: Using Graph-Theoretic Machine Learning to Predict Human Driver Behavior
   authors:
   - Rohan Chandra
   - Aniket Bera
   - Dinesh Manocha
   publisher: arXiv
-  date: '2021-11-05'
-  link: https://arxiv.org/abs/2111.02964
-  _cache: 1950bab69936639cc1a88cd709e56d9f8b2feb7da5d9ee89128dd2ad3a437ff0
+  date: '2021-01-01'
+  link: https://doi.org/gqzr4f
+  tags:
+  - Autonomous Driving
+  - Affective Computing
+  _cache: 9fe5af9b95d3ca39b89dc6ecc7b698e76e92cf4bfe0fd18f41b2c4559ea937ac

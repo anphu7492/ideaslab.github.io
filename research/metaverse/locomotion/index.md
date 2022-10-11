@@ -16,6 +16,6 @@ Exploring virtual environments/Metaverse is an integral part of immersive virtua
 {%  include list.html 
     data="citations" 
     component="citation" 
-    filters="category: locomotion"
+    filters="tags: ~XR Locomotion Interfaces"
     style="" 
 %}

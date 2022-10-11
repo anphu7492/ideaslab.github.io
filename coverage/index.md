@@ -1,7 +1,7 @@
 ---
-title: Media coverage
+title: Media
 nav:
-  # order: 3
+  order: 3
 ---
 
 # <i class="fas fa-globe-americas"></i>IDEAS on the news

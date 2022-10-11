@@ -1,74 +1,350 @@
 - id: 10.1109/TITS.2021.3130218 
-- id: 10.48550/arXiv.2203.14456 
-- id: arXiv:2011.08690 
+  tags:
+    - Autonomous Driving
+    - Affective Computing
+- id: 10.1109/cvpr52688.2022.02039 
+  tags:
+    - Affective Computing
+- id: 10.48550/arXiv.2011.08690 
+  tags:
+    - Mental Health
+    - Affective Computing
+    - Emotion Recognition
 - id: 10.1109/ICRA.2014.6907095 
+  tags:
+    - Human-Crowd Interaction
+    - Motion and Path Planning
+    - Crowd Simulation
+    - Affective Computing
+    - Emotion Recognition
 - id: 10.1109/CVPR46437.2021.00561 
-- id: arXiv:2103.06541 
+  tags:
+    - Affective Computing
+    - Emotion Recognition
 - id: 10.24963/ijcai.2017/17 
+  tags:
+    - Crowd Simulation
+    - Human-Crowd Interaction
+    - Affective Computing
 - id: 10.1109/TVCG.2021.3067781 
-- id: arXiv:1805.11833 
+  tags:
+    - XR Locomotion Interfaces
+- id: 10.48550/arXiv.1805.11833 
+  tags:
+    - Autonomous Driving
+    - Motion and Path Planning
+    - Human-Crowd Interaction
 - id: 10.1109/ICRA48506.2021.9561983 
+  tags:
+    - Social Robotics
+    - Affective Computing
+    - Human-Crowd Interaction
 - id: 10.1109/CVPRW.2018.00151 
+  tags:
+    - Autonomous Driving
+    - Motion and Path Planning
+    - Affective Computing
+    - Human-Crowd Interaction
 - id: 10.1109/IROS45743.2020.9341720 
+  tags:
+    - Autonomous Driving
+    - Motion and Path Planning
+    - Affective Computing
 - id: 10.1109/FG52635.2021.9667034 
+  tags:
+    - Affective Computing
 - id: 10.1145/3281505.3281524 
+  tags:
+    - Virtual Agents
+    - Crowd Simulation
+    - Affective Computing
 - id: 10.1109/IROS40897.2019.8968470 
+  tags:
+    - Human-Crowd Interaction
+    - Motion and Path Planning
+    - Crowd Simulation
+    - Affective Computing
 - id: 10.1109/CVPRW.2018.00149 
+  tags:
+    - Autonomous Driving
+    - Motion and Path Planning
+    - Affective Computing
+    - Human-Crowd Interaction
 - id: http://dl.acm.org/citation.cfm?id=2788903 
+  tags:
+    - Virtual Agents
+    - Crowd Simulation
+    - Affective Computing
 - id: 10.1109/CVPR42600.2020.01424 
+  tags:
+    - Affective Computing
+    - Emotion Recognition
 - id: 10.1145/3394171.3413570 
+  tags:
+    - Affective Computing
+    - Emotion Recognition
 - id: 10.1109/VR51125.2022.00061 
+  tags:
+    - XR Locomotion Interfaces
 - id: 10.48550/arXiv.2207.07165 
+  tags:
+    - Affective Computing
+    - Emotion Recognition
 - id: 10.1145/3343036.3343129 
-- id: arXiv:2011.09438 
+  tags:
+    - Virtual Agents
+    - Crowd Simulation
+    - Affective Computing
+- id: 10.48550/arXiv.2011.09438 
+  tags:
+    - Social Robotics
+    - Human-Crowd Interaction
+    - Motion and Path Planning
+    - Affective Computing
 - id: 10.1162/PRES_a_00294 
+  tags:
+    - Virtual Agents
+    - Crowd Simulation
+    - Affective Computing
 - id: 10.1109/LRA.2020.3004794 
+  tags:
+    - Autonomous Driving
+    - Human-Crowd Interaction
+    - Motion and Path Planning
+    - Affective Computing
 - id: 10.1109/TVCG.2019.2932235 
+  tags:
+    - Virtual Agents
+    - Crowd Simulation
+    - Affective Computing
 - id: 10.1109/ISMAR50242.2020.00020 
+  tags:
+    - Virtual Agents
+    - Crowd Simulation
+    - Affective Computing
 - id: 10.1109/ICRA.2016.7487768 
+  tags:
+    - Human-Crowd Interaction
+    - Motion and Path Planning
+    - Crowd Simulation
+    - Affective Computing
 - id: 10.1109/ICRA40945.2020.9196751 
+  tags:
+    - Autonomous Driving
+    - Affective Computing
 - id: 10.1109/FG47880.2020.00141 
+  tags:
+    - Social Robotics
+    - Human-Crowd Interaction
+    - Motion and Path Planning
+    - Affective Computing
 - id: 10.1109/IROS.2018.8594348 
-- id: arXiv:1906.11884 
+  tags:
+    - Autonomous Driving
+    - Affective Computing
+- id: 10.48550/arXiv.1906.11884 
+  tags:
+    - Affective Computing
+    - Emotion Recognition
 - id: http://openaccess.thecvf.com/content_CVPRW_2019/html/Face_and_Gesture_Analysis_for_Health_Informatics/Bera_Improving_Socially-aware_Multi-channel_Human_Emotion_Prediction_for_Robot_Navigation_CVPRW_2019_paper.html 
+  tags:
+    - Social Robotics
+    - Human-Crowd Interaction
+    - Motion and Path Planning
+    - Affective Computing
 - id: 10.1109/VR.2016.7504685 
+  tags:
+    - Virtual Agents
+    - Crowd Simulation
+    - Affective Computing
 - id: 10.1109/VR.2016.7504784 
+  tags:
+    - Virtual Agents
+    - Crowd Simulation
+    - Affective Computing
 - id: 10.1109/ISM.2015.89 
+  tags:
+    - Virtual Agents
+    - Crowd Simulation
+    - Affective Computing
 - id: 10.1109/MCG.2016.113 
-- id: arXiv:1810.03965 
+  tags:
+    - Virtual Agents
+    - Crowd Simulation
+    - Affective Computing
+- id: 10.48550/arXiv.1810.03965 
+  tags:
+    - Crowd Simulation
+    - Affective Computing
 - id: 10.1016/j.neucom.2018.08.085 
+  tags:
+    - Virtual Agents
+    - Crowd Simulation
+    - Affective Computing
 - id: 10.1007/978-3-319-48881-3_50 
+  tags:
+    - Virtual Agents
+    - Crowd Simulation
+    - Affective Computing
 - id: 10.1109/ISMAR-Adjunct.2019.000-2 
-- id: https://ojs.aaai.org/index.php/AAAI/article/view/19873 
-- id: https://ojs.aaai.org/index.php/AAAI/article/view/5492 
-- id: arXiv:1707.09100
+  tags:
+    - Mental Health
+    - Affective Computing
+- id: 10.1609/aaai.v36i1.19873 
+  tags:
+    - Affective Computing
+    - Emotion Recognition
+- id: 10.1609/aaai.v34i02.5492 
+  tags:
+    - Affective Computing
+    - Emotion Recognition
+- id: 10.1609/aaai.v32i1.12325 
+  tags:
+    - Virtual Agents
+    - Crowd Simulation
+    - Affective Computing
 - id: 10.1109/TVCG.2019.2953063 
+  tags:
+    - Virtual Agents
+    - Crowd Simulation
+    - Affective Computing
 - id: 10.1109/CVPRW.2019.00035 
+  tags:
+    - Social Robotics
+    - Human-Crowd Interaction
+    - Motion and Path Planning
+    - Affective Computing
 - id: 10.1109/MMUL.2021.3068387 
+  tags:
+    - Affective Computing
+    - Emotion Recognition
 - id: 10.1016/j.cag.2015.10.009 
+  tags:
+    - Virtual Agents
+    - Crowd Simulation
 - id: 10.1109/ICRA.2019.8794465 
+  tags:
+    - Social Robotics
+    - Human-Crowd Interaction
+    - Motion and Path Planning
+    - Affective Computing
 - id: 10.48550/arXiv.2209.06314 
+  tags:
+    - Virtual Agents
+    - Crowd Simulation
+    - Affective Computing
 - id: 10.1109/LRA.2018.2852793 
+  tags:
+    - Autonomous Driving
+    - Human-Crowd Interaction
+    - Motion and Path Planning
 - id: 10.1109/IROS45743.2020.9340710 
-- id: arXiv:2011.08722 
+  tags:
+    - Social Robotics
+    - Human-Crowd Interaction
+    - Motion and Path Planning
+    - Affective Computing
+- id: 10.48550/arXiv.2011.08722 
+  tags:
+    - Autonomous Driving
+    - Human-Crowd Interaction
+    - Motion and Path Planning
 - id: 10.1109/ICRA.2015.7139261 
+  tags:
+    - Human-Crowd Interaction
+    - Motion and Path Planning
+    - Crowd Simulation
+    - Affective Computing
 - id: 10.1109/CVPRW.2016.163 
+  tags:
+    - Human-Crowd Interaction
+    - Motion and Path Planning
+    - Crowd Simulation
+    - Affective Computing
 - id: 10.1109/ICPR.2014.714 
+  tags:
+    - Human-Crowd Interaction
+    - Motion and Path Planning
+    - Crowd Simulation
+    - Affective Computing
 - id: 10.1016/B978-0-12-809276-7.00020-5 
+  tags:
+    - Human-Crowd Interaction
+    - Motion and Path Planning
+    - Crowd Simulation
+    - Affective Computing
 - id: 10.1109/TVCG.2021.3106432 
+  tags:
+    - XR Locomotion Interfaces
 - id: 10.1109/VRW52623.2021.00072 
+  tags:
+    - XR Locomotion Interfaces
 - id: 10.1109/ICRA40945.2020.9196612 
+  tags:
+    - Autonomous Driving
+    - Human-Crowd Interaction
+    - Motion and Path Planning
 - id: 10.1145/3359999.3360495 
-- id: 10.1145/2007052.2007058 
-- id: arXiv:2011.08682 
+  tags:
+    - Autonomous Driving
+    - Human-Crowd Interaction
+    - Motion and Path Planning
+- id: 10.48550/arXiv.2011.08682 
+  tags:
+    - Social Robotics
+    - Human-Crowd Interaction
+    - Motion and Path Planning
+    - Affective Computing
 - id: 10.1109/IROS.2017.8206628 
-- id: arXiv:1707.09100 
-- id: https://ojs.aaai.org/index.php/AAAI/article/view/5490 
-- id: arXiv:2011.04816 
+  tags:
+    - Social Robotics
+    - Human-Crowd Interaction
+    - Motion and Path Planning
+    - Affective Computing
+- id: 10.48550/arXiv.1707.09100 
+  tags:
+    - Affective Computing
+    - Emotion Recognition
+- id: 10.1609/aaai.v34i02.5490 
+  tags:
+    - Affective Computing
+    - Emotion Recognition
+- id: 10.48550/arXiv.2011.04816 
+  tags:
+    - Autonomous Driving
+    - Affective Computing
 - id: 10.1007/978-3-030-58607-2_9 
+  tags:
+    - Affective Computing
+    - Emotion Recognition
 - id: 10.1109/VR50410.2021.00037 
+  tags:
+    - Virtual Agents
+    - Crowd Simulation
+    - Affective Computing
 - id: http://openaccess.thecvf.com/content_CVPRW_2019/html/MMLV/Bera_The_Emotionally_Intelligent_Robot_Improving_Socially-aware_Human_Prediction_in_Crowded_CVPRW_2019_paper.html 
-- id: arXiv:1912.06874 
+  tags:
+    - Social Robotics
+    - Human-Crowd Interaction
+    - Motion and Path Planning
+    - Affective Computing
+- id: 10.48550/arXiv.1912.06874 
+  tags:
+    - Affective Computing
+    - Emotion Recognition
 - id: 10.1109/IROS.2018.8593411 
+  tags:
+    - Social Robotics
+    - Human-Crowd Interaction
+    - Motion and Path Planning
+    - Affective Computing
 - id: 10.1109/CVPR.2019.00868 
-- id: arXiv:2111.02964 
+  tags:
+    - Autonomous Driving
+    - Human-Crowd Interaction
+    - Motion and Path Planning
+    - Affective Computing
+- id: 10.48550/arXiv.2111.02964 
+  tags:
+    - Autonomous Driving
+    - Affective Computing
