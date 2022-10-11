@@ -1,10 +1,10 @@
 ---
-title: Emotion recognition
+title: Social Robotics
 ---
 
-# Emotion Recognition
+# Social Robotics
 
-<!-- ![affect2mm](/images/research/affect2mm.png) -->
+![affect2mm](/images/research/social-robotics-banner.jpg)
 
 ### Overview
 {:.left}

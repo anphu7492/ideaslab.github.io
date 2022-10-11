@@ -4,7 +4,7 @@ title: Robotics
 
 # Robotics: Single and Multi-Robot Motion Planning, Social Robotics
 
-<!-- ![ac](/images/research/ac.jpg) -->
+![ac](/images/research/robotics-banner.jpg)
 
 ### Overview
 {:.left}
@@ -14,6 +14,6 @@ Recent technological advances anticipate humans soon share spaces with mobile au
 ### Areas
 {:.left}
 
-* [Human-crowd interaction](/research/robotics/interaction)
+* [Human-crowd Interaction](/research/robotics/interaction)
 * [Motion and Path Planning](/research/robotics/planning)
 * [Social Robotics](/research/robotics/socialbots)

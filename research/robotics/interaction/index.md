@@ -4,7 +4,7 @@ title: Human-crowd interaction
 
 # Human-crowd interaction
 
-<!-- ![affect2mm](/images/research/affect2mm.png) -->
+![affect2mm](/images/research/crowd-banner.jpg)
 
 ### Overview
 {:.left}

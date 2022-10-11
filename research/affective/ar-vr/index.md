@@ -9,7 +9,7 @@ title: Affective Agents in AR/VR
 ### Overview
 {:.left}
 
-This area focuses primarily on generating virtual agents with appropriate emotional expressiveness for a variety of human-agent interactions in social contexts, such as co-habiting and navigating in the same space, conducting conversations, and engaging human audiences.
+As the world increasingly uses digital and virtual platforms for everyday communication and interactions, there is a heightened need to create highly realistic virtual agents endowed with social and emotional intelligence. Interactions between humans and virtual agents are being used to augment traditional human-human interactions in different Metaverse applications. Human-human interactions rely heavily on a combination of verbal communications (the text), inter-personal relationships between the people involved (the context), and more subtle non-verbal face and body expressions during communication (the subtext). While context is often established at the beginning of interactions, virtual agents in social VR applications need to align their text with their subtext throughout the interaction, thereby improving the human users’ sense of presence in the virtual environment. Affective gesticulation and gaits are an integral component in subtext, where humans use patterns of movement for hands, arms, heads, and torsos to convey a wide range of intent, behaviors, and emotions.
 
 ### Publications
 {:.left}

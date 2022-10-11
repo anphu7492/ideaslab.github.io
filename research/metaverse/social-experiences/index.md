@@ -16,6 +16,6 @@ We developed novel approaches for creating user-centric social experiences in vi
 {%  include list.html 
     data="citations" 
     component="citation" 
-    filters="category: social-experiences"
+    filters="tags: ~Crowd Simulation"
     style="" 
 %}
