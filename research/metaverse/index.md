@@ -18,3 +18,5 @@ The IDEAS research group at Purdue conducts a wide range of research in the area
 * [Locomotion Interfaces for XR](/research/metaverse/locomotion)
 * [User-centric Social Experiences](/research/metaverse/social-experiences)
 * [Project Dost](https://dost.cs.umd.edu/)
+
+*Click on the research sub-areas to see the specific research publications.*

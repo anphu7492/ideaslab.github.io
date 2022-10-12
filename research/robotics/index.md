@@ -17,3 +17,6 @@ Recent technological advances anticipate humans soon share spaces with mobile au
 * [Human-crowd Interaction](/research/robotics/interaction)
 * [Motion and Path Planning](/research/robotics/planning)
 * [Social Robotics](/research/robotics/socialbots)
+
+
+*Click on the research sub-areas to see the specific research publications.*

@@ -17,3 +17,5 @@ We are also working on developing artificial intelligent tools to improve mental
 
 * [Emotion Recognition](/research/affective/emotion)
 * [Affective Agents in AR/VR](/research/affective/ar-vr)
+
+*Click on the research sub-areas to see the specific research publications.*
