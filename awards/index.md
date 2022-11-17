@@ -6,6 +6,9 @@ nav:
 
 # <i class="fas fa-users"></i>Awards
 
+🏆 **Best Paper Award** in ACM SIGGRAPH MIG 2022 for *Learning Gait Emotions Using Affective and Deep Features*
+{:.award-item}
+
 🏆 **Best Paper Award (Honorable Mention)** in in IEEE VR 2022 for *ENI: Quantifying Environment Compatibility for Natural Walking in Virtual Reality*
 {:.award-item}
 
@@ -32,3 +35,4 @@ nav:
 
 🏆 **ACM Research Spotlight 2020**: *This Robot Can Guess How You’re Feeling by the Way You Walk*
 {:.award-item}
+

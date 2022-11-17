@@ -11,6 +11,14 @@ nav:
     show-years="false"
     data="news"
 %} -->
+<div class="news-item">
+    <div class="date">{{ '2022-11-05' | date: "%d %b %Y" }}</div>
+    <div class="content">
+      <b>Best Paper Award in ACM SIGGRAPH MIG 2022</b> for
+       <i>Learning Gait Emotions Using Affective and Deep Features</i>
+    </div>
+</div>
+
 
 <div class="news-item">
     <div class="date">{{ '2022-09-15' | date: "%d %b %Y" }}</div>
