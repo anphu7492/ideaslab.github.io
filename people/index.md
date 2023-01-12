@@ -21,6 +21,15 @@ IDEAS's research includes design and implementation of algebraic, geometric, and
   filters="role: pi"
 %}
 
+### Postdoctoral researcher
+
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: postdoc"
+%}
+
 
 ### PhD students
 
