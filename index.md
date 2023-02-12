@@ -40,69 +40,71 @@ Some recent work includes combining these methods with machine learning, compute
 <div class="col-flex">
   <div class="col home-news">
     <div class="news-item">
-    <div class="date">{{ '2022-09-15' | date: "%d %b %Y" }}</div>
-    <div class="content">
-      <b>Paper accepted at MIG 2022</b>
-       <i>(Learning Gait Emotions Using Affective and Deep Features)</i>
+      <div class="date">{{ '2023-01-06' | date: "%d %b %Y" }}</div>
+      <div class="content">
+        <b>Paper accepted at ICRA 2023</b> for
+        <i>EWareNet: Emotion Aware Human Intent Prediction and Adaptive Spatial Profile Fusion for Social Robot Navigation</i>
+      </div>
     </div>
-  </div>
-
-  <div class="news-item">
-    <div class="date">{{ '2022-08-20' | date: "%d %b %Y" }}</div>
-    <div class="content">
-      <b>Paper accepted at WACV 2023 </b> (Placing Human Animations into 3D Scenes by Learning Interaction- and Geometry-Driven Keyframes)
+    <div class="news-item">
+        <div class="date">{{ '2023-01-06' | date: "%d %b %Y" }}</div>
+        <div class="content">
+          <b>Paper accepted at ICRA 2023</b> for
+          <i>AZTR: Aerial Video Action Recognition with Auto Zoom and Temporal Reasoning</i>
+        </div>
     </div>
-  </div>
-
-  <div class="news-item">
-    <div class="date">{{ '2022-08-15' | date: "%d %b %Y" }}</div>
-    <div class="content">
-      IDEAS Lab moved to <b>Purdue University</b>
+    <div class="news-item">
+        <div class="date">{{ '2022-11-05' | date: "%d %b %Y" }}</div>
+        <div class="content">
+          <b>Best Paper Award in ACM SIGGRAPH MIG 2022</b> for
+          <i>Learning Gait Emotions Using Affective and Deep Features</i>
+        </div>
     </div>
-  </div>
-
-  <div class="news-item">
-    <div class="date">{{ '2022-05-10' | date: "%d %b %Y" }}</div>
-    <div class="content">
-      Prof. Aniket Bera <b>appointed as Senior Editor for IEEE Robotics and Automation Letter (RA-L)</b> in the area of <i>Planning and Simulation</i>
+    <div class="news-item">
+      <div class="date">{{ '2022-09-15' | date: "%d %b %Y" }}</div>
+      <div class="content">
+        <b>Paper accepted at MIG 2022</b>
+        <i>(Learning Gait Emotions Using Affective and Deep Features)</i>
+      </div>
     </div>
-  </div>
-
-  <div class="news-item">
-    <div class="date">{{ '2022-5-10' | date: "%d %b %Y" }}</div>
-    <div class="content">
-      <b>Grant Awarded by "TEDCO (Maryland Technology Development Corporation)"</b> for <a href="https://dost.cs.umd.edu/">Project Dost</a>
+    <div class="news-item">
+      <div class="date">{{ '2022-08-20' | date: "%d %b %Y" }}</div>
+      <div class="content">
+        <b>Paper accepted at WACV 2023 </b> (Placing Human Animations into 3D Scenes by Learning Interaction- and Geometry-Driven Keyframes)
+      </div>
     </div>
-  </div>
-
-  <div class="news-item">
-    <div class="date">{{ '2022-3-10' | date: "%d %b %Y" }}</div>
-    <div class="content">
-      <b>Best Paper Award (Honorable Mention)</b> in in IEEE VR 2022 for <i>ENI: Quantifying Environment Compatibility for Natural Walking in Virtual Reality</i>
+    <div class="news-item">
+      <div class="date">{{ '2022-08-15' | date: "%d %b %Y" }}</div>
+      <div class="content">
+        IDEAS Lab moved to <b>Purdue University</b>
+      </div>
     </div>
-  </div>
-
-  <div class="news-item">
-    <div class="date">{{ '2022-3-20' | date: "%d %b %Y" }}</div>
-    <div class="content">
-      <b>Paper accepted at CVPR 2022</b> <i>(3MASSIV: Multilingual, Multimodal and Multi-Aspect dataset of Social Media Short Videos)</i>
+    <div class="news-item">
+      <div class="date">{{ '2022-05-10' | date: "%d %b %Y" }}</div>
+      <div class="content">
+        Prof. Aniket Bera <b>appointed as Senior Editor for IEEE Robotics and Automation Letter (RA-L)</b> in the area of <i>Planning and Simulation</i>
+      </div>
     </div>
-  </div>
-
-  <div class="news-item">
-    <div class="date">{{ '2022-10-01' | date: "%d %b %Y" }}</div>
-    <div class="content">
-      <b>Best Paper Award (Honorable Mention) in ISMAR 2021</b> for <i>Redirected Walking in Static and Dynamic Scenes Using Visibility Polygons</i>
+    <div class="news-item">
+      <div class="date">{{ '2022-5-10' | date: "%d %b %Y" }}</div>
+      <div class="content">
+        <b>Grant Awarded by "TEDCO (Maryland Technology Development Corporation)"</b> for <a href="https://dost.cs.umd.edu/">Project Dost</a>
+      </div>
     </div>
-  </div>
-
-  {%
-    include link.html
-    link="news"
-    text="Read more"
-    icon="fas fa-arrow-right"
-    flip=true
-  %}
+    <div class="news-item">
+      <div class="date">{{ '2022-3-10' | date: "%d %b %Y" }}</div>
+      <div class="content">
+        <b>Best Paper Award (Honorable Mention)</b> in in IEEE VR 2022 for <i>ENI: Quantifying Environment Compatibility for Natural Walking in Virtual Reality</i>
+      </div>
+    </div>
+    
+    {%
+      include link.html
+      link="news"
+      text="Read more"
+      icon="fas fa-arrow-right"
+      flip=true
+    %}
 
   </div>
 

@@ -12,13 +12,28 @@ nav:
     data="news"
 %} -->
 <div class="news-item">
+    <div class="date">{{ '2023-01-06' | date: "%d %b %Y" }}</div>
+    <div class="content">
+      <b>Paper accepted at ICRA 2023</b> for
+       <i>EWareNet: Emotion Aware Human Intent Prediction and Adaptive Spatial Profile Fusion for Social Robot Navigation</i>
+    </div>
+</div>
+
+<div class="news-item">
+    <div class="date">{{ '2023-01-06' | date: "%d %b %Y" }}</div>
+    <div class="content">
+      <b>Paper accepted at ICRA 2023</b> for
+       <i>AZTR: Aerial Video Action Recognition with Auto Zoom and Temporal Reasoning</i>
+    </div>
+</div>
+
+<div class="news-item">
     <div class="date">{{ '2022-11-05' | date: "%d %b %Y" }}</div>
     <div class="content">
       <b>Best Paper Award in ACM SIGGRAPH MIG 2022</b> for
        <i>Learning Gait Emotions Using Affective and Deep Features</i>
     </div>
 </div>
-
 
 <div class="news-item">
     <div class="date">{{ '2022-09-15' | date: "%d %b %Y" }}</div>

@@ -17,6 +17,10 @@
     color: #57647c;
     transition: 0.5s;
 
+    &.header {
+        font-weight: bold;
+    }
+
     .date {
         min-width: 120px;
         padding: 10px;
@@ -24,6 +28,14 @@
         // font-weight: bold;
         align-self: flex-start;
         color: $purdue-campus-gold;
+    }
+
+    .presenter {
+        min-width: 200px;
+        width: 200px;
+        align-self: flex-start;
+        padding: 10px;
+        text-align: left;
     }
 
     .image {
