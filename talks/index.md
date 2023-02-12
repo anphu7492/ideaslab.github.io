@@ -6,6 +6,9 @@ nav:
 
 
 # <i class="fas fa-bullhorn"></i>IDEAS' talks
+Below is the list of presentations from IDEAS lab. Meeting details:
+- Time: Thursday 3-4 PM
+- Location: Lawson Computer Science building, room B134
 
 <div class="news-item header">
     <div class="date">Date</div>
