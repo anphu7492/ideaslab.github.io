@@ -27,7 +27,7 @@ Below is the list of presentations from IDEAS lab. Meeting details:
 <div class="news-item">
     <div class="date">{{ '2023-02-24' | date: "%d %b %Y" }}</div>
     <div class="presenter">Pascal Jutras-Dubé, <br> Kshitij Tiwari</div>
-    <div class="content">Touch-based Sensing in Robotics</div>
+    <div class="content">(1) Introduction to diffusion models <br>(2) Touch-based Sensing in Robotics</div>
 </div>
 
 <div class="news-item">
