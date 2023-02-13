@@ -69,7 +69,7 @@ Below is the list of presentations from IDEAS lab. Meeting details:
 <div class="news-item">
     <div class="date">{{ '2023-04-21' | date: "%d %b %Y" }}</div>
     <div class="presenter">Aniruddha Mukherjee</div>
-    <div class="content">TBD</div>
+    <div class="content">A Deep Convolutional Auto-Encoder for Popular Phrase (MEME) Identification and Propagation Modeling over a News Network</div>
 </div>
 
 <div class="news-item">
