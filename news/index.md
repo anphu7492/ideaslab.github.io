@@ -12,6 +12,21 @@ nav:
     data="news"
 %} -->
 <div class="news-item">
+    <div class="date">{{ '2023-02-13' | date: "%d %b %Y" }}</div>
+    <div class="content">
+      <b>IDEAS research</b>  was covered in <a href="https://www.purdue.edu/newsroom/releases/2023/Q1/youve-got-to-have-heart-computer-scientist-works-to-help-ai-comprehend-human-emotions.html">Purdue news</a>
+    </div>
+</div>
+
+
+<div class="news-item">
+    <div class="date">{{ '2023-01-19' | date: "%d %b %Y" }}</div>
+    <div class="content">
+      <b>IDEAS research</b>  was covered in <a href="https://www.npr.org/sections/health-shots/2023/01/19/1147081115/therapy-by-chatbot-the-promise-and-challenges-in-using-ai-for-mental-health">NPR news</a>
+    </div>
+</div>
+
+<div class="news-item">
     <div class="date">{{ '2023-01-06' | date: "%d %b %Y" }}</div>
     <div class="content">
       <b>Paper accepted at ICRA 2023</b> for
