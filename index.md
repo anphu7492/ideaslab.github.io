@@ -40,6 +40,18 @@ Some recent work includes combining these methods with machine learning, compute
 <div class="col-flex">
   <div class="col home-news">
     <div class="news-item">
+      <div class="date">{{ '2023-02-13' | date: "%d %b %Y" }}</div>
+      <div class="content">
+        <b>IDEAS research</b>  was covered in <a href="https://www.purdue.edu/newsroom/releases/2023/Q1/youve-got-to-have-heart-computer-scientist-works-to-help-ai-comprehend-human-emotions.html">Purdue news</a>
+      </div>
+    </div>
+    <div class="news-item">
+      <div class="date">{{ '2023-01-19' | date: "%d %b %Y" }}</div>
+      <div class="content">
+        <b>IDEAS research</b>  was covered in <a href="https://www.npr.org/sections/health-shots/2023/01/19/1147081115/therapy-by-chatbot-the-promise-and-challenges-in-using-ai-for-mental-health">NPR news</a>
+      </div>
+    </div>
+    <div class="news-item">
       <div class="date">{{ '2023-01-06' | date: "%d %b %Y" }}</div>
       <div class="content">
         <b>Paper accepted at ICRA 2023</b> for
@@ -83,18 +95,6 @@ Some recent work includes combining these methods with machine learning, compute
       <div class="date">{{ '2022-05-10' | date: "%d %b %Y" }}</div>
       <div class="content">
         Prof. Aniket Bera <b>appointed as Senior Editor for IEEE Robotics and Automation Letter (RA-L)</b> in the area of <i>Planning and Simulation</i>
-      </div>
-    </div>
-    <div class="news-item">
-      <div class="date">{{ '2022-5-10' | date: "%d %b %Y" }}</div>
-      <div class="content">
-        <b>Grant Awarded by "TEDCO (Maryland Technology Development Corporation)"</b> for <a href="https://dost.cs.umd.edu/">Project Dost</a>
-      </div>
-    </div>
-    <div class="news-item">
-      <div class="date">{{ '2022-3-10' | date: "%d %b %Y" }}</div>
-      <div class="content">
-        <b>Best Paper Award (Honorable Mention)</b> in in IEEE VR 2022 for <i>ENI: Quantifying Environment Compatibility for Natural Walking in Virtual Reality</i>
       </div>
     </div>
     
