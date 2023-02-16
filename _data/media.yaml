@@ -1,3 +1,11 @@
+- image: /images/coverage/pu-logo.png
+  link: https://www.purdue.edu/newsroom/releases/2023/Q1/youve-got-to-have-heart-computer-scientist-works-to-help-ai-comprehend-human-emotions.html
+  content: "You've got to have heart: Computer scientist works to help AI comprehend human emotions"
+
+- image: /images/coverage/npr-logo.svg
+  link: https://www.npr.org/sections/health-shots/2023/01/19/1147081115/therapy-by-chatbot-the-promise-and-challenges-in-using-ai-for-mental-health
+  content: "Therapy by chatbot? The promise and challenges in using AI for mental health"
+
 - image: /images/coverage/cbs.png
   link: https://baltimore.cbslocal.com/video/4702853-umd-researchers-could-robots-prevent-spread-of-covid-19/
   content: 'UMD Researchers: Could Robots Prevent Spread Of COVID-19'
