@@ -1,7 +1,7 @@
 ---
 name: Maurice Chiu
 image: images/members/maurice-chiu.jpg
-description: MS Student
+description: MS student
 role: ms
 aliases:
   - Yun-Yi Chiu

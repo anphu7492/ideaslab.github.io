@@ -1,7 +1,7 @@
 ---
 name: Phu Pham
 image: images/members/phupham.jpg
-description: PhD student
+description: PhD Student
 role: phd
 # group: alum
 aliases:

@@ -1,8 +1,8 @@
 ---
 name: Rashmi Bhaskara
 image: images/members/rashmi.jpg
-description: MS Student
-role: ms
+description: PhD Student
+role: phd
 aliases:
   - Rashmi
 links:
