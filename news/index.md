@@ -12,6 +12,13 @@ nav:
     data="news"
 %} -->
 <div class="news-item">
+    <div class="date">{{ '2023-05-01' | date: "%d %b %Y" }}</div>
+    <div class="content">
+      Prof. Bera awarded the Ross-Lynn Research Scholar Grant
+    </div>
+</div>
+
+<div class="news-item">
     <div class="date">{{ '2023-02-13' | date: "%d %b %Y" }}</div>
     <div class="content">
       <b>IDEAS research</b>  was covered in <a href="https://www.purdue.edu/newsroom/releases/2023/Q1/youve-got-to-have-heart-computer-scientist-works-to-help-ai-comprehend-human-emotions.html">Purdue news</a>
