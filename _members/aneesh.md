@@ -2,7 +2,7 @@
 name: Aneesh Bhattacharya
 description: Visiting Researcher
 image: /images/members/aneesh.jpg
-role: undergrad
+role: ms
 aliases:
   - Aneesh
 links:
