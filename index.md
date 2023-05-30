@@ -40,6 +40,13 @@ Some recent work includes combining these methods with machine learning, compute
 <div class="col-flex">
   <div class="col home-news">
     <div class="news-item">
+      <div class="date">{{ '2023-05-01' | date: "%d %b %Y" }}</div>
+      <div class="content">
+        <b>Prof. Bera</b> awarded the Ross-Lynn Research Scholar Grant
+      </div>
+    </div>
+    
+    <div class="news-item">
       <div class="date">{{ '2023-02-13' | date: "%d %b %Y" }}</div>
       <div class="content">
         <b>IDEAS research</b>  was covered in <a href="https://www.purdue.edu/newsroom/releases/2023/Q1/youve-got-to-have-heart-computer-scientist-works-to-help-ai-comprehend-human-emotions.html">Purdue news</a>
@@ -89,12 +96,6 @@ Some recent work includes combining these methods with machine learning, compute
       <div class="date">{{ '2022-08-15' | date: "%d %b %Y" }}</div>
       <div class="content">
         IDEAS Lab moved to <b>Purdue University</b>
-      </div>
-    </div>
-    <div class="news-item">
-      <div class="date">{{ '2022-05-10' | date: "%d %b %Y" }}</div>
-      <div class="content">
-        Prof. Aniket Bera <b>appointed as Senior Editor for IEEE Robotics and Automation Letter (RA-L)</b> in the area of <i>Planning and Simulation</i>
       </div>
     </div>
     
