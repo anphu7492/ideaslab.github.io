@@ -40,7 +40,7 @@ Some recent work includes combining these methods with machine learning, compute
 <div class="col-flex">
   <div class="col home-news">
     <div class="news-item">
-      <div class="date">{{ '2023-05-01' | date: "%d %b %Y" }}</div>
+      <div class="date">{{ '2023-05-30' | date: "%d %b %Y" }}</div>
       <div class="content">
         <b>Prof. Bera</b> awarded the Ross-Lynn Research Scholar Grant
       </div>

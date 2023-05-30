@@ -12,7 +12,7 @@ nav:
     data="news"
 %} -->
 <div class="news-item">
-    <div class="date">{{ '2023-05-01' | date: "%d %b %Y" }}</div>
+    <div class="date">{{ '2023-05-30' | date: "%d %b %Y" }}</div>
     <div class="content">
       <b>Prof. Bera</b> awarded the Ross-Lynn Research Scholar Grant
     </div>
