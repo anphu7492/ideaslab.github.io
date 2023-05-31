@@ -9,7 +9,7 @@ links:
   home-page: https://arefmalek.github.io/
   linkedin: manas-paranjape-515208221
   email: mparanja@purdue.edu
-  google-scholar: 92TBhCYAAAAJ
+  google-scholar: 
   twitter: 
 ---
 
