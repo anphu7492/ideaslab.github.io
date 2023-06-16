@@ -7,6 +7,7 @@ role: phd
 aliases:
   - Phu
 links:
+  home-page: https://anphu7492.github.io/
   email: pham84@purdue.edu
   twitter: anphu1225
 ---
