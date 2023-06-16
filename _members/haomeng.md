@@ -1,7 +1,7 @@
 ---
 name: Haomeng Zhang
 image: images/members/haomeng.jpg
-description: Ph.D. Student
+description: PhD Student
 role: phd
 aliases:
   - Haomeng Zhang

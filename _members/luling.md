@@ -1,7 +1,7 @@
 ---
 name: Lu Ling
 image: images/members/luling.jpg
-description: Ph.D. Student
+description: PhD Student
 role: phd
 aliases:
   - Lu Ling

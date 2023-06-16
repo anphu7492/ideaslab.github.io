@@ -1,7 +1,7 @@
 ---
 name: Xingpeng Sun
 image: images/members/xingpeng.jpg
-description: Ph.D. Student
+description: PhD Student
 role: phd
 aliases:
   - Xingpeng Sun
