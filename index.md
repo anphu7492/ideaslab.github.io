@@ -40,6 +40,13 @@ Some recent work includes combining these methods with machine learning, compute
 <div class="col-flex">
   <div class="col home-news">
     <div class="news-item">
+      <div class="date">{{ '2023-06-21' | date: "%d %b %Y" }}</div>
+      <div class="content">
+        Three IDEAS papers were accepted at <b>IROS 2023</b>! With this, in 2023, IDEAS published a total of five papers in the top robotics venues (ICRA+IROS)!
+      </div>
+    </div>
+    
+    <div class="news-item">
       <div class="date">{{ '2023-05-30' | date: "%d %b %Y" }}</div>
       <div class="content">
         <b>Prof. Bera</b> awarded the Ross-Lynn Research Scholar Grant
@@ -97,12 +104,6 @@ Some recent work includes combining these methods with machine learning, compute
       <div class="date">{{ '2022-08-20' | date: "%d %b %Y" }}</div>
       <div class="content">
         <b>Paper accepted at WACV 2023 </b> (Placing Human Animations into 3D Scenes by Learning Interaction- and Geometry-Driven Keyframes)
-      </div>
-    </div>
-    <div class="news-item">
-      <div class="date">{{ '2022-08-15' | date: "%d %b %Y" }}</div>
-      <div class="content">
-        IDEAS Lab moved to <b>Purdue University</b>
       </div>
     </div>
     
