@@ -348,3 +348,13 @@
   tags:
     - Autonomous Driving
     - Affective Computing
+- id: 10.48550/arXiv.2303.04322 
+  tags:
+    - Pose optimization
+    - Neural radiance fields
+    - Multiagent systems
+- id: 10.48550/arXiv.2303.04320 
+  tags:
+    - Robot navigation
+    - Multiagent systems
+    - Affective Computing

@@ -843,6 +843,7 @@
     Convolutional Networks'
   authors:
   - Videsh Suman
+  - Phu Pham
   - Aniket Bera
   publisher: arXiv
   date: '2020-01-01'
@@ -977,6 +978,7 @@
   - Venkatraman Narayanan
   - Bala Murali Manoghar
   - Rama Prashanth RV
+  - Phu Pham
   - Aniket Bera
   publisher: arXiv
   date: '2020-01-01'
@@ -1168,3 +1170,32 @@
   - Autonomous Driving
   - Affective Computing
   _cache: 9fe5af9b95d3ca39b89dc6ecc7b698e76e92cf4bfe0fd18f41b2c4559ea937ac
+- id: 10.48550/arXiv.2303.04322
+  title: 'DroNeRF: Real-time Multi-agent Drone Pose Optimization for Computing Neural
+    Radiance Fields'
+  authors:
+  - Dipam Patel
+  - Phu Pham
+  - Aniket Bera
+  publisher: arXiv
+  date: '2023-01-01'
+  link: https://doi.org/gsdsfr
+  tags:
+  - Pose optimization
+  - Neural radiance fields
+  - Multiagent systems
+  _cache: ac2bd9d70aaa06cf777ce394887cee1945a5cc51862026f22ba8844d013141ac
+- id: 10.48550/arXiv.2303.04320
+  title: 'SG-LSTM: Social Group LSTM for Robot Navigation Through Dense Crowds'
+  authors:
+  - Rashmi Bhaskara
+  - Maurice Chiu
+  - Aniket Bera
+  publisher: arXiv
+  date: '2023-01-01'
+  link: https://doi.org/gsdsfs
+  tags:
+  - Robot navigation
+  - Multiagent systems
+  - Affective Computing
+  _cache: 95e09037069390e871c32dcf55c63a820d2839be5398095e3335192265e941d9

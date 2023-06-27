@@ -57,3 +57,8 @@ How's our documentation?
 [💡 Tips](https://github.com/greenelab/lab-website-template/wiki/Tips)
 
 [❓ Support](https://github.com/greenelab/lab-website-template/wiki/Support)
+
+## Citation export
+- Add more metadata in the `./auto-cite/references.xlsx
+- Run `python auto-cite/generate-source.py` to update the `_data/source.yaml` file
+- Run `python auto-cite/auto-cite.py` to update the `_data/citations.yaml` file

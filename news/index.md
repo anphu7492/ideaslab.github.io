@@ -12,6 +12,13 @@ nav:
     data="news"
 %} -->
 <div class="news-item">
+    <div class="date">{{ '2023-06-21' | date: "%d %b %Y" }}</div>
+    <div class="content">
+      Three IDEAS papers were accepted at  IROS 2023! With this, in 2023, IDEAS published a total of five papers in the top robotics venues (ICRA+IROS)!
+    </div>
+</div>
+
+<div class="news-item">
     <div class="date">{{ '2023-05-30' | date: "%d %b %Y" }}</div>
     <div class="content">
       <b>Prof. Bera</b> awarded the Ross-Lynn Research Scholar Grant
