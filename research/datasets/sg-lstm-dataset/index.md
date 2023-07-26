@@ -16,6 +16,10 @@ As personal robots become increasingly accessible and affordable, their applicat
 ### Annotated Dataset
 [Download SG-LSTM Dataset](https://www.cs.purdue.edu/homes/bhaskarr/)
 
+If you use this dataset, please cite it as:
+*R. Bhaskara, M. Chiu, and A. Bera, “SG-LSTM: Social Group LSTM for Robot Navigation Through Dense Crowds.” arXiv, Mar. 07, 2023. doi: 10.48550/arXiv.2303.04320.*
+
+
 ### Publications
 {:.left}
 
