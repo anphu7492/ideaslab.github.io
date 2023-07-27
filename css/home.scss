@@ -52,3 +52,11 @@
 .bigger {
     font-size: 1.7rem;
 }
+
+.embeded-video {
+    iframe {
+        width: 100%;
+        max-width: 560px;
+        height: auto;
+    }
+}
