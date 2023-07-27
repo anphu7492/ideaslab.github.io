@@ -16,13 +16,15 @@ IDEAS's research includes design and implementation of scientific algorithms and
 * [Robotics: Single and Multi-Robot Motion Planning, Social Robotics](/research/robotics)
 * [AI in Mental Health](/research/ai-mental-health)
 
+#### Recent Publications
+* [SG-LSTM: Social Group LSTM for Robot Navigation Through Dense Crowds](/research/robotics/sg-lstm/)
+
 #### Previous Research
 * [Autonomous Driving: Simulation and Navigation](/research/autonomous-driving/)
 <!-- * [Crowd and Multi-Agent Environments](/research/crowd-multiagent/) -->
 * [Crowd and Multi-Agent Environments](/research/metaverse/social-experiences/)
 
-#### Datasets
-* [SG-LSTM Dataset](/research/datasets/sg-lstm-dataset/)
+
 
 {% include section.html %}
 
