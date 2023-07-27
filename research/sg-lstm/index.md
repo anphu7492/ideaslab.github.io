@@ -12,11 +12,13 @@ title: SG-LSTM: Social Group LSTM for Robot Navigation Through Dense Crowds
 <!-- </p> -->
 
 <!-- ![affect2mm](/images/research/sg-lstm-cover1.jpeg) -->
-![affect2mm](/images/research/sg-lstm-cover2.jpeg)
+
 
 <p style="text-align:center;">
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/p3i2XjWnOFo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </p>
+
+![affect2mm](/images/research/sg-lstm-cover2.jpeg)
 
 ### Abstract
 {:.left}
