@@ -29,46 +29,46 @@ As personal robots become increasingly accessible and affordable, their applicat
 <!-- ![affect2mm](/images/research/sg-lstm-dataset-preview.png) -->
 <div class="col-flex">
   <div class="col">
-  ![img1](/images/research/sg-lstm/img1.png)
+    <img src="/images/research/sg-lstm/img1.png" alt="img">
   </div>
   <div class="col">
-  ![img2](/images/research/sg-lstm/img2.png)
-  </div>
-</div>
-
-<div class="col-flex">
-  <div class="col">
-  ![img3](/images/research/sg-lstm/img3.png)
-  </div>
-  <div class="col">
-  ![img4](/images/research/sg-lstm/img4.png)
+    <img src="/images/research/sg-lstm/img2.png" alt="img">
   </div>
 </div>
 
 <div class="col-flex">
   <div class="col">
-  ![img5](/images/research/sg-lstm/img5.png)
+    <img src="/images/research/sg-lstm/img3.png" alt="img">
   </div>
   <div class="col">
-  ![img6](/images/research/sg-lstm/img6.png)
-  </div>
-</div>
-
-<div class="col-flex">
-  <div class="col">
-  ![img7](/images/research/sg-lstm/img7.png)
-  </div>
-  <div class="col">
-  ![img8](/images/research/sg-lstm/img8.png)
+    <img src="/images/research/sg-lstm/img4.png" alt="img">
   </div>
 </div>
 
 <div class="col-flex">
   <div class="col">
-  ![img9](/images/research/sg-lstm/img9.png)
+    <img src="/images/research/sg-lstm/img5.png" alt="img">
   </div>
   <div class="col">
-  ![img10](/images/research/sg-lstm/img10.png)
+    <img src="/images/research/sg-lstm/img6.png" alt="img">
+  </div>
+</div>
+
+<div class="col-flex">
+  <div class="col">
+    <img src="/images/research/sg-lstm/img7.png" alt="img">
+  </div>
+  <div class="col">
+    <img src="/images/research/sg-lstm/img8.png" alt="img">
+  </div>
+</div>
+
+<div class="col-flex">
+  <div class="col">
+    <img src="/images/research/sg-lstm/img9.png" alt="img">
+  </div>
+  <div class="col">
+    <img src="/images/research/sg-lstm/img10.png" alt="img">
   </div>
 </div>
 
