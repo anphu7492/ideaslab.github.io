@@ -28,46 +28,46 @@ As personal robots become increasingly accessible and affordable, their applicat
 ### Annotated Dataset
 <!-- ![affect2mm](/images/research/sg-lstm-dataset-preview.png) -->
 <div class="col-flex">
-  <div class="col">
+  <div class="col col-2">
     <img src="/images/research/sg-lstm/img1.png" alt="img">
   </div>
-  <div class="col">
+  <div class="col col-2">
     <img src="/images/research/sg-lstm/img2.png" alt="img">
   </div>
 </div>
 
 <div class="col-flex">
-  <div class="col">
+  <div class="col col-2">
     <img src="/images/research/sg-lstm/img3.png" alt="img">
   </div>
-  <div class="col">
+  <div class="col col-2">
     <img src="/images/research/sg-lstm/img4.png" alt="img">
   </div>
 </div>
 
 <div class="col-flex">
-  <div class="col">
+  <div class="col col-2">
     <img src="/images/research/sg-lstm/img5.png" alt="img">
   </div>
-  <div class="col">
+  <div class="col col-2">
     <img src="/images/research/sg-lstm/img6.png" alt="img">
   </div>
 </div>
 
 <div class="col-flex">
-  <div class="col">
+  <div class="col col-2">
     <img src="/images/research/sg-lstm/img7.png" alt="img">
   </div>
-  <div class="col">
+  <div class="col col-2">
     <img src="/images/research/sg-lstm/img8.png" alt="img">
   </div>
 </div>
 
 <div class="col-flex">
-  <div class="col">
+  <div class="col col-2">
     <img src="/images/research/sg-lstm/img9.png" alt="img">
   </div>
-  <div class="col">
+  <div class="col col-2">
     <img src="/images/research/sg-lstm/img10.png" alt="img">
   </div>
 </div>
