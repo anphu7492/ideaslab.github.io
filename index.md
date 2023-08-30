@@ -38,7 +38,7 @@ Some recent work includes combining these methods with machine learning, compute
 # Follow us
 
 <div class="col-flex">
-  <div class="col home-news">
+  <div class="col col-2 home-news">
     <div class="news-item">
       <div class="date">{{ '2023-06-21' | date: "%d %b %Y" }}</div>
       <div class="content">
@@ -117,7 +117,7 @@ Some recent work includes combining these methods with machine learning, compute
 
   </div>
 
-  <div class="col social">
+  <div class="col col-2 social">
     <a class="twitter-timeline" href="https://twitter.com/IDEASPurdue" data-height="700" data-width="330">Tweets by IDEAS Lab</a> 
     <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
   </div>
