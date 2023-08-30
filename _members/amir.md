@@ -1,6 +1,6 @@
 ---
 name: Amir Tahmasbi
-image: images/members/prerit.jpg
+image: images/members/amir.jpg
 description: PhD Student
 role: phd
 aliases:
