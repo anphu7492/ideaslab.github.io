@@ -9,7 +9,7 @@ links:
   email: atahmasb@purdue.edu
 ---
 
-Amir is a PhD student in the Department of Computer Science at pursue University. His interests focus on the Motion Planning and Robotics.
+Amir is a PhD student in the Department of Computer Science at Purdue University. His interests focus on the Motion Planning and Robotics.
 
 Amir got my B.Sc. in Mechanical Engineering at Sharif University of Technology.
  
