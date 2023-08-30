@@ -4,7 +4,7 @@ image: images/members/prerit.jpg
 description: PhD Student
 role: phd
 aliases:
-  - Phu
+  - Prerit
 links:
   email: gupta596@purdue.edu
 ---
