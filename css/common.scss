@@ -19,7 +19,11 @@
 /* For mobile phones: */
 @media (max-width: $phone) {
   [class*="col-"] {
-    width: 100%;
+    width: 100% !important;
+  }
+
+  .col-flex {
+    flex-direction: column;
   }
 
   .md-6 {
