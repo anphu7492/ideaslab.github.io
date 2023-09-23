@@ -18,6 +18,7 @@ IDEAS's research includes design and implementation of scientific algorithms and
 
 #### Recent Publications
 * [SG-LSTM: Social Group LSTM for Robot Navigation Through Dense Crowds](/research/sg-lstm/)
+* [DroNeRF: Real-time Multi-agent Drone Pose Optimization for Computing Neural Radiance Fields](/research/dronerf/)
 
 #### Previous Research
 * [Autonomous Driving: Simulation and Navigation](/research/autonomous-driving/)
