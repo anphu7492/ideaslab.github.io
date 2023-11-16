@@ -10,7 +10,7 @@ aliases:
   - mkulshrestha
   - manavkoolz
 links:
-  home-page: https://github.com/manavkulshrestha
+  home-page: https://manavkulshrestha.github.io
   email: mkulshre@purdue.edu
   google-scholar: xbWvSEUAAAAJ
   linkedin: manav-kulshrestha
