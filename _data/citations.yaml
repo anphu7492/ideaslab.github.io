@@ -1191,28 +1191,30 @@
   - Rashmi Bhaskara
   - Maurice Chiu
   - Aniket Bera
-  publisher: arXiv
-  date: '2023-08-06'
-  link: http://arxiv.org/abs/2303.04320
+  publisher: arXiv.org
+  date: '2023-03-08'
+  link: https://arxiv.org/abs/2303.04320v2
   tags:
   - Robot navigation
   - Multiagent systems
   - Affective Computing
-  _cache: af6014f1d00ad115403289b54bff92b0bdc4449b51cd1d367d737977f24bb920
+  - Motion and Path Planning
+  _cache: 1cc66a3121bef3dc5b99ebd55f5f5ca9bc9bd7ab132b00654d661ead4ee3a4d3
 - id: https://doi.org/10.48550/arXiv.2309.10275
   title: Crowd-Aware Multi-Agent Pathfinding With Boosted Curriculum Reinforcement
     Learning
   authors:
   - Phu Pham
   - Aniket Bera
-  publisher: arXiv
-  date: '2023-09-18'
-  link: http://arxiv.org/abs/2309.10275
+  publisher: arXiv.org
+  date: '2023-09-19'
+  link: https://arxiv.org/abs/2309.10275v1
   tags:
   - Multiagent systems
   - Path planning
   - Robot navigation
-  _cache: 281af9845425e2691ca93624b08eef9531eceb5206d2d915932f7c38af9f2d6a
+  - Motion and Path Planning
+  _cache: 6bcf6773808c07ed7b9f538a81ac0383b1eed1fb6b8451408033771582cfd13f
 - id: https://doi.org/10.48550/arXiv.2309.17433
   title: 'DREAM: Decentralized Reinforcement Learning for Exploration and Efficient
     Energy Management in Multi-Robot Systems'
@@ -1221,15 +1223,16 @@
   - Phu Pham
   - Kshitij Tiwari
   - Aniket Bera
-  publisher: arXiv
+  publisher: arXiv.org
   date: '2023-09-29'
-  link: http://arxiv.org/abs/2309.17433
+  link: https://arxiv.org/abs/2309.17433v1
   tags:
   - Multiagent systems
   - Path planning
   - Robot navigation
   - Resource optimization
-  _cache: 812041335a82f20d94ca029ff6753c1a160ca5d4c85297845ba311bd6816ba61
+  - Motion and Path Planning
+  _cache: 3f5a2a5ff38e72cc4156b7b663e0e3fec84cce2512333b23216c58608605220d
 - id: https://doi.org/10.48550/arXiv.2312.04806
   title: 'RL Dreams: Policy Gradient Optimization for Score Distillation based 3D
     Generation'
@@ -1238,14 +1241,14 @@
   - Phu Pham
   - Aniket Bera
   - Ojaswa Sharma
-  publisher: arXiv
-  date: '2023-12-07'
-  link: http://arxiv.org/abs/2312.04806
+  publisher: arXiv.org
+  date: '2023-12-08'
+  link: https://arxiv.org/abs/2312.04806v1
   tags:
   - 3D reconstruction
   - 3D synthesis
-  - generative modeling
-  _cache: cd33d6fd547ea9402a44c7e8995903c816e93f769025fbf03650e764f84170f3
+  - Generative modeling
+  _cache: c54b25c7e950fa6150a142eacbe610e6ec93b60c4dc2a446f95172fbe423e292
 - id: https://doi.org/10.48550/arXiv.2211.16210
   title: 'PaCMO: Partner Dependent Human Motion Generation in Dyadic Human Activity
     using Neural Operators'
@@ -1285,14 +1288,15 @@
   - Rashmi Bhaskara
   - Hrishikesh Viswanath
   - Aniket Bera
-  publisher: arXiv
-  date: '2023-09-18'
-  link: http://arxiv.org/abs/2309.09137
+  publisher: arXiv.org
+  date: '2023-09-17'
+  link: https://arxiv.org/abs/2309.09137v2
   tags:
   - Robot navigation
   - Neural Operator
   - Stochastic modelling
-  _cache: e1b818a491c790751a9abc85abe152fbaeafa663910238b5f0057990e27b92a4
+  - Motion and Path Planning
+  _cache: f142ce5cfb4908006bf5d6cf158d20184f2c5cb6a071eaaf5dc1d745b9b37a3a
 - id: https://doi.org/10.48550/arXiv.2309.08896
   title: Graph-based Decentralized Task Allocation for Multi-Robot Target Localization
   authors:
@@ -1300,14 +1304,15 @@
   - Hrishikesh Viswanath
   - Kshitij Tiwari
   - Aniket Bera
-  publisher: arXiv
+  publisher: arXiv.org
   date: '2023-09-16'
-  link: http://arxiv.org/abs/2309.08896
+  link: https://arxiv.org/abs/2309.08896v1
   tags:
   - Robot Navigation
   - Multiagent Systems
   - Neural Operator
-  _cache: a98697643669ebd59fd86a8d16070cd71850c1d1368394a26fb06b65fba93db0
+  - Motion and Path Planning
+  _cache: 04a0423feb6ee2c294811ca8d2599aa985fe32323c8735c337c6e275cf86694f
 - id: https://doi.org/10.48550/arXiv.2308.08577
   title: 'AffectEcho: Speaker Independent and Language-Agnostic Emotion and Affect
     Transfer for Speech Synthesis'

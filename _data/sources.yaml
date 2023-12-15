@@ -358,22 +358,25 @@
     - Robot navigation
     - Multiagent systems
     - Affective Computing
+    - Motion and Path Planning
 - id: https://doi.org/10.48550/arXiv.2309.10275 
   tags:
     - Multiagent systems
     - Path planning
     - Robot navigation
+    - Motion and Path Planning
 - id: https://doi.org/10.48550/arXiv.2309.17433 
   tags:
     - Multiagent systems
     - Path planning
     - Robot navigation
     - Resource optimization
+    - Motion and Path Planning
 - id: https://doi.org/10.48550/arXiv.2312.04806 
   tags:
     - 3D reconstruction
     - 3D synthesis
-    - generative modeling
+    - Generative modeling
 - id: https://doi.org/10.48550/arXiv.2211.16210 
   tags:
     - Pose Optimization
@@ -388,11 +391,13 @@
     - Robot navigation
     - Neural Operator
     - Stochastic modelling
+    - Motion and Path Planning
 - id: https://doi.org/10.48550/arXiv.2309.08896 
   tags:
     - Robot Navigation
     - Multiagent Systems
     - Neural Operator
+    - Motion and Path Planning
 - id: https://doi.org/10.48550/arXiv.2308.08577 
   tags:
     - Speech Synthesis
