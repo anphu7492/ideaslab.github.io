@@ -1199,3 +1199,149 @@
   - Multiagent systems
   - Affective Computing
   _cache: 95e09037069390e871c32dcf55c63a820d2839be5398095e3335192265e941d9
+- id: 10.48550/arXiv.2309.10275
+  title: Crowd-Aware Multi-Agent Pathfinding With Boosted Curriculum Reinforcement
+    Learning
+  authors:
+  - Phu Pham
+  - Aniket Bera
+  publisher: arXiv
+  date: '2023-01-01'
+  link: https://doi.org/gs83j7
+  tags:
+  - Multiagent systems
+  - Path planning
+  - Robot navigation
+  _cache: f6825279f214cc74a4a3d0dd697998699d6d4b2ffc53e908db3fa4a3266944e8
+- id: 10.48550/arXiv.2309.17433
+  title: 'DREAM: Decentralized Reinforcement Learning for Exploration and Efficient
+    Energy Management in Multi-Robot Systems'
+  authors:
+  - Dipam Patel
+  - Phu Pham
+  - Kshitij Tiwari
+  - Aniket Bera
+  publisher: arXiv
+  date: '2023-01-01'
+  link: https://doi.org/gs83j8
+  tags:
+  - Multiagent systems
+  - Path planning
+  - Robot navigation
+  - Resource optimization
+  _cache: 84405eb1c427790a21eb3c896e1415657b11075bcf2ac66b45f1682b221c5ba7
+- id: 10.48550/arXiv.2312.04806
+  title: 'RL Dreams: Policy Gradient Optimization for Score Distillation based 3D
+    Generation'
+  authors:
+  - Aradhya N. Mathur
+  - Phu Pham
+  - Aniket Bera
+  - Ojaswa Sharma
+  publisher: arXiv
+  date: '2023-01-01'
+  link: https://doi.org/gs83j9
+  tags:
+  - 3D reconstruction
+  - 3D synthesis
+  - generative modeling
+  _cache: 27333ca8803a281f2430c0e57ec2989b4a31783ee23d447a1cd1e08f242e4ef9
+- id: 10.48550/arXiv.2211.16210
+  title: 'PaCMO: Partner Dependent Human Motion Generation in Dyadic Human Activity
+    using Neural Operators'
+  authors:
+  - Md Ashiqur Rahman
+  - Jasorsi Ghosh
+  - Hrishikesh Viswanath
+  - Kamyar Azizzadenesheli
+  - Aniket Bera
+  publisher: arXiv
+  date: '2022-01-01'
+  link: https://doi.org/gs83kb
+  tags:
+  - Pose Optimization
+  - 3D Humans
+  - Neural Operator
+  _cache: 4eeaf502e0c86f043a38d6b6edac581347e78897d2fd86b8d6334cc595ca278b
+- id: 10.48550/arXiv.2211.10791
+  title: 'AdaFNIO: Adaptive Fourier Neural Interpolation Operator for video frame
+    interpolation'
+  authors:
+  - Hrishikesh Viswanath
+  - Md Ashiqur Rahman
+  - Rashmi Bhaskara
+  - Aniket Bera
+  publisher: arXiv
+  date: '2022-01-01'
+  link: https://doi.org/gs83kc
+  tags:
+  - Computer Vision
+  - Neural Operator
+  _cache: 75e4931980a86b5afda52e2a6608581acd5eff862accdbf740291b4db7eca85c
+- id: https://doi.org/10.48550/arXiv.2309.09137
+  title: Trajectory Prediction for Robot Navigation using Flow-Guided Markov Neural
+    Operator
+  authors:
+  - Rashmi Bhaskara
+  - Hrishikesh Viswanath
+  - Aniket Bera
+  publisher: arXiv
+  date: '2023-09-18'
+  link: http://arxiv.org/abs/2309.09137
+  tags:
+  - Robot navigation
+  - Neural Operator
+  - Stochastic modelling
+  _cache: e1b818a491c790751a9abc85abe152fbaeafa663910238b5f0057990e27b92a4
+- id: https://doi.org/10.48550/arXiv.2309.08896
+  title: Graph-based Decentralized Task Allocation for Multi-Robot Target Localization
+  authors:
+  - Juntong Peng
+  - Hrishikesh Viswanath
+  - Kshitij Tiwari
+  - Aniket Bera
+  publisher: arXiv
+  date: '2023-09-16'
+  link: http://arxiv.org/abs/2309.08896
+  tags:
+  - Robot Navigation
+  - Multiagent Systems
+  - Neural Operator
+  _cache: a98697643669ebd59fd86a8d16070cd71850c1d1368394a26fb06b65fba93db0
+- id: https://doi.org/10.48550/arXiv.2308.08577
+  title: 'AffectEcho: Speaker Independent and Language-Agnostic Emotion and Affect
+    Transfer for Speech Synthesis'
+  authors:
+  - Hrishikesh Viswanath
+  - Aneesh Bhattacharya
+  - "Pascal Jutras-Dub\xE9"
+  - Prerit Gupta
+  - Mridu Prashanth
+  - Yashvardhan Khaitan
+  - Aniket Bera
+  publisher: arXiv
+  date: '2023-08-16'
+  link: http://arxiv.org/abs/2308.08577
+  tags:
+  - Speech Synthesis
+  - Speech Affect modelling
+  - Neural Operator
+  _cache: 1ac03b6702270497bf6ddebaca4d19d1afc766db87276031b81483cda5de2951
+- id: https://doi.org/10.48550/arXiv.2301.13331
+  title: 'Neural Operator: Is data all you need to model the world? An insight into
+    the impact of Physics Informed Machine Learning'
+  authors:
+  - Hrishikesh Viswanath
+  - Md Ashiqur Rahman
+  - Abhijeet Vyas
+  - Andrey Shor
+  - Beatriz Medeiros
+  - Stephanie Hernandez
+  - Suhas Eswarappa Prameela
+  - Aniket Bera
+  publisher: arXiv
+  date: '2023-09-18'
+  link: http://arxiv.org/abs/2301.13331
+  tags:
+  - Neural Operator
+  _cache: 849b612d3920090138d390e4cc354da9f16abd9f5a02fa93065afcd0def099c1

@@ -358,3 +358,46 @@
     - Robot navigation
     - Multiagent systems
     - Affective Computing
+- id: 10.48550/arXiv.2309.10275 
+  tags:
+    - Multiagent systems
+    - Path planning
+    - Robot navigation
+- id: 10.48550/arXiv.2309.17433 
+  tags:
+    - Multiagent systems
+    - Path planning
+    - Robot navigation
+    - Resource optimization
+- id: 10.48550/arXiv.2312.04806 
+  tags:
+    - 3D reconstruction
+    - 3D synthesis
+    - generative modeling
+- id: 10.48550/arXiv.2211.16210 
+  tags:
+    - Pose Optimization
+    - 3D Humans
+    - Neural Operator
+- id: 10.48550/arXiv.2211.10791 
+  tags:
+    - Computer Vision
+    - Neural Operator
+- id: https://doi.org/10.48550/arXiv.2309.09137 
+  tags:
+    - Robot navigation
+    - Neural Operator
+    - Stochastic modelling
+- id: https://doi.org/10.48550/arXiv.2309.08896 
+  tags:
+    - Robot Navigation
+    - Multiagent Systems
+    - Neural Operator
+- id: https://doi.org/10.48550/arXiv.2308.08577 
+  tags:
+    - Speech Synthesis
+    - Speech Affect modelling
+    - Neural Operator
+- id: https://doi.org/10.48550/arXiv.2301.13331 
+  tags:
+    - Neural Operator
