@@ -7,9 +7,9 @@ aliases:
   - Xingpeng Sun
   - Xingpeng
 links:
-  home-page: https://xingpengs.github.io/
+  home-page: https://xingpengsun0.github.io/
   email: sun1223@purdue.edu
-  google-scholar: 
+  google-scholar: QcWcXQ4AAAAJ
   linkedin: xingpeng-sun-804563203
   twitter:
   facebook:
