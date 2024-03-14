@@ -12,8 +12,8 @@ links:
   twitter: hrishivish23
 ---
 
-I am a PhD student at IDEAS Lab. My research interests are to work on optimization of AI models, the integration of reliable AI methods into computer graphics, robotics and computer vision applications to accelerate their performance. Broadly put, I want to answer two important research questions – "How can we make AI more explainable and trustworthy?" and "How can we apply AI to solve problems that are difficult to solve using conventional methods?" 
+I am a PhD student at IDEAS lab. My research interests are to work on optimization of AI models for scientific Machine learning, the integration of physics informed AI models into computer graphics and robotics to accelerate their performance. Broadly put, I want to answer to important research questions - "How can AI be used in conjunction with classical methods to model physics?" and "How can principles of mechanics and physics be modelled in graphics and robotics?".
 
-I am currently exploring the applications of Physics informed Machine Learning techniques for realistic motion synthesis. 
+I am currently exploring physics informed neural architectures and stochastic approaches to model fluid behavior in a geometry agnostic and discretization agnostic manner to achieve atleast 5x the speedup compared to methods such as MPM, SPH and FEM.
 
-I have done multi-disciplinary research projects with various research groups. More recently I have worked on fairness analysis of Large pretrained Language Models at Purdue University, as part of my Master's research. I have also worked at ResconAI to design Neural Operator based architectures to solve Partial Differential Equations.
+I have done multi-disciplinary research projects with various research groups. More recently I have worked on fairness analysis of Large pretrained Language Models at Purdue University, as part of my Master’s research, with Dr. Tianyi Zhang. I have also worked at ResconAI, an MIT startup, to design Neural Operator based architectures to solve Partial Differential Equations.
