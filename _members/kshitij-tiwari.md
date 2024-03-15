@@ -2,13 +2,13 @@
 name: Kshitij Tiwari
 image: images/members/kshitij-tiwari.png
 description: Postdoctoral Researcher
-role: postdoc
+role: alumni
 aliases:
  - Kshitij Tiwari
  - Kshitij
 links:
  home-page: https://kshitijtiwari.com/
- email: tiwarik@purdue.edu
+ email: hi@kshitijtiwari.com
  google-scholar: BX68kiEAAAAJ
  linkedin: kshitijtiwari92
  twitter: kshitijtiwari92

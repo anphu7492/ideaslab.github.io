@@ -6,6 +6,7 @@ role: phd
 aliases:
   - Rishi
 links:
+  home-page: https://hrishikeshvish.github.io
   linkedin: hrishivish23
   email: hviswan@purdue.edu
   google-scholar: nzKRVqEAAAAJ

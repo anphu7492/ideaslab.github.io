@@ -65,9 +65,10 @@ IDEAS's research includes design and implementation of algebraic, geometric, and
 - [Pooja Guhan](https://www.cs.umd.edu/people/pguhan) (UMD, PhD co-advisor Prof. Aniket Bera)
 - [Niall Williams](https://www.cs.umd.edu/people/niallw) (UMD, PhD co-advisor Prof.  Aniket Bera)
 
-### Past Students (co-advised or co-supervised by Prof. Aniket Bera):
+### Alumni (co-advised or co-supervised by Prof. Aniket Bera):
 {:.left}
 
+- [Kshitij Tiwari](https://kshitijtiwari.com/) (Postdoc at Purdue)
 - [Rohan Chandra](https://www.cs.umd.edu/people/rchandr1) (UMD)
 - [Jiayi Xu (April)](https://www.linkedin.com/in/jiayixuu/) (UNC)
 - [Uttaran Bhattacharya](https://www.cs.umd.edu/~uttaranb/) (UMD)
