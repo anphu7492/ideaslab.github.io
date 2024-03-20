@@ -1,5 +1,6 @@
 ---
 title: "DroNeRF"
+redirect_from: "/research/dronerf/"
 ---
 
 # [DroNeRF: Real-time Multi-agent Drone Pose Optimization for Computing Neural Radiance Fields](https://arxiv.org/abs/2303.04322)

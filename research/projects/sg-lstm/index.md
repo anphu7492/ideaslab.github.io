@@ -1,5 +1,6 @@
 ---
 title: "SG-LSTM: Social Group LSTM for Robot Navigation Through Dense Crowds"
+redirect_from: "/research/sg-lstm/"
 ---
 
 # [SG-LSTM: Social Group LSTM for Robot Navigation Through Dense Crowds](https://arxiv.org/abs/2303.04320)
