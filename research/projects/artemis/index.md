@@ -1,6 +1,6 @@
 ---
 title: "Artemis"
-redirect_from: "/research/artemis"
+redirect_from: "/research/artemis/"
 ---
 
 <style type="text/css">

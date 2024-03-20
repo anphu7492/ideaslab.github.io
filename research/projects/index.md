@@ -1,5 +1,6 @@
 ---
 title: Research projects
+redirect_to: /
 ---
 
 #### Recent Publications
