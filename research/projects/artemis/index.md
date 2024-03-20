@@ -1,12 +1,13 @@
 ---
-title: "Dream"
+title: "Artemis"
+redirect_from: "/artemis"
 ---
 
 # [ARTEMIS: AI-driven Robotic Triage Labeling and Emergency Medical Information System](#abstract)
 
 
 <div class="embeded-video">
-    <iframe width="720" height="405" src="https://www.youtube.com/embed/35D7nB49-gA?si=rSU7il7n4LRoagK9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="720" height="405" src="https://www.youtube.com/embed/4FU4FRxNwmY?si=uBomhob13fTi9--T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ### Abstract
