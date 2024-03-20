@@ -1,12 +1,12 @@
 ---
 title: "Artemis"
-redirect_from: "/artemis"
+redirect_from: "/research/artemis"
 ---
 
 <style type="text/css">
   table td {
-    border: none;
-    padding: none;
+    border: none !important;
+    padding: none !important;
   }
 </style>
 
