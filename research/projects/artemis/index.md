@@ -23,24 +23,24 @@ ARTEMIS System Architecture: a Unitree Go1 quadruped to be used for collecting p
   <table>
     <tr>
       <td>
-        <img src="images/research/artemis/test.gif" alt="cars peace" style="width:100%;height:250px;"/>
+        <img src="/images/research/artemis/test.gif" alt="cars peace" style="width:100%;height:250px;"/>
       </td>
       <td>
-        <img src="images/research/artemis/test2.gif" alt="cars peace" style="width:90%;height:250px;margin-left:10px;"/>
+        <img src="/images/research/artemis/test2.gif" alt="cars peace" style="width:90%;height:250px;margin-left:10px;"/>
       </td>
       <td>
-        <img src="images/research/artemis/spot.gif" alt="cars peace" style="width:100%; height:250px; margin-left:-10px;"/>
+        <img src="/images/research/artemis/spot.gif" alt="cars peace" style="width:100%; height:250px; margin-left:-10px;"/>
       </td>
     </tr>
     <tr>
       <td>
-        <img src="images/research/artemis/test3.gif" alt="cars peace" style="width:100%; height:250px;"/>
+        <img src="/images/research/artemis/test3.gif" alt="cars peace" style="width:100%; height:250px;"/>
       </td>
       <td>
-        <img src="images/research/artemis/indoor.gif" alt="cars peace" style="width:90%;height:250px;margin-left:10px;"/>
+        <img src="/images/research/artemis/indoor.gif" alt="cars peace" style="width:90%;height:250px;margin-left:10px;"/>
       </td>
       <td>
-        <img src="images/research/artemis/zoom.gif" alt="cars peace" style="width:99%;margin-left:-10px;height:250px;"/>
+        <img src="/images/research/artemis/zoom.gif" alt="cars peace" style="width:99%;margin-left:-10px;height:250px;"/>
       </td>
     </tr>
   </table>
