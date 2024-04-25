@@ -67,15 +67,22 @@ Example of robot demo run with an external view of the robot moving
 (top) and a camera view from the robot’s perspective (bottom). The captures
 from what the robot is seeing are sent over to first responders via the GUI
 
-<!-- {:.left}
+### Dataset
+
+{:.left}
+To request Y-MED-SYN+ dataset, please contact the primary author, Mr. Revanth Krishna Senthilkumaran (senthilr@purdue.edu).
+
+{:.left}
 ### Citation
 
 {:.left}
 ```
-@article{patel2023dronerf,
-  title={DroNeRF: Real-time Multi-agent Drone Pose Optimization for Computing Neural Radiance Fields},
-  author={Patel, Dipam and Pham, Phu and Bera, Aniket},
-  journal={arXiv preprint arXiv:2303.04322},
-  year={2023}
+@article{senthilkumaran2024artemis,
+      title={ARTEMIS: AI-driven Robotic Triage Labeling and Emergency Medical Information System},
+      author={Revanth Krishna Senthilkumaran and Mridu Prashanth and Hrishikesh Viswanath and Sathvika Kotha and Kshitij Tiwari and Aniket Bera},
+      year={2024},
+      eprint={2309.08865},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO}
 }
-``` -->
+```

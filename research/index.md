@@ -17,7 +17,7 @@ IDEAS's research includes design and implementation of scientific algorithms and
 * [AI in Mental Health](/research/ai-mental-health)
 
 #### Recent Publications
-* [SG-LSTM: Social Group LSTM for Robot Navigation Through Dense Crowds](/research//projects/sg-lstm/)
+* [SG-LSTM: Social Group LSTM for Robot Navigation Through Dense Crowds](/research/projects/sg-lstm/)
 * [DroNeRF: Real-time Multi-agent Drone Pose Optimization for Computing Neural Radiance Fields](/research/projects/dronerf/)
 
 #### Previous Research
