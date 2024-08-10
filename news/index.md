@@ -11,6 +11,98 @@ nav:
     show-years="false"
     data="news"
 %} -->
+
+<div class="news-item">
+    <div class="date">{{ '2024-06-30' | date: "%d %b %Y" }}</div>
+    <div class="content">
+      IDEAS has <b>three papers accepted at IROS 2024</b>.
+      <ol>
+        <li>Adaptive Planning with Generative Models under Uncertainty (Pascal Jutras, Ruqi Zhang, Aniket Bera)</li>
+        <li>TrustNavGPT: Modeling Uncertainty to Improve Trustworthiness of Audio-Guided LLM-Based Robot Navigation (Xingpeng Sun, Yiran Zhang, Xindi Tang, Amrit Singh Bedi, Aniket Bera)</li>
+        <li>Optimizing Crowd-Aware Multi-Agent Path Finding through Local Communication with Graph Neural Networks (Phu Pham, Aniket Bera)</li>
+      </ol>
+    </div>
+</div>
+
+<div class="news-item">
+    <div class="date">{{ '2024-02-30' | date: "%d %b %Y" }}</div>
+    <div class="content">
+      IDEAS has <b>four full papers at CVPR 2024</b>.
+      <ol>
+        <li>DL3DV-10K: A Large-Scale Scene Dataset for Deep Learning-based 3D Vision (in collaboration with Adobe Research and Google)</li>
+        <li>Quantifying Uncertainty in Motion Prediction with Variational Bayesian Mixture</li>
+        <li>LaMPilot: An Open Benchmark Dataset for Autonomous Driving with Language Model Programs (in collaboration with Toyota)</li>
+        <li>Speech2UnifiedExpressions: Synchronous Synthesis of Co-Speech Affective Face and Body Expressions from Affordable Inputs (in collaboration with Adobe Research)</li>
+      </ol>
+    </div>
+</div>
+
+<div class="news-item">
+    <div class="date">{{ '2024-02-30' | date: "%d %b %Y" }}</div>
+    <div class="content">
+      IDEAS Lab published 5 papers in ICRA 2023 and IROS 2023.
+      <ol>
+        <li>SG-LSTM: Social Group LSTM for Robot Navigation Through Dense Crowds</li>
+        <li>DroNeRF: Real-time Multi-agent Drone Pose Optimization for Computing Neural Radiance Fields</li>
+        <li>RAIST: Learning Risk Aware Traffic Interactions via Spatio-Temporal Graph Convolutional Networks</li>
+        <li>EWareNet: Emotion Aware Human Intent Prediction and Adaptive Spatial Profile Fusion for Social Robot Navigation</li>
+        <li>AZTR:  Aerial Video Action Recognition with Auto Zoom and Temporal Reasoning</li>
+      </ol>
+    </div>
+</div>
+
+<div class="news-item">
+    <div class="date">{{ '2024-01-30' | date: "%d %b %Y" }}</div>
+    <div class="content">
+      Team JARVIS not only represented Purdue University for the first time at the finals of the prestigious NASA Suits competition but also brought home the "Pay it Forward" award for our exceptional team spirit and helping attitude!
+    </div>
+</div>
+
+<div class="news-item">
+    <div class="date">{{ '2024-01-30' | date: "%d %b %Y" }}</div>
+    <div class="content">
+      IDEAS has <b>one paper at AAAI 2024</b>.
+      <ol>
+        <li>DanceAnyWay: Synthesizing Beat-Guided 3D Dances With Randomized Temporal Contrastive Learning (Aneesh Bhattacharya, Manas Paranjape, Uttaran Bhattacharya, Aniket Bera)</li>
+      </ol>
+    </div>
+</div>
+
+<div class="news-item">
+    <div class="date">{{ '2024-01-20' | date: "%d %b %Y" }}</div>
+    <div class="content">
+      IDEAS Lab along with the Krach Institute for Tech Diplomacy at Purdue to develop a course on "Human-Machine Teaming" aimed toward the Krach Institute's mission to train government officials, business leaders, technologists, and the global foreign policy community.
+    </div>
+</div>
+
+<div class="news-item">
+    <div class="date">{{ '2024-01-20' | date: "%d %b %Y" }}</div>
+    <div class="content">
+      Organized Multi-modal Affective and Social Behavior Analysis and Synthesis in Extended Reality (MASSXR) workshop at IEEEVR 2024.
+    </div>
+</div>
+
+<div class="news-item">
+    <div class="date">{{ '2023-11-20' | date: "%d %b %Y" }}</div>
+    <div class="content">
+      IDEAS lab co-organized ACM SCA (Symposium of Computer Animation) 2023
+    </div>
+</div>
+
+<div class="news-item">
+    <div class="date">{{ '2023-11-20' | date: "%d %b %Y" }}</div>
+    <div class="content">
+      Our Lab IDEAS's Research on AI-driven Human-centric Robotics was recently featured by WRTV / ABC News
+    </div>
+</div>
+
+<div class="news-item">
+    <div class="date">{{ '2023-11-20' | date: "%d %b %Y" }}</div>
+    <div class="content">
+      Our Lab IDEAS's Research (and other industry and academic researchers working on this very necessary yet complicated AI for mental health space) discussed in NPR article
+    </div>
+</div>
+
 <div class="news-item">
     <div class="date">{{ '2023-06-21' | date: "%d %b %Y" }}</div>
     <div class="content">
