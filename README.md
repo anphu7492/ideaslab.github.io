@@ -62,3 +62,29 @@ How's our documentation?
 - Add more metadata in the `./auto-cite/references.xlsx
 - Run `python auto-cite/generate-source.py` to update the `_data/source.yaml` file
 - Run `python auto-cite/auto-cite.py` to update the `_data/citations.yaml` file
+
+
+## Build Site Locally
+Normally your site is built automatically on GitHub if you're using one of the standard workflows. But if you want to preview changes to your site before pushing them to your GitHub repo for all to see, you can follow these steps to build and run the site on your computer. Most people wont need or want to do this.
+
+1. Install Ruby v3+ (on Windows, use the installer and the recommended version with the Devkit).
+2. Install Bundler by running gem install bundler.
+3. Install Jekyll by running gem install jekyll.
+4. Go to the folder where you cloned your site, e.g. cd your-lab-website.
+5. Bundle the site by running bundle.
+6. Start the site by running `bundle exec jekyll serve --open-url --livereload --trace`.
+   
+If you're on Windows and getting errors, see this thread.
+
+The site should automatically open in a browser. Any changes you make should automatically rebuild the site and refresh the page, except for changes to _config.yaml which require re-running the start command.
+
+## Build Citations Locally
+Normally your citations are built automatically on GitHub if you're using one of the standard workflows. But if you want to preview changes to your citations before pushing them to your GitHub repo for all to see, or GitHub is having problems generating the citations, you can follow these steps to run the automatic citation process on your computer. Most people wont need or want to do this.
+
+1. Install Python (with PIP).
+2. Go to the folder where you cloned your site, e.g. `cd your-lab-website`.
+3. Install needed Python packages by running `python -m pip install --upgrade --requirement ./auto-cite/requirements.txt`.
+4. Add or change the desired sources/papers in `/_data/sources.yaml`.
+5. Generate citations by running `python ./auto-cite/auto-cite.py`.
+  
+Citations should be automatically generated and output to /_data/citations.yaml.
