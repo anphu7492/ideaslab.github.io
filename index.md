@@ -39,70 +39,72 @@ Some recent work includes combining these methods with machine learning, compute
 <div class="col-flex">
   <div class="col col-2 home-news">
     <div class="news-item">
-      <div class="date">{{ '2023-06-21' | date: "%d %b %Y" }}</div>
+      <div class="date">{{ '2024-06-30' | date: "%d %b %Y" }}</div>
       <div class="content">
-        Three IDEAS papers were accepted at <b>IROS 2023</b>! With this, in 2023, IDEAS published a total of five papers in the top robotics venues (ICRA+IROS)!
+        IDEAS has <b>three papers accepted at IROS 2024</b>.
       </div>
     </div>
-    
+
     <div class="news-item">
-      <div class="date">{{ '2023-05-30' | date: "%d %b %Y" }}</div>
+      <div class="date">{{ '2024-02-30' | date: "%d %b %Y" }}</div>
       <div class="content">
-        <b>Prof. Bera</b> awarded the Ross-Lynn Research Scholar Grant
+        IDEAS has <b>four full papers at CVPR 2024</b>.
       </div>
     </div>
-    
+
     <div class="news-item">
-      <div class="date">{{ '2023-05-30' | date: "%d %b %Y" }}</div>
+      <div class="date">{{ '2024-02-30' | date: "%d %b %Y" }}</div>
       <div class="content">
-        <a href="/coverage"><b>IDEAS robotics</b> covered by multiple media outlets like NPR, Bloomberg, ABC News, etc.</a>
+        IDEAS Lab published 5 papers in ICRA 2023 and IROS 2023.
       </div>
     </div>
-    
+
     <div class="news-item">
-      <div class="date">{{ '2023-02-13' | date: "%d %b %Y" }}</div>
+      <div class="date">{{ '2024-01-30' | date: "%d %b %Y" }}</div>
       <div class="content">
-        <b>IDEAS research</b>  was covered in <a href="https://www.purdue.edu/newsroom/releases/2023/Q1/youve-got-to-have-heart-computer-scientist-works-to-help-ai-comprehend-human-emotions.html">Purdue news</a>
+        Team JARVIS not only represented Purdue University for the first time at the finals of the prestigious NASA Suits competition but also brought home the "Pay it Forward" award for our exceptional team spirit and helping attitude!
       </div>
     </div>
+
     <div class="news-item">
-      <div class="date">{{ '2023-01-19' | date: "%d %b %Y" }}</div>
+      <div class="date">{{ '2024-01-30' | date: "%d %b %Y" }}</div>
       <div class="content">
-        <b>IDEAS research</b>  was covered in <a href="https://www.npr.org/sections/health-shots/2023/01/19/1147081115/therapy-by-chatbot-the-promise-and-challenges-in-using-ai-for-mental-health">NPR news</a>
+        IDEAS has <b>one paper at AAAI 2024</b>.
       </div>
     </div>
+
     <div class="news-item">
-      <div class="date">{{ '2023-01-06' | date: "%d %b %Y" }}</div>
+      <div class="date">{{ '2024-01-20' | date: "%d %b %Y" }}</div>
       <div class="content">
-        <b>Paper accepted at ICRA 2023</b> for
-        <i>EWareNet: Emotion Aware Human Intent Prediction and Adaptive Spatial Profile Fusion for Social Robot Navigation</i>
+        IDEAS Lab along with the Krach Institute for Tech Diplomacy at Purdue to develop a course on "Human-Machine Teaming".
       </div>
     </div>
+
     <div class="news-item">
-        <div class="date">{{ '2023-01-06' | date: "%d %b %Y" }}</div>
-        <div class="content">
-          <b>Paper accepted at ICRA 2023</b> for
-          <i>AZTR: Aerial Video Action Recognition with Auto Zoom and Temporal Reasoning</i>
-        </div>
-    </div>
-    <div class="news-item">
-        <div class="date">{{ '2022-11-05' | date: "%d %b %Y" }}</div>
-        <div class="content">
-          <b>Best Paper Award in ACM SIGGRAPH MIG 2022</b> for
-          <i>Learning Gait Emotions Using Affective and Deep Features</i>
-        </div>
-    </div>
-    <div class="news-item">
-      <div class="date">{{ '2022-09-15' | date: "%d %b %Y" }}</div>
+      <div class="date">{{ '2024-01-20' | date: "%d %b %Y" }}</div>
       <div class="content">
-        <b>Paper accepted at MIG 2022</b>
-        <i>(Learning Gait Emotions Using Affective and Deep Features)</i>
+        IDEAS organized Multi-modal Affective and Social Behavior Analysis and Synthesis in Extended Reality (MASSXR) workshop at IEEEVR 2024.
       </div>
     </div>
+
     <div class="news-item">
-      <div class="date">{{ '2022-08-20' | date: "%d %b %Y" }}</div>
+      <div class="date">{{ '2023-11-20' | date: "%d %b %Y" }}</div>
       <div class="content">
-        <b>Paper accepted at WACV 2023 </b> (Placing Human Animations into 3D Scenes by Learning Interaction- and Geometry-Driven Keyframes)
+        IDEAS lab co-organized ACM SCA (Symposium of Computer Animation) 2023
+      </div>
+    </div>
+
+    <div class="news-item">
+      <div class="date">{{ '2023-11-20' | date: "%d %b %Y" }}</div>
+      <div class="content">
+        Our Lab IDEAS's Research on AI-driven Human-centric Robotics was recently featured by WRTV / ABC News
+      </div>
+    </div>
+
+    <div class="news-item">
+      <div class="date">{{ '2023-11-20' | date: "%d %b %Y" }}</div>
+      <div class="content">
+        Our Lab IDEAS's Research (and other industry and academic researchers working on this very necessary yet complicated AI for mental health space) discussed in NPR article
       </div>
     </div>
     
