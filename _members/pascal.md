@@ -11,6 +11,4 @@ links:
  twitter: 
 ---
 
-I am interested in studying how data can be leveraged to model, predict, and replicate humain behaviors, and in particular their affective dispositions, in order to improve interactions between human and computers and ultimately augment interactions between humans. 
- 
-I have a bachelor's degree in mathematics and computer science from University of Montreal and I studied population synthesis during my master's degree in computer science at the same school.
+My research interests lie broadly in deep learning and generative modeling. Currently, I am focused on developing efficient sampling techniques using diffusion processes. I am also interested in applying generative models for planning.

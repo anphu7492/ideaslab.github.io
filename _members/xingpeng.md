@@ -15,6 +15,4 @@ links:
   facebook:
 ---
 
-Xingpeng is a Ph.D. Student in the Department of Computer Science at Purdue University. He is broadly interested in artificial intelligence and machine learning. His current research is on social robotics and the challenges arise in this exciting field.
-
-Before coming to Purdue, he obtained B.S. in Computer Science and Mathematics at University of Wisconsin-Madison.
+Xingpeng is a Ph.D. student in the Department of Computer Science at Purdue University. Prior to joining Purdue, he earned a B.S. in Computer Science and Mathematics from the University of Wisconsin-Madison. His research focuses on large language models, vision-language models, embodied AI, and AI-generated content (AIGC). For the latest updates, please visit his homepage.
