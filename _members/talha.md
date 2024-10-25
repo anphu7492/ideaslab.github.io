@@ -2,7 +2,7 @@
 name: S. Talha Bukhari
 description: PhD Student
 image: images/members/talha.jpg
-role: PhD Student
+role: phd
 aliases:
   - Talha
 links:
