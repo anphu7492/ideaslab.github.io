@@ -14,7 +14,7 @@ Our work is made possible by funding from several organizations.
 {%
   include gallery.html
   style="rect"
-  image1="images/funding/arl.png"
+  image1="images/funding/ARL.png"
   tooltip1="Army Research Laboratory"
 
   image2="images/funding/BBI.png"
@@ -37,4 +37,7 @@ Our work is made possible by funding from several organizations.
 
   image8="images/funding/nsf.png"
   tooltip8="National Science Foundation"
+
+  image8="images/funding/Adobe.png"
+  tooltip8="Adobe Research"
 %}
