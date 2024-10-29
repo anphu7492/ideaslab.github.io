@@ -1,7 +1,7 @@
 ---
 name: Apoorva Vashisth
 description: PhD Student
-image: /images/members/vashista.png
+image: /images/members/vashista.jpg
 role: phd
 aliases:
   - Apoorva
