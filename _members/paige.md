@@ -7,7 +7,7 @@ aliases:
   - Paige
 links:
   home-page:
-  linkedin: https://www.linkedin.com/in/paige-bryan/
+  linkedin: paige-bryan
   email: pbryan@purdue.edu
   google-scholar:
   twitter:
