@@ -10,7 +10,7 @@ links:
   home-page: 
   email: 
   google-scholar: 
-  linkedin: https://www.linkedin.com/in/jason-fotso/
+  linkedin: jason-fotso
 ---
 
 Jason Alexander Fotso-Puepi is a PhD Student in Computer Science with a research focus on generative extended reality, including both augmented and virtual reality environments. 
