@@ -12,12 +12,23 @@ nav:
 {% include section.html full=false %}
 # Welcome to IDEAS Lab
 {:.bigger}
-Welcome to the interdisciplinary research lab, [**IDEAS**](/) (*Intelligent Design for Empathetic and Augmented Systems*) at Purdue Computer Science. Our research includes the design and implementation of scientific algorithms leveraging the “human in the loop” and their applications to robotics, computer graphics, AI, virtual environments, augmented intelligence, pedestrian and crowd dynamics, and medical / healthcare research.
+Welcome to the interdisciplinary research lab, IDEAS (Intelligent Design for Exploration and Augmented Systems), housed within Purdue Computer Science. Our lab is dedicated to advancing state-of-the-art in robotics, computer vision, AI, and virtual environments. Our research bridges multiple domains, with a strong emphasis on leveraging human-centered insights and machine intelligence to tackle real-world challenges in robotics, computer vision/graphics, and artificial intelligence.
 
-Our research also focuses on building embodied computational models of human behaviors, and developing component algorithms of an intelligent agent (from sensing, to decision-making, to actuating). Our long-term research goal is to create engaging, socially intelligent agents that can interact with humans in innovative ways through expressive multi-modal interaction.
+####  Research Themes
+{:.bigger}
+Our research spans the following key areas:
+1. **Motion Planning**: We develop advanced motion planning algorithms that address real-world challenges, including navigating difficult terrains, dynamic obstacle avoidance, and multi-agent coordination. Our approaches integrate geometric methods with learning-based models to enable autonomous systems, such as ground and aerial robots, to operate robustly in complex and unstructured environments.
+2. **Neural Models for Planning and Prediction**: Leveraging physics-informed neural networks and generative models, we focus on enhancing the adaptability and decision-making of intelligent agents. This includes designing algorithms for planning under uncertainty, modeling human behaviors, and predicting motions in dynamic and interactive settings.
+3. **Computer Vision and Graphics**: Our lab also works on computer vision and graphics through projects in human motion generation, scene generation, 3D modeling, and generative models. This includes synthesizing realistic human movements for character animation, reconstructing 3D environments from multimodal sensor data, and generating immersive virtual scenes for applications in VR/AR and autonomous systems.
+4. **Human-Agent Interaction and Simulation**: We also work on embodied computational models of human behavior, enabling agents to understand and predict human intent, behaviors, and social dynamics. These agents can engage in expressive, multi-modal interactions in virtual environments, robotics, and real-world human-machine collaboration scenarios.
+5. **Field and Aerial Robotics**: Our lab addresses the challenges of deploying robots in diverse operational domains, from field robotics that navigate rugged terrain to aerial systems for surveillance, delivery, and exploration. We combine reinforcement learning, computer vision, and physics-based modeling to enhance autonomy and situational awareness in these systems.
+6. **Generative AI and Machine Learning**: We explore generative AI models for tasks such as motion synthesis, environmental modeling, and data augmentation. This includes employing diffusion models and other generative techniques to create realistic simulations, support planning in complex environments, and design virtual agents for interactive applications.
 
-Some recent work includes combining these methods with machine learning, computer vision, and physically-based modeling for Multi-Agent Dynamics, Heterogenous Robotics, Autonomous Driving, Affective Computing and Virtual Reality. In addition to publishing papers at the leading venues, we have a long history of developing software packages and transitioning our technology into industrial products.
+#### Mission and Long-Term Goals
+{:.bigger}
+Our mission is to develop intelligent systems that seamlessly integrate sensing, decision-making, and actuation to navigate and interact with complex, dynamic environments. Our research enables AI, robotics, and virtual agents to better understand human behavior and intent, fostering collaborative and socially aware interactions. These technologies have transformative implications for industries such as healthcare, transportation, entertainment, and defense.
 
+We aim to ensure our research has both academic impact and practical utility. Our lab's innovations have led to advancements in human-robot collaboration, multi-agent systems, autonomous driving, and immersive virtual environments.
 
 {% include list.html component="card" data="tools" filters="group: home-thumbnails" style="medium" class="thumbnails md-3" %}
 
