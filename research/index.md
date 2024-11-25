@@ -10,10 +10,10 @@ nav:
 IDEAS's research includes design and implementation of scientific algorithms and their applications to computer graphics, robotics, virtual environments, pedestrian dynamics, and mental health research. In addition to publishing papers at the leading venues, we have a long history of developing software packages and transitioning our technology into industrial products. Current and previous areas of research are highlighted below:
 
 #### Current Research
-* [Affective Computing (Perception and Prediction)](/research/affective)
-* [Metaverse and AR/VR](/research/metaverse/)
+* [Robotics: Single and Multi-Robot Motion Planning](/research/robotics)
+* [3D Human Motion Generation and Multi-Modal Perception/Vision](/research/affective)
+* [Metaverse, VR Locomotion and 3D Character Generation](/research/metaverse/)
 <!-- * [Computer Graphics](/research/graphics) -->
-* [Robotics: Single and Multi-Robot Motion Planning, Social Robotics](/research/robotics)
 * [AI in Mental Health](/research/ai-mental-health)
 
 #### Recent Publications
