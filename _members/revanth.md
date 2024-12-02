@@ -18,4 +18,4 @@ Revanth Krishna Senthilkumaran is an Undergraduate student pursuing a Bachelor's
 
 His research interests include Perception, Locomotion and Gait Control, Human-centered Robotics and Manipulation and Unmanned Aerial Systems. Currently, he is advised by Prof. Aniket Bera of the IDEAS Laboratory at Purdue University. In 2023, advised by Prof. Byung-Cheol Min, his work titled "UPPLIED: UAV Path Planning for Inspection through Learning from Demonstration" was published in IEEE-IROS 2023. 
 
-Revanth wants to pursue a PhD program in Robotics and Embedded Software upon completion of his B.S. from Purdue and is currently working towards it with his works in IDEAS Laboratory.
+Revanth wants to pursue a PhD program in Robotics completion of his B.S. from Purdue.
