@@ -22,15 +22,10 @@ redirect_from: "/research/simmotionedit/"
 %}
 </div>
 
-
-
 ### Abstract
-{:.left}
 Text-based 3D human motion editing is a critical yet challenging task in computer vision and graphics. While training-free approaches have been explored, the recent release of the MotionFix dataset, which includes source-text-motion triplets, has opened new avenues for training, yielding promising results. However, existing methods struggle with precise control, often leading to misalignment between motion semantics and language instructions. In this paper, we introduce a related task, motion similarity prediction, and propose a multi-task training paradigm, where we train the model jointly on motion editing and motion similarity prediction to foster the learning of semantically meaningful representations. To complement this task, we design an advanced Diffusion-Transformer-based architecture that separately handles motion similarity prediction and motion editing. Extensive experiments demonstrate the state-of-the-art performance of our approach in both editing alignment and fidelity.
 
 <img src="./teaser.png" alt="artemis" style="zoom:50%;" />
-
-{:.left}
 
 ### Method
 
@@ -42,7 +37,7 @@ We illustrate our network architecture, the Motion Diffusion Transformer, in (a)
 
 ![artemis](./pipeline.png)
 
-### Performance
+### Qualitative Results
 
 <span style="color:blue;">blue</span> = source motion
 
@@ -94,11 +89,54 @@ We illustrate our network architecture, the Motion Diffusion Transformer, in (a)
         <img src="001964-crop.gif" alt="cars peace" />
       </td>
     </tr>
+       <tr>
+      <td>
+        <span style="font-weight:bold;">do it slower and with the arm raised lower</span>
+      </td>
+      <td>
+        <span style="font-weight:bold;">don't run and move slower</span>
+      </td>
+      <td>
+          <span style="font-weight:bold;">don't walk before going down turn 90 degrees to your left at the end of the whole motion</span>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="750-crop.gif" alt="cars peace" width="250" />
+      </td>
+      <td>
+        <img src="2358-crop.gif" alt="cars peace"/>
+      </td>
+      <td>
+        <img src="4682-crop.gif" alt="cars peace" />
+      </td>
+    </tr>
   </table>
 </div>
 
+##### Failure Cases
 
-
+<div class="column is-centered has-text-centered">
+  <table>
+      <tr>
+      <td>
+        <span style="font-weight:bold;">move slower backwards and front kick with left leg</span>
+      </td>
+      <td>
+        <span style="font-weight:bold;">from the previous position, do the following and return back : move right hand up, left hand left, right hand up, both hands forward, right hand forward, clap
+</span>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="2823-failure-crop.gif" alt="cars peace"/>
+      </td>
+      <td>
+        <img src="5575-failure-crop.gif" alt="cars peace"/>
+      </td>
+      </tr>
+  </table>
+</div>
 
 ### Citation
 
