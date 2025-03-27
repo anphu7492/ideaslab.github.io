@@ -17,7 +17,7 @@ redirect_from: "/research/simmotionedit/"
   type="github"
   icon=""
   text="Code"
-  link="https://github.com/lzhyu/SimMotionEdit"
+  link="lzhyu/SimMotionEdit"
   style="button"
 %}
 </div>
