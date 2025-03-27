@@ -11,6 +11,7 @@ redirect_from: "/research/simmotionedit/"
 </style>
 # SimMotionEdit: Text-Based Human Motion Editing with Motion Similarity Prediction
 
+<div class="button-wrapper center">
  {%
   include link.html
   type="github"
@@ -19,7 +20,7 @@ redirect_from: "/research/simmotionedit/"
   link="https://github.com/lzhyu/SimMotionEdit"
   style="button"
 %}
-
+</div>
 
 
 
