@@ -25,7 +25,9 @@ redirect_from: "/research/simmotionedit/"
 ### Abstract
 Text-based 3D human motion editing is a critical yet challenging task in computer vision and graphics. While training-free approaches have been explored, the recent release of the MotionFix dataset, which includes source-text-motion triplets, has opened new avenues for training, yielding promising results. However, existing methods struggle with precise control, often leading to misalignment between motion semantics and language instructions. In this paper, we introduce a related task, motion similarity prediction, and propose a multi-task training paradigm, where we train the model jointly on motion editing and motion similarity prediction to foster the learning of semantically meaningful representations. To complement this task, we design an advanced Diffusion-Transformer-based architecture that separately handles motion similarity prediction and motion editing. Extensive experiments demonstrate the state-of-the-art performance of our approach in both editing alignment and fidelity.
 
-<img src="./teaser.png" alt="artemis" style="zoom:50%;" />
+<div class="is-centered">
+  <img src="./teaser.png" alt="motionedit" style="zoom:50%;" />
+</div>
 
 ### Method
 
