@@ -12,6 +12,14 @@ redirect_from: "/research/simmotionedit/"
 # SimMotionEdit: Text-Based Human Motion Editing with Motion Similarity Prediction
 
 <div class="button-wrapper center">
+  {%
+    include link.html
+    type=""
+    icon="fa-file-pdf fa-solid"
+    text="Paper"
+    link="https://arxiv.org/abs/2503.18211"
+    style="button"
+  %}
  {%
   include link.html
   type="github"
