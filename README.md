@@ -68,10 +68,10 @@ How's our documentation?
 Normally your site is built automatically on GitHub if you're using one of the standard workflows. But if you want to preview changes to your site before pushing them to your GitHub repo for all to see, you can follow these steps to build and run the site on your computer. Most people wont need or want to do this.
 
 1. Install Ruby v3+ (on Windows, use the installer and the recommended version with the Devkit).
-2. Install Bundler by running `gem install bundler`.
-3. Install Jekyll by running `gem install jekyll`.
-4. Go to the folder where you cloned your site, e.g. cd your-lab-website.
-5. Bundle the site by running bundle.
+2. Install Bundler by running `gem install bundler` (might need `sudo`).
+3. Install Jekyll by running `gem install jekyll` (might need `sudo`).
+4. Go to the folder where you cloned your site, e.g. `cd /path/to/ideas.github.io`.
+5. Bundle the site by running `bundle`.
 6. Start the site by running `bundle exec jekyll serve --open-url --livereload --trace`.
    
 If you're on Windows and getting errors, see this thread.
